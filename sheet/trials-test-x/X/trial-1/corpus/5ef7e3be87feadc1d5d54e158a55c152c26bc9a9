@@ -1,0 +1,4 @@
+#sheet v1
+D3 = 42.4 / IF(TRUE / FALSE + -FALSE & 4 & TRUE / --TRUE * -"" - -COUNT(TRUE), A2:B2, C2:C1) - -D3 + ---------"i" * IF(C4:A3, TRUE * -FALSE / -FALSE * --FALSE / 45 / D4) <> -FALSE
+B2 = "T" < FALSE * FALSE
+A3 = ----4 / -(-FALSE >= -TRUE) & C4 * --(TRUE * FALSE) * -"" & --TRUE - ---TRUE - (-(TRUE > FALSE) + 689 <> --FALSE * FALSE & ----FALSE) * "EQ" + -LEN(B1:C1, FALSE / --TRUE)

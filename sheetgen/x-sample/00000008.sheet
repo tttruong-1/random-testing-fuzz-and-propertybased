@@ -1,0 +1,5 @@
+#sheet v1
+
+
+
+A2 = (TRUE * 6 + 9.9 + FALSE * -TRUE * -3 / --"" & FALSE & -TRUE * -LEN() / FALSE * -A3 * COUNT(TRUE < FALSE) <> (TRUE <> FALSE) * A1 & (TRUE & TRUE + FALSE * TRUE <= FALSE / TRUE) & (FALSE - FALSE + FALSE * TRUE - TRUE * TRUE * FALSE))

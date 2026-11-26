@@ -1,0 +1,2 @@
+#sheet v1
+C1 = ---"m" - B4 + --81.49 / "g" / ---FALSE & TRUE <= ----LEN() / --B1 * ---"Gt" / AVERAGE() * 9 * A2 * MAX(C1:A3, C3:D3)

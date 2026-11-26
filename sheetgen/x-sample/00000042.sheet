@@ -1,0 +1,2 @@
+#sheet v1
+B4 = ---(FALSE - "" < -"q") - LEN() == -AVERAGE(A1:C1, A1:D2) * FALSE & D1

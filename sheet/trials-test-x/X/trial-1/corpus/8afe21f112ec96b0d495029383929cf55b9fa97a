@@ -1,0 +1,5 @@
+#sheet v1
+
+# a comment
+A3 = TRUE / FALSE + FALSE * FALSE * -TRUE + -FALSE / -TRUE & -TRUE / --TRUE - FALSE * FALSE / -TRUE / A1 / -C2 & (FALSE - FALSE) / -C4 + -(FALSE <= FALSE) + TRUE * -"S" & -TRUE + ("" - ---FALSE) / 4.1 & -------(FALSE) - (-FALSE * TRUE * FALSE - --FALSE / --TRUE / (TRUE & TRUE <> FALSE) - -TRUE / 3 / "" / -TRUE / MAX() + -IF()) & 1 <= (B1 / TRUE & --TRUE & -96 / FALSE & -COUNT() >= 333)
+C2 = -FALSE + -B3 + --TRUE * FALSE & TRUE / --LEN() + --D2 * 6 & A3 + AVERAGE() * --TRUE * "7" + A3 / -----SUM() / (-MAX()) * "" * ---TRUE <= 5 - (FALSE <> FALSE) & --7 - TRUE / FALSE / TRUE / "" / -CONCAT() * (FALSE) * B3 - FALSE * --"" / ----C3 & ---FALSE * -FALSE - ---594 + --TRUE * ----FALSE * CONCAT(TRUE, FALSE, TRUE) * 5 * B2 / -----TRUE / --"" + (--TRUE * SUM() / 9) & ""

@@ -1,0 +1,3 @@
+#sheet v1
+A3 = -ROUND(A2:D1) * MIN(D4:A4) + --(IF(TRUE) <> -TRUE / -TRUE - "" & -A3) + -(FALSE / TRUE / FALSE - TRUE * -TRUE / TRUE - --TRUE + TRUE / -TRUE * SUM() * -(FALSE) / COUNT(FALSE, FALSE) + --FALSE / FALSE / (FALSE * FALSE <> TRUE * TRUE)) / -MIN() & -"EFe" / FALSE + -FALSE / "viKV" / (--MIN() * ---(FALSE) * -"" * -TRUE <> --MIN(FALSE) * SUM() + ---9.3) * ---B1
+# a comment

@@ -1,0 +1,2 @@
+#sheet v1
+A1 = ROUND(TRUE * --FALSE + COUNT(FALSE) < --TRUE / SUM(FALSE), D2:C3) - -FALSE + FALSE / -D2 * -FALSE + COUNT() * ---CONCAT(A3:D2, FALSE + TRUE > TRUE, TRUE < FALSE, TRUE, FALSE) / (TRUE * TRUE * FALSE / 1 & SUM() * LEN() - ROUND() + AVERAGE(TRUE, FALSE) * --FALSE + -"" & -FALSE <= "" / TRUE & -"" * TRUE + FALSE * -(TRUE) / B1 * --TRUE - ------TRUE / TRUE) / -CONCAT(B4:A1, A2:D1, A4:C4) / C1 > -"" + ---C2 / TRUE * ---TRUE * COUNT(B1:B2, B3 * ---FALSE * (FALSE), -CONCAT(), B2:B1)

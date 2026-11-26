@@ -1,0 +1,5 @@
+#sheet v1
+
+C1 = -TRUE - -A1 == FALSE + TRUE
+
+D2 = ---(3) * 3.67 <> ---LEN() * 01 & C3

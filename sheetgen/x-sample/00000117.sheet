@@ -1,0 +1,2 @@
+#sheet v1
+B3 = "tW" / "Z" / IF(D3:D2) * LEN() * "a" & ROUND(-(FALSE & FALSE) > A4 + -"", "" * -0, A3 <= -FALSE) * -D3

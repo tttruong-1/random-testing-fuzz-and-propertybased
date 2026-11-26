@@ -1,0 +1,2 @@
+#sheet v1
+B3 = -(FALSE / TRUE / FALSE / C4 / "" / --(FALSE) / "T" / LEN(B3:B4) * -"tt" * TRUE) >= --FALSE / -(TRUE * TRUE - FALSE / TRUE + -FALSE / -MAX() - -(TRUE) & (FALSE + TRUE - FALSE < FALSE) > FALSE * FALSE * TRUE + --FALSE + FALSE / FALSE / -FALSE / -TRUE & MIN() + -TRUE) + FALSE & A4 + --IF(B2:B1)

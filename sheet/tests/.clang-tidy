@@ -1,0 +1,8 @@
+---
+# Test registration macros define static functions and globals by design.
+InheritParentConfig: true
+Checks: >
+  -misc-use-anonymous-namespace,
+  -bugprone-exception-escape,
+  -cppcoreguidelines-avoid-non-const-global-variables,
+...

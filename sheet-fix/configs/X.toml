@@ -1,0 +1,5 @@
+name = "X"
+kind = "generator"
+trials = 5
+duration_s = 1800
+generator = ["uv", "run", "--project", "../sheetgen", "sheetgen", "x"]

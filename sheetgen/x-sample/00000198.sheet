@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+
+A1 = "" / -TRUE * (TRUE - TRUE >= TRUE) / TRUE / --FALSE / A2 * -("") * -AVERAGE() + -LEN() * MIN(FALSE * D3) + --FALSE & C1
+# a comment
+# a comment

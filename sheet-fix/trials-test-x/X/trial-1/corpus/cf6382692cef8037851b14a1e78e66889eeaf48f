@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+B2 = "" & "" <> TRUE / -A1 * -FALSE
+
+
+C4 = TRUE * -IF(C2:B2, TRUE) + -83

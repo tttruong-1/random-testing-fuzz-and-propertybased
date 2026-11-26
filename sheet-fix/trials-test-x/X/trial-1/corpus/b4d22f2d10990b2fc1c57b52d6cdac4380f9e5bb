@@ -1,0 +1,4 @@
+#sheet v1
+A3 = TRUE + -TRUE / ----TRUE
+# a comment
+C1 = -TRUE + --TRUE

@@ -1,0 +1,7 @@
+#sheet v1
+# a comment
+C4 = -8.7 * ----FALSE / (-(FALSE) * 7.82 / TRUE * -C2)
+B2 = --(-FALSE * -3 / -TRUE)
+# a comment
+
+C3 = SUM(D2:D3, TRUE) * TRUE * FALSE * -COUNT(TRUE) & "" * 2 * -"lD" <= 5 / CONCAT(C4:A2) - -(TRUE / FALSE / -TRUE / -TRUE) / -B1

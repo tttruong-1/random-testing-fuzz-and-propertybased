@@ -1,0 +1,5 @@
+#sheet v1
+
+A2 = ---B2 <> "" / -------TRUE * -1 / -"" / A3
+
+A3 = 2.34464 * 64 / C2 / -86.233 + -C2 <= 78.152 * (TRUE / TRUE / TRUE - -TRUE * "" - C2 * 8.9) / (---TRUE - FALSE * -FALSE > -TRUE * (FALSE) + TRUE / FALSE * TRUE / --TRUE / ---TRUE - C4) + -TRUE / -5 / ROUND(TRUE, FALSE) * TRUE / "" / MAX(B1:D2) / -6.1 * "PA" * ----D2 - -(A1) * B3

@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+
+A1 = --4 * ""
+# a comment
+B4 = D3 * FALSE / --TRUE - "" / "" / --8616 * FALSE / ((FALSE) / --FALSE / --(TRUE) & FALSE >= FALSE / TRUE + TRUE * FALSE * -TRUE * --FALSE & TRUE * -TRUE * --FALSE * -FALSE & TRUE / --5 + 3 * -"" * "")

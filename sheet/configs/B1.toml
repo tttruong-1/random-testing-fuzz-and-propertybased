@@ -1,0 +1,6 @@
+# Byte-level fuzzing from the provided seed corpus.
+name = "B1"
+kind = "libfuzzer"
+trials = 5
+duration_s = 1800
+extra_args = ["-dict=sheet.dict"]

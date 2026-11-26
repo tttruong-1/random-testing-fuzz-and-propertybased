@@ -1,0 +1,3 @@
+#sheet v1
+D1 = -5.1 == C2 / -B2 / (----FALSE * ---FALSE * --"" & C1 * ---SUM(B1:C2) <= -TRUE + FALSE & ---TRUE * -ROUND() + ----TRUE / -"" & FALSE / TRUE * -TRUE * FALSE * ROUND(TRUE) * -COUNT(TRUE) / --TRUE * ---FALSE + (-FALSE - FALSE / FALSE * B3) + A4) * -TRUE
+# a comment

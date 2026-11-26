@@ -1,0 +1,6 @@
+#sheet v1
+S6 = "ci"
+# a comment
+# a comment
+O36 = (--FALSE * --TRUE / ---FALSE & -"" * MIN() > D50) + -FALSE * COUNT(F2:D235, O27:MPMM12)
+# a comment

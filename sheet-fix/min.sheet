@@ -1,0 +1,3 @@
+#sheet v1
+A1=1
+B1=CONCAT(A1:A3)

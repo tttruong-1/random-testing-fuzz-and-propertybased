@@ -1,0 +1,2 @@
+#sheet v1
+A1 = ----ROUND(A2:D2, FALSE - FALSE & TRUE * TRUE >= TRUE * TRUE) * --CONCAT(A1:A2, -"")

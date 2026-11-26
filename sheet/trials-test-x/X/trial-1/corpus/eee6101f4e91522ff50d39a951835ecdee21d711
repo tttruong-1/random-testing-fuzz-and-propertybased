@@ -1,0 +1,2 @@
+#sheet v1
+D2 = --MAX(FALSE * TRUE / FALSE / TRUE / TRUE, D1:C1) + -FALSE * COUNT((FALSE / -TRUE <= FALSE * -FALSE) > "w" * -TRUE / --(FALSE))

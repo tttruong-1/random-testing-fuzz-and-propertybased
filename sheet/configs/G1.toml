@@ -1,0 +1,6 @@
+# The naive grammar generator, batches merged through the fuzzer binary.
+name = "G1"
+kind = "generator"
+trials = 5
+duration_s = 1800
+generator = ["uv", "run", "--project", "../sheetgen", "sheetgen", "adapted"]

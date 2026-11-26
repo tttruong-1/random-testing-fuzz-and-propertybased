@@ -1,0 +1,3 @@
+#sheet v1
+A4 = CONCAT() > ((TRUE) * SUM(TRUE, FALSE) * (TRUE & FALSE + FALSE) + ----CONCAT() - TRUE & -30.71 * ----B4 == "") + "FS"
+

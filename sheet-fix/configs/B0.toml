@@ -1,0 +1,5 @@
+# Byte-level fuzzing from the provided seed corpus.
+name = "B0"
+kind = "libfuzzer"
+trials = 5
+duration_s = 1800

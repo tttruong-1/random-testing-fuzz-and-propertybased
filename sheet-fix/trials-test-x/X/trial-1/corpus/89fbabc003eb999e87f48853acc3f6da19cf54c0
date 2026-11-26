@@ -1,0 +1,4 @@
+#sheet v1
+C3 = -007969.8562958 * FALSE - "D7" & -A4 - D1 * -FALSE / "" * 15.6 / IF() / TRUE * A1
+
+A3 = CONCAT(ROUND() < FALSE / TRUE / -TRUE + --TRUE) & TRUE + --68.63 * (-"T") >= 41.660393

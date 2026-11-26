@@ -1,0 +1,8 @@
+from pathlib import Path
+from sheetanalysis.load import load_trials
+from sheetanalysis.stats import mann_whitney
+
+df = load_trials("../sheet/trials").sort("time_s").group_by("config", "trial").last()
+g1 = df.filter(df["config"] == "G1")["edges"].to_list()
+g0 = df.filter(df["config"] == "G0")["edges"].to_list()
+print(mann_whitney(g1, g0))

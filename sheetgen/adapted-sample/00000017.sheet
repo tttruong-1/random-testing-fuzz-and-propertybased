@@ -1,0 +1,4 @@
+#sheet v1
+
+
+B3 = FALSE <= IF(D3:B3)

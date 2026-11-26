@@ -1,0 +1,7 @@
+build/
+trials/
+*.profraw
+*.profdata
+crash-*
+timeout-*
+oom-*

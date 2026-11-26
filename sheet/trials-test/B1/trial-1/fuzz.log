@@ -1,0 +1,2 @@
+$ build/fuzz/fuzz_sheet trials-test/B1/trial-1/corpus -fork=1 -ignore_crashes=1 -ignore_timeouts=1 -ignore_ooms=1 -reduce_inputs=0 -timeout=2 -max_total_time=60 -seed=1 -artifact_prefix=trials-test/B1/trial-1/artifacts/ -dict=sheet.dict
+ParseDictionaryFile: file does not exist or is empty

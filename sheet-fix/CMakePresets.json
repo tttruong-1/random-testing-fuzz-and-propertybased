@@ -1,0 +1,99 @@
+{
+  "version": 6,
+  "cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 28,
+    "patch": 0
+  },
+  "configurePresets": [
+    {
+      "name": "base",
+      "hidden": true,
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/${presetName}",
+      "cacheVariables": {
+        "CMAKE_CXX_COMPILER": "clang++",
+        "CMAKE_BUILD_TYPE": "RelWithDebInfo",
+        "CMAKE_CXX_FLAGS_RELWITHDEBINFO": "-O1 -g"
+      }
+    },
+    {
+      "name": "dev",
+      "inherits": "base",
+      "displayName": "Development: tests with ASan, UBSan and library hardening",
+      "cacheVariables": {
+        "CMAKE_CXX_FLAGS": "-fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined"
+      }
+    },
+    {
+      "name": "fuzz",
+      "inherits": "base",
+      "displayName": "Fuzzing: libFuzzer harness with ASan, UBSan and hardening",
+      "cacheVariables": {
+        "CMAKE_CXX_FLAGS": "-fno-omit-frame-pointer -fsanitize=fuzzer-no-link,address,undefined -fno-sanitize-recover=undefined",
+        "SHEET_BUILD_FUZZER": "ON",
+        "SHEET_BUILD_TESTS": "OFF"
+      }
+    },
+    {
+      "name": "repro",
+      "inherits": "base",
+      "displayName": "Reproduction: same checks as fuzz, standalone sheet-repro",
+      "cacheVariables": {
+        "CMAKE_CXX_FLAGS": "-fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined",
+        "SHEET_BUILD_TESTS": "OFF"
+      }
+    },
+    {
+      "name": "coverage",
+      "inherits": "base",
+      "displayName": "Source coverage: llvm-cov reports via sheet-stages",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug",
+        "CMAKE_CXX_FLAGS": "-fprofile-instr-generate -fcoverage-mapping",
+        "SHEET_BUILD_TESTS": "OFF"
+      }
+    },
+    {
+      "name": "covtrace",
+      "inherits": "base",
+      "displayName": "Edge counts over time: covtrace with sanitizers",
+      "cacheVariables": {
+        "CMAKE_CXX_FLAGS": "-fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined",
+        "SHEET_BUILD_COVTRACE": "ON",
+        "SHEET_BUILD_TESTS": "OFF"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "dev",
+      "configurePreset": "dev"
+    },
+    {
+      "name": "fuzz",
+      "configurePreset": "fuzz"
+    },
+    {
+      "name": "repro",
+      "configurePreset": "repro"
+    },
+    {
+      "name": "coverage",
+      "configurePreset": "coverage"
+    },
+    {
+      "name": "covtrace",
+      "configurePreset": "covtrace"
+    }
+  ],
+  "testPresets": [
+    {
+      "name": "dev",
+      "configurePreset": "dev",
+      "output": {
+        "outputOnFailure": true
+      }
+    }
+  ]
+}

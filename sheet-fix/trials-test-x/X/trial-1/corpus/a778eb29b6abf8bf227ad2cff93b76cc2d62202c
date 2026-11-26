@@ -1,0 +1,7 @@
+#sheet v1
+# a comment
+# a comment
+
+
+C3 = -("" * -A2 & B1 / ---FALSE <> TRUE * TRUE / -TRUE + "" & --TRUE * D2 & -A3)
+

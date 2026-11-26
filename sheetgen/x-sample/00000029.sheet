@@ -1,0 +1,3 @@
+#sheet v1
+C4 = ---0 >= ----TRUE * --"G"
+A2 = -------(TRUE) / ---TRUE * -"" * ------ROUND(FALSE - TRUE, TRUE == FALSE, C3:D1, TRUE, FALSE) <> "n" / --A2 / C3 * -0.4 - (----FALSE * ---D4) * "" - ------TRUE

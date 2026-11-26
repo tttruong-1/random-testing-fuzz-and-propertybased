@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+G8 = 2 * -TRUE * FALSE * -R84
+AH9 = ----"" * ------X7 * -FALSE <= ---""
+O9 = ---BP2230 - ---Q5 < TRUE * 139 + --FALSE / --AVERAGE(TRUE & FALSE + TRUE, K7:N1) / FALSE
+# a comment

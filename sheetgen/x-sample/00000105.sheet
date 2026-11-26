@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+A2 = -D3 / ---CONCAT() * ---D3 / -B3 * TRUE / --1.1 / -FALSE / --"6" * ------CONCAT() & TRUE / -FALSE * ---AVERAGE() / (--FALSE * TRUE & "" * (-TRUE + --TRUE) & LEN())

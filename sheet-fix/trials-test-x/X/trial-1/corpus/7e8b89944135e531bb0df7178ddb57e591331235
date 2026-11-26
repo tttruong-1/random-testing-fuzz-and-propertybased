@@ -1,0 +1,2 @@
+#sheet v1
+A4 = IF(-D2 > SUM(FALSE)) / ---AVERAGE() * -D3 >= ---""

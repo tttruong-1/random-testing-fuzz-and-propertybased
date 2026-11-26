@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+A1 = "" + "\tXAs"
+# a comment
+# a comment
+D2 = A1 * -"" / TRUE

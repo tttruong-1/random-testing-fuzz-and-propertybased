@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+B3 = COUNT(TRUE & FALSE & TRUE * TRUE + FALSE / FALSE * TRUE < FALSE / TRUE / TRUE) - ---"" - --5009 * 4 + --A3 + -FALSE / -(TRUE + "" & A1 / TRUE / TRUE / -TRUE <= TRUE + FALSE * FALSE - FALSE * FALSE * FALSE + MIN() & FALSE * ---TRUE & A1 / 0 * "" & FALSE / -TRUE / FALSE / -FALSE * ----TRUE / -FALSE & A4) * FALSE
+
+

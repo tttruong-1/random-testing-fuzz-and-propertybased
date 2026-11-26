@@ -1,0 +1,2 @@
+#sheet v1
+B2 = ---AVERAGE(--FALSE + --FALSE > (TRUE) & --TRUE / --TRUE, TRUE + FALSE + TRUE * TRUE & --FALSE <= TRUE * TRUE / -FALSE / TRUE, FALSE - FALSE + TRUE * FALSE + TRUE >= TRUE * -TRUE) >= (A4) * -4190.5 * "" * -(-SUM(FALSE + FALSE, D3:B3))

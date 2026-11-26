@@ -1,0 +1,5 @@
+#sheet v1
+
+
+A3 = -A3 - (---TRUE & B4) * "5" & D3
+# a comment

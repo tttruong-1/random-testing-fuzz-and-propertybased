@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+B1 = --TRUE / "" / ---TRUE - ------IF(TRUE, B2:D4, D1:A1)

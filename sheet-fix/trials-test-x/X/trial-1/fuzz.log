@@ -1,0 +1,702 @@
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000000 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 3160276817
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5f4435ed4b58, 0x5f4435ed6bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5f4435ed6bb8,0x5f4435ef7158), 
+MERGE-OUTER: 100 files, 0 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 3210816199
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5c7c2fb02b58, 0x5c7c2fb04bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5c7c2fb04bb8,0x5c7c2fb25158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165118.txt'
+MERGE-INNER: 100 total files; 0 processed earlier; will process 100 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 33Mb
+#2	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#16	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#32	pulse  cov: 486 ft: 612 exec/s: 0 rss: 36Mb
+#64	pulse  cov: 899 ft: 1839 exec/s: 0 rss: 39Mb
+#100	DONE   cov: 933 ft: 2729 exec/s: 0 rss: 46Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 27402 bytes
+MERGE-OUTER: consumed 0Mb (34Mb rss) to parse the control file
+MERGE-OUTER: 56 new files with 2729 new features added; 933 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000001 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 1571617144
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x608560a3db58, 0x608560a3fbb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x608560a3fbb8,0x608560a60158), 
+MERGE-OUTER: 156 files, 56 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 1598343488
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5be46241eb58, 0x5be462420bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5be462420bb8,0x5be462441158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165141.txt'
+MERGE-INNER: 156 total files; 0 processed earlier; will process 156 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 483 ft: 606 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 619 ft: 868 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 844 ft: 1486 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 904 ft: 2259 exec/s: 0 rss: 40Mb
+#56	LOADED cov: 933 ft: 2729 exec/s: 0 rss: 44Mb
+#64	pulse  cov: 933 ft: 2729 exec/s: 0 rss: 44Mb
+#128	pulse  cov: 1025 ft: 2954 exec/s: 0 rss: 48Mb
+#156	DONE   cov: 1118 ft: 3199 exec/s: 0 rss: 51Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 36658 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 23 new files with 470 new features added; 185 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000002 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 4066078584
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x63a1d83cab58, 0x63a1d83ccbb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x63a1d83ccbb8,0x63a1d83ed158), 
+MERGE-OUTER: 179 files, 79 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 4112139967
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x64ad4300cb58, 0x64ad4300ebb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x64ad4300ebb8,0x64ad4302f158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165158.txt'
+MERGE-INNER: 179 total files; 0 processed earlier; will process 179 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 33Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 33Mb
+#4	pulse  cov: 612 ft: 744 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 710 ft: 1028 exec/s: 0 rss: 34Mb
+#16	pulse  cov: 837 ft: 1360 exec/s: 0 rss: 35Mb
+#32	pulse  cov: 997 ft: 2174 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1112 ft: 2948 exec/s: 0 rss: 44Mb
+#79	LOADED cov: 1118 ft: 3199 exec/s: 0 rss: 46Mb
+#128	pulse  cov: 1118 ft: 3200 exec/s: 0 rss: 49Mb
+#179	DONE   cov: 1124 ft: 3248 exec/s: 179 rss: 53Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 39337 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 5 new files with 49 new features added; 6 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000003 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 2579986920
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5bce19e72b58, 0x5bce19e74bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5bce19e74bb8,0x5bce19e95158), 
+MERGE-OUTER: 184 files, 84 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 2623669221
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x578e89cfdb58, 0x578e89cffbb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x578e89cffbb8,0x578e89d20158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165183.txt'
+MERGE-INNER: 184 total files; 0 processed earlier; will process 184 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 33Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 33Mb
+#4	pulse  cov: 624 ft: 758 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 734 ft: 1053 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 866 ft: 1422 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 999 ft: 2196 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1118 ft: 2971 exec/s: 0 rss: 44Mb
+#84	LOADED cov: 1124 ft: 3248 exec/s: 0 rss: 47Mb
+#128	pulse  cov: 1124 ft: 3248 exec/s: 0 rss: 49Mb
+#184	DONE   cov: 1151 ft: 3332 exec/s: 0 rss: 53Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 40422 bytes
+MERGE-OUTER: consumed 0Mb (34Mb rss) to parse the control file
+MERGE-OUTER: 8 new files with 84 new features added; 27 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000004 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 1191341333
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x64cc62e9ab58, 0x64cc62e9cbb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x64cc62e9cbb8,0x64cc62ebd158), 
+MERGE-OUTER: 192 files, 92 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 1245815262
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x63ea5a0f0b58, 0x63ea5a0f2bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x63ea5a0f2bb8,0x63ea5a113158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165197.txt'
+MERGE-INNER: 192 total files; 0 processed earlier; will process 192 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 33Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 624 ft: 758 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 734 ft: 1053 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 866 ft: 1422 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1044 ft: 2157 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1128 ft: 2976 exec/s: 0 rss: 43Mb
+#92	LOADED cov: 1151 ft: 3332 exec/s: 0 rss: 47Mb
+#128	pulse  cov: 1151 ft: 3332 exec/s: 0 rss: 50Mb
+#192	DONE   cov: 1151 ft: 3352 exec/s: 0 rss: 54Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 41372 bytes
+MERGE-OUTER: consumed 0Mb (34Mb rss) to parse the control file
+MERGE-OUTER: 3 new files with 20 new features added; 0 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000005 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 4120859916
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5c46464f8b58, 0x5c46464fabb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5c46464fabb8,0x5c464651b158), 
+MERGE-OUTER: 195 files, 95 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 4164405581
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5ac09df07b58, 0x5ac09df09bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5ac09df09bb8,0x5ac09df2a158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165222.txt'
+MERGE-INNER: 195 total files; 0 processed earlier; will process 195 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 33Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 33Mb
+#4	pulse  cov: 624 ft: 758 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 734 ft: 1053 exec/s: 0 rss: 34Mb
+#16	pulse  cov: 866 ft: 1422 exec/s: 0 rss: 35Mb
+#32	pulse  cov: 1044 ft: 2156 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1128 ft: 2988 exec/s: 0 rss: 44Mb
+#95	LOADED cov: 1151 ft: 3352 exec/s: 0 rss: 48Mb
+#128	pulse  cov: 1151 ft: 3353 exec/s: 0 rss: 50Mb
+#195	DONE   cov: 1176 ft: 3451 exec/s: 195 rss: 55Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 42387 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 7 new files with 99 new features added; 25 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000006 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 2734162947
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5d82b834db58, 0x5d82b834fbb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5d82b834fbb8,0x5d82b8370158), 
+MERGE-OUTER: 202 files, 102 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 2778688682
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x59eff909bb58, 0x59eff909dbb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x59eff909dbb8,0x59eff90be158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165239.txt'
+MERGE-INNER: 202 total files; 0 processed earlier; will process 202 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 481 ft: 553 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 696 ft: 987 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 857 ft: 1375 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1044 ft: 2187 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1153 ft: 3081 exec/s: 0 rss: 44Mb
+#102	LOADED cov: 1176 ft: 3451 exec/s: 0 rss: 49Mb
+#128	pulse  cov: 1176 ft: 3451 exec/s: 0 rss: 51Mb
+#202	DONE   cov: 1179 ft: 3490 exec/s: 0 rss: 56Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 43352 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 6 new files with 39 new features added; 3 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000007 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 1211453682
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x60cabf0bcb58, 0x60cabf0bebb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x60cabf0bebb8,0x60cabf0df158), 
+MERGE-OUTER: 208 files, 108 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 1257293731
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5a01ee47bb58, 0x5a01ee47dbb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5a01ee47dbb8,0x5a01ee49e158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165262.txt'
+MERGE-INNER: 208 total files; 0 processed earlier; will process 208 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 481 ft: 553 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 734 ft: 1060 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 857 ft: 1375 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1068 ft: 2243 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1173 ft: 3084 exec/s: 0 rss: 44Mb
+#108	LOADED cov: 1179 ft: 3490 exec/s: 0 rss: 50Mb
+#128	pulse  cov: 1179 ft: 3490 exec/s: 0 rss: 51Mb
+#208	DONE   cov: 1189 ft: 3555 exec/s: 0 rss: 56Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 44389 bytes
+MERGE-OUTER: consumed 0Mb (34Mb rss) to parse the control file
+MERGE-OUTER: 6 new files with 65 new features added; 10 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000008 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 3823555348
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x617694792b58, 0x617694794bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x617694794bb8,0x6176947b5158), 
+MERGE-OUTER: 214 files, 114 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 3862944768
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5be4f884cb58, 0x5be4f884ebb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5be4f884ebb8,0x5be4f886f158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165286.txt'
+MERGE-INNER: 214 total files; 0 processed earlier; will process 214 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 481 ft: 553 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 734 ft: 1060 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 857 ft: 1375 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1065 ft: 2266 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1183 ft: 3086 exec/s: 0 rss: 43Mb
+#114	LOADED cov: 1189 ft: 3555 exec/s: 0 rss: 50Mb
+#128	pulse  cov: 1189 ft: 3555 exec/s: 0 rss: 51Mb
+#214	DONE   cov: 1189 ft: 3597 exec/s: 0 rss: 57Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 45245 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 6 new files with 42 new features added; 0 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000009 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 2143654646
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5df2e3415b58, 0x5df2e3417bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5df2e3417bb8,0x5df2e3438158), 
+MERGE-OUTER: 220 files, 120 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 2185561586
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5bc5023e4b58, 0x5bc5023e6bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5bc5023e6bb8,0x5bc502407158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165301.txt'
+MERGE-INNER: 220 total files; 0 processed earlier; will process 220 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 481 ft: 553 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 696 ft: 987 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 857 ft: 1375 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1109 ft: 2308 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1179 ft: 3072 exec/s: 0 rss: 44Mb
+#120	LOADED cov: 1189 ft: 3597 exec/s: 0 rss: 51Mb
+#128	pulse  cov: 1189 ft: 3597 exec/s: 0 rss: 52Mb
+#220	DONE   cov: 1228 ft: 3647 exec/s: 220 rss: 57Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 46347 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 6 new files with 50 new features added; 39 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000010 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 522799813
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x650607bc0b58, 0x650607bc2bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x650607bc2bb8,0x650607be3158), 
+MERGE-OUTER: 226 files, 126 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 570149092
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5e0767b78b58, 0x5e0767b7abb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5e0767b7abb8,0x5e0767b9b158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165331.txt'
+MERGE-INNER: 226 total files; 0 processed earlier; will process 226 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 481 ft: 553 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 734 ft: 1060 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 870 ft: 1421 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1118 ft: 2314 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1209 ft: 3018 exec/s: 0 rss: 43Mb
+#126	LOADED cov: 1228 ft: 3647 exec/s: 0 rss: 51Mb
+#128	pulse  cov: 1228 ft: 3647 exec/s: 0 rss: 52Mb
+#226	DONE   cov: 1239 ft: 3672 exec/s: 226 rss: 58Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 47167 bytes
+MERGE-OUTER: consumed 0Mb (34Mb rss) to parse the control file
+MERGE-OUTER: 4 new files with 25 new features added; 11 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000011 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 3222827250
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x6309cba94b58, 0x6309cba96bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x6309cba96bb8,0x6309cbab7158), 
+MERGE-OUTER: 230 files, 130 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 3279556097
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x57c9407beb58, 0x57c9407c0bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x57c9407c0bb8,0x57c9407e1158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165349.txt'
+MERGE-INNER: 230 total files; 0 processed earlier; will process 230 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 481 ft: 553 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 734 ft: 1060 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 870 ft: 1421 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1096 ft: 2262 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1209 ft: 3001 exec/s: 0 rss: 43Mb
+#128	pulse  cov: 1239 ft: 3666 exec/s: 0 rss: 52Mb
+#130	LOADED cov: 1239 ft: 3672 exec/s: 0 rss: 52Mb
+#230	DONE   cov: 1242 ft: 3696 exec/s: 230 rss: 58Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 47730 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 3 new files with 24 new features added; 3 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000012 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 1839745342
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5a71063a6b58, 0x5a71063a8bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5a71063a8bb8,0x5a71063c9158), 
+MERGE-OUTER: 233 files, 133 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 1889165381
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5a0ac2832b58, 0x5a0ac2834bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5a0ac2834bb8,0x5a0ac2855158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165374.txt'
+MERGE-INNER: 233 total files; 0 processed earlier; will process 233 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 481 ft: 553 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 696 ft: 987 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 870 ft: 1421 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1096 ft: 2262 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1212 ft: 2969 exec/s: 0 rss: 43Mb
+#128	pulse  cov: 1242 ft: 3686 exec/s: 0 rss: 52Mb
+#133	LOADED cov: 1242 ft: 3696 exec/s: 0 rss: 53Mb
+#233	DONE   cov: 1242 ft: 3700 exec/s: 233 rss: 59Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 48062 bytes
+MERGE-OUTER: consumed 0Mb (34Mb rss) to parse the control file
+MERGE-OUTER: 4 new files with 4 new features added; 0 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000013 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 201496391
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x64c0923c5b58, 0x64c0923c7bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x64c0923c7bb8,0x64c0923e8158), 
+MERGE-OUTER: 237 files, 137 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 253723578
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5a0522c58b58, 0x5a0522c5abb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5a0522c5abb8,0x5a0522c7b158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165394.txt'
+MERGE-INNER: 237 total files; 0 processed earlier; will process 237 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 33Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 553 ft: 636 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 734 ft: 1060 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 870 ft: 1421 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1096 ft: 2262 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1210 ft: 2944 exec/s: 0 rss: 43Mb
+#128	pulse  cov: 1241 ft: 3665 exec/s: 0 rss: 52Mb
+#137	LOADED cov: 1242 ft: 3700 exec/s: 0 rss: 53Mb
+#237	DONE   cov: 1267 ft: 3800 exec/s: 237 rss: 58Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 49170 bytes
+MERGE-OUTER: consumed 0Mb (34Mb rss) to parse the control file
+MERGE-OUTER: 2 new files with 100 new features added; 25 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000014 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 2906955047
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5cb4824efb58, 0x5cb4824f1bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5cb4824f1bb8,0x5cb482512158), 
+MERGE-OUTER: 239 files, 139 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 2958820718
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5c9fff79ab58, 0x5c9fff79cbb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5c9fff79cbb8,0x5c9fff7bd158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165418.txt'
+MERGE-INNER: 239 total files; 0 processed earlier; will process 239 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 481 ft: 553 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 734 ft: 1060 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 890 ft: 1470 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1082 ft: 2203 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1251 ft: 3065 exec/s: 0 rss: 44Mb
+#128	pulse  cov: 1266 ft: 3749 exec/s: 0 rss: 52Mb
+#139	LOADED cov: 1267 ft: 3800 exec/s: 0 rss: 54Mb
+#239	DONE   cov: 1269 ft: 3844 exec/s: 239 rss: 60Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 49663 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 4 new files with 44 new features added; 2 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000015 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 1344621806
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x56e5ff97cb58, 0x56e5ff97ebb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x56e5ff97ebb8,0x56e5ff99f158), 
+MERGE-OUTER: 243 files, 143 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 1388499130
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5a303ff9ab58, 0x5a303ff9cbb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5a303ff9cbb8,0x5a303ffbd158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165433.txt'
+MERGE-INNER: 243 total files; 0 processed earlier; will process 243 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 481 ft: 553 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 734 ft: 1060 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 890 ft: 1470 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1037 ft: 2166 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1251 ft: 3053 exec/s: 0 rss: 43Mb
+#128	pulse  cov: 1268 ft: 3759 exec/s: 0 rss: 52Mb
+#143	LOADED cov: 1269 ft: 3844 exec/s: 0 rss: 54Mb
+#243	DONE   cov: 1270 ft: 3855 exec/s: 243 rss: 60Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 50131 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 2 new files with 11 new features added; 1 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000016 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 83600584
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5abbb94bbb58, 0x5abbb94bdbb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5abbb94bdbb8,0x5abbb94de158), 
+MERGE-OUTER: 245 files, 145 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 129774883
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5abff1b78b58, 0x5abff1b7abb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5abff1b7abb8,0x5abff1b9b158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165456.txt'
+MERGE-INNER: 245 total files; 0 processed earlier; will process 245 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 481 ft: 553 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 734 ft: 1060 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 890 ft: 1470 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1076 ft: 2131 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1239 ft: 3021 exec/s: 0 rss: 43Mb
+#128	pulse  cov: 1269 ft: 3739 exec/s: 0 rss: 51Mb
+#145	LOADED cov: 1270 ft: 3855 exec/s: 0 rss: 54Mb
+#245	DONE   cov: 1301 ft: 3941 exec/s: 245 rss: 59Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 50983 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 7 new files with 86 new features added; 31 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000017 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 3081756639
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x596b71c6bb58, 0x596b71c6dbb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x596b71c6dbb8,0x596b71c8e158), 
+MERGE-OUTER: 252 files, 152 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 3134888292
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x56316a3bcb58, 0x56316a3bebb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x56316a3bebb8,0x56316a3df158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165486.txt'
+MERGE-INNER: 252 total files; 0 processed earlier; will process 252 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 468 ft: 521 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 709 ft: 1001 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 903 ft: 1449 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1056 ft: 2029 exec/s: 0 rss: 37Mb
+#64	pulse  cov: 1283 ft: 3058 exec/s: 0 rss: 43Mb
+#128	pulse  cov: 1300 ft: 3754 exec/s: 0 rss: 51Mb
+#152	LOADED cov: 1301 ft: 3941 exec/s: 0 rss: 54Mb
+#252	DONE   cov: 1352 ft: 4018 exec/s: 252 rss: 61Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 52415 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 5 new files with 77 new features added; 51 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000018 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 1815341155
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5c9a46b4fb58, 0x5c9a46b51bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5c9a46b51bb8,0x5c9a46b72158), 
+MERGE-OUTER: 257 files, 157 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 1870756371
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x599cc635cb58, 0x599cc635ebb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x599cc635ebb8,0x599cc637f158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165501.txt'
+MERGE-INNER: 257 total files; 0 processed earlier; will process 257 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 468 ft: 521 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 709 ft: 1001 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 897 ft: 1402 exec/s: 0 rss: 35Mb
+#32	pulse  cov: 1106 ft: 2065 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1334 ft: 3120 exec/s: 0 rss: 43Mb
+#128	pulse  cov: 1351 ft: 3809 exec/s: 0 rss: 51Mb
+#157	LOADED cov: 1352 ft: 4018 exec/s: 0 rss: 55Mb
+#256	pulse  cov: 1355 ft: 4055 exec/s: 256 rss: 60Mb
+#257	DONE   cov: 1355 ft: 4055 exec/s: 257 rss: 60Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 53156 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 3 new files with 37 new features added; 3 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000019 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 661177458
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x57afda4acb58, 0x57afda4aebb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x57afda4aebb8,0x57afda4cf158), 
+MERGE-OUTER: 260 files, 160 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 719919522
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5c54e9d81b58, 0x5c54e9d83bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5c54e9d83bb8,0x5c54e9da4158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165526.txt'
+MERGE-INNER: 260 total files; 0 processed earlier; will process 260 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 468 ft: 521 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 709 ft: 1001 exec/s: 0 rss: 34Mb
+#16	pulse  cov: 903 ft: 1491 exec/s: 0 rss: 35Mb
+#32	pulse  cov: 1102 ft: 1954 exec/s: 0 rss: 37Mb
+#64	pulse  cov: 1337 ft: 3109 exec/s: 0 rss: 42Mb
+#128	pulse  cov: 1352 ft: 3806 exec/s: 0 rss: 50Mb
+#160	LOADED cov: 1355 ft: 4055 exec/s: 0 rss: 55Mb
+#256	pulse  cov: 1372 ft: 4083 exec/s: 256 rss: 60Mb
+#260	DONE   cov: 1372 ft: 4087 exec/s: 260 rss: 61Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 53735 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 3 new files with 32 new features added; 17 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000020 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 3973728519
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5f69394c9b58, 0x5f69394cbbb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5f69394cbbb8,0x5f69394ec158), 
+MERGE-OUTER: 263 files, 163 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 4040627933
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x55b31129cb58, 0x55b31129ebb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x55b31129ebb8,0x55b3112bf158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165585.txt'
+MERGE-INNER: 263 total files; 0 processed earlier; will process 263 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 468 ft: 521 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 709 ft: 1001 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 903 ft: 1449 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1102 ft: 1954 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1354 ft: 3144 exec/s: 0 rss: 43Mb
+#128	pulse  cov: 1369 ft: 3821 exec/s: 0 rss: 51Mb
+#163	LOADED cov: 1372 ft: 4087 exec/s: 0 rss: 56Mb
+#256	pulse  cov: 1372 ft: 4087 exec/s: 256 rss: 61Mb
+#263	DONE   cov: 1372 ft: 4087 exec/s: 263 rss: 61Mb
+MERGE-OUTER: successful in 1 attempt(s)
+MERGE-OUTER: the control file has 54043 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 0 new files with 0 new features added; 0 new coverage edges
+$ uv run --project ../sheetgen sheetgen x --count 100 --seed 1000021 --out trials-test-x/X/trial-1/batch
+warning: `VIRTUAL_ENV=/usr/shared/CMPT/faculty/wsumner/base/env373` does not match the project environment path `/home/tttruong/Downloads/se-random-testing-template/sheetgen/.venv` and will be ignored; use `--active` to target the active environment instead
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 2816000675
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x633d5cc2ab58, 0x633d5cc2cbb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x633d5cc2cbb8,0x633d5cc4d158), 
+MERGE-OUTER: 263 files, 163 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 2847451406
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5aba7c7feb58, 0x5aba7c800bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5aba7c800bb8,0x5aba7c821158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165607.txt'
+MERGE-INNER: 263 total files; 0 processed earlier; will process 263 files now
+#1	pulse  cov: 169 ft: 170 exec/s: 0 rss: 34Mb
+#2	pulse  cov: 171 ft: 190 exec/s: 0 rss: 34Mb
+#4	pulse  cov: 468 ft: 521 exec/s: 0 rss: 34Mb
+#8	pulse  cov: 709 ft: 1001 exec/s: 0 rss: 35Mb
+#16	pulse  cov: 903 ft: 1449 exec/s: 0 rss: 36Mb
+#32	pulse  cov: 1102 ft: 1954 exec/s: 0 rss: 38Mb
+#64	pulse  cov: 1354 ft: 3144 exec/s: 0 rss: 43Mb
+#128	pulse  cov: 1369 ft: 3821 exec/s: 0 rss: 51Mb
+#163	LOADED cov: 1372 ft: 4087 exec/s: 0 rss: 56Mb
+sheet: invariant violated at /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp:64: cell read before its type was inferred
+==165610== ERROR: libFuzzer: deadly signal
+    #0 0x5aba7c69dd84 in __sanitizer_print_stack_trace /usr/shared/CMPT/faculty/wsumner/building/llvm-project-llvmorg-23.1.1/compiler-rt/lib/asan/asan_stack.cpp:87:3
+    #1 0x5aba7c580b0a in fuzzer::PrintStackTrace() /usr/shared/CMPT/faculty/wsumner/building/llvm-project-llvmorg-23.1.1/compiler-rt/lib/fuzzer/FuzzerUtil.cpp:210:38
+    #2 0x5aba7c55f026 in fuzzer::Fuzzer::CrashCallback() (.part.0) /usr/shared/CMPT/faculty/wsumner/building/llvm-project-llvmorg-23.1.1/compiler-rt/lib/fuzzer/FuzzerLoop.cpp:231:18
+    #3 0x5aba7c55f0e6 in fuzzer::Fuzzer::CrashCallback() /usr/shared/CMPT/faculty/wsumner/building/llvm-project-llvmorg-23.1.1/compiler-rt/lib/fuzzer/FuzzerLoop.cpp:230:3
+    #4 0x5aba7c55f0e6 in fuzzer::Fuzzer::StaticCrashSignalCallback() /usr/shared/CMPT/faculty/wsumner/building/llvm-project-llvmorg-23.1.1/compiler-rt/lib/fuzzer/FuzzerLoop.cpp:202:19
+    #5 0x7126ca04532f  (/lib/x86_64-linux-gnu/libc.so.6+0x4532f) (BuildId: 8cebda42d140fc2b09639f8b13a5d5f2e617ef09)
+    #6 0x7126ca09ebeb in __pthread_kill_implementation nptl/pthread_kill.c:43:17
+    #7 0x7126ca09ebeb in __pthread_kill_internal nptl/pthread_kill.c:78:10
+    #8 0x7126ca09ebeb in pthread_kill nptl/pthread_kill.c:89:10
+    #9 0x7126ca04527d in raise signal/../sysdeps/posix/raise.c:26:13
+    #10 0x7126ca0288fe in abort stdlib/abort.c:79:7
+    #11 0x5aba7c5294b2 in sheet::detail::invariant_failure(std::basic_string_view<char, std::char_traits<char>>, std::source_location) /home/tttruong/Downloads/se-random-testing-template/sheet/src/invariant.cpp:11:3
+    #12 0x5aba7c7516a8 in sheet::detail::(anonymous namespace)::Type const& sheet::detail::required<sheet::detail::(anonymous namespace)::Type>(std::optional<sheet::detail::(anonymous namespace)::Type> const&, std::basic_string_view<char, std::char_traits<char>>, std::source_location) /home/tttruong/Downloads/se-random-testing-template/sheet/src/invariant.hpp:29:5
+    #13 0x5aba7c7516a8 in sheet::detail::(anonymous namespace)::TypeChecker::type_of_cell(unsigned long) const /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp:64:12
+    #14 0x5aba7c755c8d in sheet::detail::(anonymous namespace)::TypeChecker::expect_numeric_range(sheet::NodeId, sheet::RangeReference const&, std::basic_string_view<char, std::char_traits<char>>) /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp:154:29
+    #15 0x5aba7c755c8d in sheet::detail::(anonymous namespace)::TypeChecker::infer_call(sheet::NodeId, sheet::Call const&) /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp:183:45
+    #16 0x5aba7c750bfd in sheet::detail::(anonymous namespace)::TypeChecker::infer(sheet::NodeId) /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp:110:14
+    #17 0x5aba7c75182e in sheet::detail::(anonymous namespace)::TypeChecker::expect(sheet::NodeId, sheet::detail::(anonymous namespace)::Type, std::basic_string_view<char, std::char_traits<char>>) /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp:69:17
+    #18 0x5aba7c7507e0 in sheet::detail::(anonymous namespace)::TypeChecker::infer(sheet::NodeId) /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp:95:26
+    #19 0x5aba7c75182e in sheet::detail::(anonymous namespace)::TypeChecker::expect(sheet::NodeId, sheet::detail::(anonymous namespace)::Type, std::basic_string_view<char, std::char_traits<char>>) /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp:69:17
+    #20 0x5aba7c7507e0 in sheet::detail::(anonymous namespace)::TypeChecker::infer(sheet::NodeId) /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp:95:26
+    #21 0x5aba7c75182e in sheet::detail::(anonymous namespace)::TypeChecker::expect(sheet::NodeId, sheet::detail::(anonymous namespace)::Type, std::basic_string_view<char, std::char_traits<char>>) /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp:69:17
+    #22 0x5aba7c7507e0 in sheet::detail::(anonymous namespace)::TypeChecker::infer(sheet::NodeId) /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp:95:26
+    #23 0x5aba7c74f6cc in sheet::detail::(anonymous namespace)::TypeChecker::run(std::span<unsigned long const, 18446744073709551615ul>) /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp:47:19
+    #24 0x5aba7c74f6cc in sheet::detail::check_types(sheet::Ast const&, std::unordered_map<sheet::CellRef, unsigned long, sheet::CellRefHash, std::equal_to<sheet::CellRef>, std::allocator<std::pair<sheet::CellRef const, unsigned long>>> const&, std::span<unsigned long const, 18446744073709551615ul>) /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp:251:34
+    #25 0x5aba7c6e801a in sheet::check(sheet::Ast) /home/tttruong/Downloads/se-random-testing-template/sheet/src/check.cpp:35:20
+    #26 0x5aba7c6e6442 in std::expected<sheet::CheckedSheet, sheet::Diagnostic> std::__invoke_impl<std::expected<sheet::CheckedSheet, sheet::Diagnostic>, std::expected<sheet::CheckedSheet, sheet::Diagnostic> (&)(sheet::Ast), sheet::Ast>(std::__invoke_other, std::expected<sheet::CheckedSheet, sheet::Diagnostic> (&)(sheet::Ast), sheet::Ast&&) /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/bits/invoke.h:63:14
+    #27 0x5aba7c6e588f in std::__invoke_result<std::expected<sheet::CheckedSheet, sheet::Diagnostic> (&)(sheet::Ast), sheet::Ast>::type std::__invoke<std::expected<sheet::CheckedSheet, sheet::Diagnostic> (&)(sheet::Ast), sheet::Ast>(std::expected<sheet::CheckedSheet, sheet::Diagnostic> (&)(sheet::Ast), sheet::Ast&&) /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/bits/invoke.h:98:14
+    #28 0x5aba7c6e588f in auto std::expected<sheet::Ast, sheet::Diagnostic>::and_then<std::expected<sheet::CheckedSheet, sheet::Diagnostic> (&)(sheet::Ast)>(std::expected<sheet::CheckedSheet, sheet::Diagnostic> (&)(sheet::Ast)) && /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/expected:992:13
+    #29 0x5aba7c6e53a7 in LLVMFuzzerTestOneInput /home/tttruong/Downloads/se-random-testing-template/sheet/harness/fuzz_sheet.cpp:31:45
+    #30 0x5aba7c55fdc1 in fuzzer::Fuzzer::ExecuteCallback(unsigned char const*, unsigned long) /usr/shared/CMPT/faculty/wsumner/building/llvm-project-llvmorg-23.1.1/compiler-rt/lib/fuzzer/FuzzerLoop.cpp:619:15
+    #31 0x5aba7c57010f in fuzzer::Fuzzer::CrashResistantMergeInternalStep(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char>> const&, bool) /usr/shared/CMPT/faculty/wsumner/building/llvm-project-llvmorg-23.1.1/compiler-rt/lib/fuzzer/FuzzerMerge.cpp:239:20
+    #32 0x5aba7c54473d in fuzzer::FuzzerDriver(int*, char***, int (*)(unsigned char const*, unsigned long)) /usr/shared/CMPT/faculty/wsumner/building/llvm-project-llvmorg-23.1.1/compiler-rt/lib/fuzzer/FuzzerDriver.cpp:896:39
+    #33 0x5aba7c529692 in main /usr/shared/CMPT/faculty/wsumner/building/llvm-project-llvmorg-23.1.1/compiler-rt/lib/fuzzer/FuzzerMain.cpp:20:30
+    #34 0x7126ca02a1c9 in __libc_start_call_main csu/../sysdeps/nptl/libc_start_call_main.h:58:16
+    #35 0x7126ca02a28a in __libc_start_main csu/../csu/libc-start.c:360:3
+    #36 0x5aba7c529744 in _start (/home/tttruong/Downloads/se-random-testing-template/sheet/build/fuzz/fuzz_sheet+0x9c744)
+
+NOTE: libFuzzer has rudimentary signal handlers.
+      Combine libFuzzer with AddressSanitizer or similar for better crash reports.
+SUMMARY: libFuzzer: deadly signal
+MS: 0 ; base unit: 0000000000000000000000000000000000000000
+0x23,0x73,0x68,0x65,0x65,0x74,0x20,0x76,0x31,0xa,0x44,0x33,0x20,0x3d,0x20,0x2d,0x2d,0x2d,0x53,0x55,0x4d,0x28,0x43,0x33,0x3a,0x44,0x33,0x29,0xa,
+#sheet v1\012D3 = ---SUM(C3:D3)\012
+artifact_prefix='trials-test-x/X/trial-1/merge-scratch/'; Test unit written to trials-test-x/X/trial-1/merge-scratch/crash-b0b9812ac2ea4d7339100be48f91e46ca562c764
+Base64: I3NoZWV0IHYxCkQzID0gLS0tU1VNKEMzOkQzKQo=
+MERGE-OUTER: attempt 2
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 4042396391
+INFO: Loaded 1 modules   (8282 inline 8-bit counters): 8282 [0x5d4ba7451b58, 0x5d4ba7453bb2), 
+INFO: Loaded 1 PC tables (8282 PCs): 8282 [0x5d4ba7453bb8,0x5d4ba7474158), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge165607.txt'
+MERGE-INNER: 'trials-test-x/X/trial-1/batch/00000016.sheet' caused a failure at the previous merge step
+MERGE-INNER: 263 total files; 216 processed earlier; will process 47 files now
+#1	pulse  cov: 439 ft: 440 exec/s: 0 rss: 35Mb
+#2	pulse  cov: 620 ft: 691 exec/s: 0 rss: 35Mb
+#4	pulse  cov: 674 ft: 797 exec/s: 0 rss: 35Mb
+#8	pulse  cov: 773 ft: 1228 exec/s: 0 rss: 36Mb
+#16	pulse  cov: 988 ft: 1858 exec/s: 0 rss: 37Mb
+#32	pulse  cov: 1071 ft: 2707 exec/s: 0 rss: 41Mb
+#47	DONE   cov: 1082 ft: 3041 exec/s: 0 rss: 44Mb
+MERGE-OUTER: successful in 2 attempt(s)
+MERGE-OUTER: the control file has 76720 bytes
+MERGE-OUTER: consumed 0Mb (35Mb rss) to parse the control file
+MERGE-OUTER: 2 new files with 29 new features added; 16 new coverage edges

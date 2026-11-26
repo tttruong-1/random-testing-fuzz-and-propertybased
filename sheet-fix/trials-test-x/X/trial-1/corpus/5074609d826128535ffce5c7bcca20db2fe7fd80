@@ -1,0 +1,2 @@
+#sheet v1
+D2 = -----CONCAT(TRUE - FALSE / FALSE == TRUE - TRUE) * -TRUE

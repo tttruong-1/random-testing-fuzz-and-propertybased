@@ -1,0 +1,5 @@
+#sheet v1
+A1 = 1
+A2 = 2
+C3 = 3
+BB2 = AVERAGE(A1:A3,v10)

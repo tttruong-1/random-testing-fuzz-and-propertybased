@@ -1,0 +1,6 @@
+#sheet v1
+
+
+
+A3 = ""
+C1 = -(FALSE * TRUE / TRUE) - --FALSE - -CONCAT(A4:D3, D3:B2, FALSE, FALSE) * 5831 + ""
