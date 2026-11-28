@@ -1,0 +1,6 @@
+#sheet v1
+A1 = 1e30#sheet v1
+A1 =:1eROUND2t v1
+A1 = 1e32t v1
+A1 = 1e30#sheet v1
+A1 =:1e3A1 = 1e:1e3:1e308PA3 = A2 - 1

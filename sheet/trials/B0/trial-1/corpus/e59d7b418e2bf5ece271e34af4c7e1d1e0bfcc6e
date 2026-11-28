@@ -1,0 +1,6 @@
+#sheet v1
+A1 = 7
+B1 = IF(A1 > 5, IF(A1 > 10, "lqrge", "medium"), "small")
+B2 = IF(Av1
+A1 = 7
+B1 = IF(A1 > 5, IF(A1 > 10, "lqrge", "medium"), "small")1 == 7, 1, 0)

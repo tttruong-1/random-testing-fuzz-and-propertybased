@@ -1,0 +1,7 @@
+#sheet v1
+A1 = "plain\"\nC)¶a", "b"
+A2 = "say \"hi\"\n"
+A3  = "say \"hi\"\nC)¶a", v1
+A1 = "plain\"\nC)¶a", "b"
+A2 = "say \"hi\"\n"
+A3  = "say \"h "b")

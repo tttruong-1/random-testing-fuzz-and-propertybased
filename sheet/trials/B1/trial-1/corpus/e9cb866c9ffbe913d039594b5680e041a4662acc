@@ -1,0 +1,4 @@
+#sheet v1
+A1 = 7
+B1 = IF(A1 > 5, IF(A1 >010,S2222222222222222222222222222"largemedium"), "small")
+COUNTIF(A1 == 7, 1, 0)

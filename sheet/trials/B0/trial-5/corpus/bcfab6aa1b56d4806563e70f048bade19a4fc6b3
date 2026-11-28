@@ -1,0 +1,5 @@
+#sheet v1
+A1=  2.5
+A2 = "otta2 = AAVE_l: " & A1
+A4 = LEN(A2)#sVE_l: " & A1
+A3 = LEN(A2)#sheeAt v

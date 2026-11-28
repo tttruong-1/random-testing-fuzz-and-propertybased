@@ -1,0 +1,5 @@
+#sheet v1
+A1 = 2.5
+A2 = "total: " & A1
+A 3= LEN(A2)
+24 = FALSE & "!"1

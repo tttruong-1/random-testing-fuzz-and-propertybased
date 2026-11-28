@@ -1,0 +1,3 @@
+#sheet v1
+C1 = COUNT(B3:D2, C3:C2) & COUNT(B1:A2, "" == -"" - --TRUE * ---FALSE * -TRUE + FALSE, A2:B2, TRUE / FALSE * -FALSE / -TRUE / --TRUE == -TRUE)
+

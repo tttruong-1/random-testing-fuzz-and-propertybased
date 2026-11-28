@@ -1,0 +1,5 @@
+#sheet v1
+A4 = -MAX(B2:C4) <= TRUE
+# a comment
+# a comment
+

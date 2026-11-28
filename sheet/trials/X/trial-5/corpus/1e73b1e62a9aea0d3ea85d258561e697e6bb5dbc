@@ -1,0 +1,6 @@
+#sheet v1
+
+
+# a comment
+B4 = --5 & --TRUE * --FALSE & 81079.3 / "E"
+B3 = B4 & ---"" & IF(B1:C4, C3:B4, D3:B3)

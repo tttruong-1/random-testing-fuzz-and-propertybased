@@ -1,0 +1,5 @@
+#sheet v1
+B3 = -FALSE * ---ROUND(TRUE, FALSE) * TRUE + FALSE * COUNT(C3:D4) & LEN(D2:C2) * -TRUE * --FALSE * FALSE * (--FALSE < --FALSE - ---FALSE & ROUND()) / D1 * "" & -"8z" & 0 & --TRUE
+B4 = C1 == "Wq"
+# a comment
+# a comment

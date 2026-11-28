@@ -1,0 +1,2 @@
+#sheet v1
+D4 = MIN(TRUE * -TRUE * -FALSE + TRUE & --TRUE * ---FALSE - FALSE + SUM(TRUE) * --(FALSE > FALSE) == 43 * FALSE)

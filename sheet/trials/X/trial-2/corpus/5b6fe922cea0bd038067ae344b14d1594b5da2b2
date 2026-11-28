@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+C3 = --9 * -IF(A4:C3) / 235.90 / 3.6 - --(FALSE + FALSE / FALSE + FALSE * -FALSE) / FALSE + -MAX() * -"l" / -COUNT() * MIN(-FALSE <> TRUE - TRUE / FALSE) / "b" - -(-"" / (TRUE) <> ---FALSE / SUM(FALSE, FALSE)) * --(07 >= -TRUE * -FALSE - --FALSE / "" - -"" / -LEN()) & TRUE & (B2 & TRUE * TRUE / TRUE * (TRUE) / --FALSE / ----TRUE * FALSE * TRUE + 338.481 / (-FALSE * IF()) > C1 / -MAX() / FALSE / ---"" * -04 & COUNT()) * -275 <= ""
+
+D1 = TRUE / --A1 <= -7.6 * --(TRUE / TRUE - -FALSE - FALSE * --FALSE + "" & -"" <= FALSE * FALSE / TRUE / "" / FALSE & TRUE)
+

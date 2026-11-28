@@ -1,0 +1,7 @@
+#sheet v1
+
+
+# a comment
+# a comment
+D4 = --AVERAGE(B2:C1)
+

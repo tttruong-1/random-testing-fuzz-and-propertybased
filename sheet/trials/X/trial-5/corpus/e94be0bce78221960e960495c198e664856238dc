@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+C2 = -MAX() * --IF() / -(-"" - ---TRUE * 46.93 / B4) - ---5
+

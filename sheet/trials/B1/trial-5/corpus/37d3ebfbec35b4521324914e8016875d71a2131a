@@ -1,0 +1,5 @@
+#sheet v1
+A11 = "xab\thäre"
+A3 = "backhäre"
+A6 = "back\\WWWlash("
+A4 = CONCAT("ÿÿÿÿÿÿÿÿÿÿ")

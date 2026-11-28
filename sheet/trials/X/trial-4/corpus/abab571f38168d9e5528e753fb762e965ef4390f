@@ -1,0 +1,3 @@
+#sheet v1
+B4 = -ROUND(C3:D2, C2:A3) * FALSE / "" * -COUNT(FALSE, A3:D3, FALSE * FALSE / FALSE * COUNT() > TRUE & TRUE * FALSE / TRUE / FALSE) * FALSE
+# a comment

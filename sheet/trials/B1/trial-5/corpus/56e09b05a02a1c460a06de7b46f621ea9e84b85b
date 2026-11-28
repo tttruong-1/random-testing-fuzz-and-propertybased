@@ -1,0 +1,5 @@
+#sheet v1
+C1 = 2.75e1
+D1 =MAX(C1:C2)
+D3 = ROUND(C1, I)
+D4 = COUNT(C1:C2)

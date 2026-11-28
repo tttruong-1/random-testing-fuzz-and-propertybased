@@ -1,0 +1,2 @@
+#sheet v1
+Y7 = ---SUM(R557:LR76, U43:L1, FALSE * TRUE * TRUE, TRUE - TRUE, T2:F3, D2:T4)

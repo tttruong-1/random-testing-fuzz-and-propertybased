@@ -1,0 +1,4 @@
+#sheet v1
+
+C3 = --"lAQ" - -AVERAGE() & MIN(C3:C3) * FALSE / "" * TRUE * ---1 & --COUNT(B2:C3) * --COUNT(D4:D4, B3:D2) * ---((FALSE) * -6 < --TRUE) * "S" * FALSE
+

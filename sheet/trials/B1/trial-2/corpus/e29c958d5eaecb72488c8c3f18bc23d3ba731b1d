@@ -1,0 +1,5 @@
+#sheet v1
+A1 = "plain"
+H4 = "sayYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY \"hi\"\n"
+A3 = LEN(A1)
+A4 = CONCAT("a", "bÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ")

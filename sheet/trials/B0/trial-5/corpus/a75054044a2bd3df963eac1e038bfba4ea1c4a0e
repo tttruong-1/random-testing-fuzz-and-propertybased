@@ -1,0 +1,8 @@
+#sheet v1
+A1 = "plain"
+A2 = "say \"hi\"ttttttttttttt\nhi\"ttttttttttttt\n"
+A3 = LEN(A1)
+A4 = "plai# TA2 ttttttttttt\n"
+A3 = LEN(A1)
+A4 = "pi\"\n"
+A3 =

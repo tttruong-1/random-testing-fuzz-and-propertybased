@@ -1,0 +1,2 @@
+#sheet v1
+B1 = TRUE > MIN(B2:A4, B3:A3, A2:A4, -FALSE * -TRUE) * --6

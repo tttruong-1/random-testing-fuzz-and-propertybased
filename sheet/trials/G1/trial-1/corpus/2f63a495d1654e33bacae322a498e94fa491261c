@@ -1,0 +1,2 @@
+#sheet v1
+C1 = -IF(TRUE * TRUE >= TRUE, D3:B4, D4:A4)

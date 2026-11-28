@@ -1,0 +1,5 @@
+#sheet v1
+
+A3 = --IF(D4:D1, FALSE & TRUE - --TRUE, FALSE * TRUE * FALSE < -TRUE)
+
+D1 = -------"" / -TRUE

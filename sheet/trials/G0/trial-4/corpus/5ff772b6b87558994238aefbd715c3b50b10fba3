@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+AB64 = --SUM(FALSE <= TRUE) * TRUE / "" / ("") + -FALSE / 3.0

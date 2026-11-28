@@ -1,0 +1,5 @@
+#sheet v1
+A1 = "mlainWWNWWWWWWWWWWWWWWW"
+A8 = "say 3 = LENWWWWWW"
+A4 = "say 3 = LENlainlainn"
+A3 = LEN(A1)

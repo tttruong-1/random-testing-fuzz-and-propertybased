@@ -1,0 +1,6 @@
+#sheet v1
+
+
+U7 = -TRUE
+D69 = -AVERAGE(J417:S69) > -66.72
+LJT4 = FALSE

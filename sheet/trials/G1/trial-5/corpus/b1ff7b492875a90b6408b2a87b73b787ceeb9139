@@ -1,0 +1,5 @@
+#sheet v1
+C3 = IF(D4:B3, A4:B1, A1:D1) * -LEN(C3:B1) >= 86.91
+
+# a comment
+B2 = (TRUE) * -4606 * -6 & -TRUE & A4 / MAX(TRUE * FALSE / TRUE < TRUE * TRUE / FALSE) / -(-TRUE / -FALSE & FALSE & AVERAGE() / (TRUE) * -TRUE) + -FALSE < MAX(D2:C2) * -FALSE + A3 * -(-(FALSE & FALSE) >= TRUE * -COUNT(FALSE) + FALSE / FALSE * "" * ---TRUE / TRUE * 6)

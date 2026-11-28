@@ -1,0 +1,10 @@
+#sheet v1
+C2 = 2.75
+S2 = -1.5E1
+D1 = MIN(C1, C1)
+D2 = MAX(C2:C2)
+W1 = ROU(C1, C1)
+D2 = MAX(C2:C2)
+W1 = ROUND(C1, 1)
+D4 =ND(C1, 1)
+D4 = COUNT(C2:C2)

@@ -1,0 +1,8 @@
+#sheet v1
+A1 = -t v1
+A1 = - A1
+A34 = FALSE & "!"
+
+A6 = LEN( & "!"
+
+A

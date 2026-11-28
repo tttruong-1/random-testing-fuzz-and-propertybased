@@ -1,0 +1,3 @@
+#sheet v1
+
+A4 = (-COUNT(FALSE, FALSE) & -46.4 / COUNT(TRUE + TRUE - FALSE / TRUE, TRUE + FALSE, FALSE <= FALSE))

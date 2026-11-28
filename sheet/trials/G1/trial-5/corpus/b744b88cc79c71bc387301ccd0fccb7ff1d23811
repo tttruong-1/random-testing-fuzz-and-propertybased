@@ -1,0 +1,8 @@
+#sheet v1
+D1 = --C2 * D3 * -FALSE
+# a comment
+C2 = -(TRUE / -FALSE + -TRUE & ---FALSE) / CONCAT() / -"" - "e" / AVERAGE() / -((TRUE) / --FALSE * TRUE & ----FALSE * -"" <= FALSE - --8) * 7.0 <> (TRUE * FALSE * FALSE) / -TRUE / --TRUE / 7.8 - ----TRUE + -"\tRbA" - -2
+
+B2 = 6 * ---"12" & TRUE / --FALSE * CONCAT(TRUE) * "7" / 84 / COUNT() / ----TRUE / AVERAGE(A2:C4, TRUE) * 1.2 & --FALSE * (TRUE * FALSE - -FALSE / -FALSE & FALSE / COUNT(TRUE) + -TRUE / D4 * --TRUE - -(FALSE - FALSE) <= (FALSE + TRUE) + SUM() * -FALSE * -TRUE * FALSE)
+D3 = --"V" * ----TRUE / -8 * FALSE
+# a comment

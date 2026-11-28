@@ -1,0 +1,4 @@
+#sheet v1
+C3 = SUM(C2:B3) & --TRUE
+# a comment
+# a comment

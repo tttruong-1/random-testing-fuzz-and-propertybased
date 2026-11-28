@@ -1,0 +1,4 @@
+#sheet v1
+C3 = -(97) / MIN(C3:C4, B1:C2, D1:A3, D2:A4) & ---FALSE * TRUE >= 4
+
+D2 = -FALSE

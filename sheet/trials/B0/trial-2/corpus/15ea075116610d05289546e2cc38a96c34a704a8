@@ -1,0 +1,4 @@
+#sheet v1
+A8 = 1
+B1 =SUM(R2:B4)
+C3 = MAX(A1:B1, 9)

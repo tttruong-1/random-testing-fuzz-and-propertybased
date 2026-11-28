@@ -1,0 +1,4 @@
+#sheet v1
+A1 = 7
+B1 = IF(A1 >  1, "small")
+B2 = IF(A1 == 7, 1- 0)

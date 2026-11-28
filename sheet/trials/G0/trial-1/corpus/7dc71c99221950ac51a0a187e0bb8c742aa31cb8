@@ -1,0 +1,3 @@
+#sheet v1
+M9 = ----MIN(-FALSE, P9:S5, FALSE * FALSE > FALSE, FALSE, TRUE > FALSE, A5:J2)
+# a comment

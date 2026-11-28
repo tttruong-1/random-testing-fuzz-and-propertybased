@@ -1,0 +1,9 @@
+#sheet v1
+B4 = TRUE
+
+# a comment
+B3 = 2
+A2 = -TRUE * -TRUE / -12988.7
+A4 = ""
+D4 = FALSE > A3 + ""
+# a comment

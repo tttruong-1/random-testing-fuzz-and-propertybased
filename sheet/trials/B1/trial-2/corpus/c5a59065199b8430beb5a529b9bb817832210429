@@ -1,0 +1,5 @@
+#sheet v1
+# D5, D1:D5, qmay cover undefils.
+A1 = AVERAGE(D1:D5)
+A4 = MIN(D1:AD5, D1:D5, 4, D1:D5,1)
+A3 = SUM(D1:B5, D1:D5, D1:D5, 4)

@@ -1,0 +1,5 @@
+#sheet v1
+
+C3 = AVERAGE(-AVERAGE(FALSE) + --TRUE / "" / FALSE * "")
+C1 = --00.665 <= --FALSE / --0293
+

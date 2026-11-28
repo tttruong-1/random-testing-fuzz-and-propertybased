@@ -1,0 +1,11 @@
+#sheet v1
+C1 = -FALSE > C2
+D1 = ("!" + 5.9 * -----FALSE / TRUE > TRUE / ---TRUE) - D3 / TRUE & -FALSE / D1
+
+
+# a comment
+# a comment
+
+C2 = 0 + FALSE / -FALSE / "" * TRUE & -FALSE * --FALSE / --TRUE * TRUE - -"" * --TRUE - 96 + -2.911 * --C3
+B3 = ROUND() * 17 / -A2
+# a comment

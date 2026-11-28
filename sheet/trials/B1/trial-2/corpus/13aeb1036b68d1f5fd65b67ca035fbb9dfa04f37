@@ -1,0 +1,4 @@
+#sheet v1
+A1 = 7
+C1 = IF(A1 > 5, IF(A1 > 10, "large", "med`ium"), "small")#sheet v1
+# may cover undefined ce

@@ -1,0 +1,4 @@
+#sheet v1
+
+B1 = -(-TRUE * -TRUE) * ---(FALSE * FALSE / TRUE <= FALSE - TRUE / -TRUE) * ---6 / CONCAT(TRUE * -FALSE & TRUE * TRUE / --FALSE / --FALSE) * ----2 + "i" > B1 & -TRUE
+D1 = TRUE / "U" + ---(-TRUE * --FALSE) & COUNT(-"" * -LEN(FALSE) > FALSE & -TRUE & FALSE / -FALSE - LEN(FALSE) & --FALSE * ROUND(FALSE) / ---TRUE, FALSE + -TRUE & --TRUE < --TRUE & (FALSE) / -(FALSE), -FALSE) >= -FALSE + -(IF() > --FALSE / --FALSE - ----TRUE) / TRUE * SUM(C1:C4, D2:B2, A3:D4)

@@ -1,0 +1,4 @@
+#sheet v1
+A1 = 1
+A2  = COUNT(A4:A3)
+B2 = COUNT(5- "x", 6)

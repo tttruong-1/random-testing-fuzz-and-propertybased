@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+A1 = ---LEN(TRUE * FALSE * FALSE > TRUE - TRUE & TRUE / FALSE + TRUE / FALSE, TRUE & TRUE & TRUE / TRUE >= FALSE) & -TRUE / --------92.28 * TRUE
+

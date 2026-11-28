@@ -1,0 +1,4 @@
+#sheet v1
+B3 = (MIN(FALSE, D1:A2) / --MAX(D3:C2, TRUE < TRUE) < 86.63) > -LEN(C2:D3) * TRUE + (--FALSE - --TRUE - FALSE / -MIN(D1:A3, TRUE) / --4 + -MAX(TRUE, A4:C3) >= -"") & -"" / FALSE
+A1 = -7
+

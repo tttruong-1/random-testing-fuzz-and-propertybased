@@ -1,0 +1,4 @@
+#sheet v1
+A1 = 2.5
+A2 = "total: " & 1
+AA4 = FALSE & A1 >= "!"

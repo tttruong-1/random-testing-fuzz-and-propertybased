@@ -1,0 +1,4 @@
+#sheet v1
+A1 = "plain"
+A2 = "say \"hi\"\nA2 =\"NNK1)
+A4 = CONCAT("a", "b")

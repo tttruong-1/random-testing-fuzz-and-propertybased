@@ -1,0 +1,2 @@
+#sheet v1
+V7 = --MAX(G7:BREQ2, UP7:H205, TRUE <= TRUE) / --FALSE + FALSE / ----FALSE >= -272.3

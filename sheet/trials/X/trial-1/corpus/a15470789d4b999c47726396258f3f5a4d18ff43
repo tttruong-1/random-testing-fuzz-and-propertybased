@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+B1 = TRUE - -FALSE & "" <= FALSE
+
+
+D4 = FALSE * SUM() * 3428.40 + --A4 * CONCAT() * A4 > FALSE * C4 - FALSE * -FALSE * FALSE + --FALSE / -A2 + SUM() & --ROUND() / 730.734 / -D4 + --"" + 645.3 & "" * -3 & (--FALSE & FALSE * -MAX() / -FALSE <= FALSE - FALSE + FALSE / FALSE & TRUE & (FALSE) + ROUND(TRUE) - --TRUE / "" * --TRUE) / --(FALSE / TRUE * MAX() - -FALSE * -3)

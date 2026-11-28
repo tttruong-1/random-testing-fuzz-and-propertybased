@@ -1,0 +1,10 @@
+#sheet v1
+B4 = --TRUE * TRUE / FALSE > --TRUE
+C2 = -FALSE
+
+D4 = ----FALSE * --D2 & FALSE + -7.3 & 0 <= -"" * C1 * FALSE / -COUNT(FALSE < TRUE - TRUE, D2:B3) * C2 / TRUE & TRUE * -5
+
+
+
+D3 = TRUE * --MIN() - -C4 * IF() * 45.1 + -FALSE * ---ROUND(TRUE, TRUE)
+

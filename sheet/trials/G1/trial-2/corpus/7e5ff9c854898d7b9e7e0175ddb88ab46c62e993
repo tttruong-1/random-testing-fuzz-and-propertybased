@@ -1,0 +1,8 @@
+#sheet v1
+# a comment
+A2 = "" * 18.71 * -TRUE - -2.702 / FALSE
+A1 = 10 * (--CONCAT(TRUE) & --"I" - -(TRUE - FALSE * TRUE >= FALSE) / ----TRUE)
+# a comment
+# a comment
+
+D4 = -FALSE * TRUE / TRUE * --"pv"

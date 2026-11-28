@@ -1,0 +1,3 @@
+#sheet v1
+
+L56 = -COUNT(FALSE * TRUE & TRUE * TRUE * TRUE & TRUE, LLG4:QX646, FALSE >= FALSE / TRUE, V1:W7, R7:M9) - FALSE - TRUE / "" / PT6 >= -30

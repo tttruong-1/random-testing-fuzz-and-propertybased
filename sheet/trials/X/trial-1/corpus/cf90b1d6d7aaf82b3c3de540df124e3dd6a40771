@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+A4 = -AVERAGE(C3:D4, D1:D1)

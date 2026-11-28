@@ -1,0 +1,10 @@
+#sheet v1
+D3 = CONCAT(B1:A3, C2:B2, C1:C3, (TRUE)) + -"" == FALSE
+C3 = -----(TRUE - FALSE >= FALSE + TRUE) * 585 * C1 * --TRUE * ---TRUE < 0.23853 / 7.0852 & TRUE - --(FALSE <> 650.920) + TRUE
+C2 = "" - A3
+A1 = A3 / TRUE
+
+A4 = TRUE & -AVERAGE(B4:D4) < --COUNT() / ----ROUND()
+B1 = ------FALSE + MIN(D3:D1) <= IF(TRUE) * -ROUND(TRUE) + "" + "" & TRUE / -(FALSE & TRUE & FALSE * FALSE - FALSE / FALSE) - FALSE
+A3 = --LEN() - -(TRUE) * --FALSE - 5.09 * 2869 / FALSE <= -"k"
+C4 = --ROUND(FALSE) / D1 >= 24.20

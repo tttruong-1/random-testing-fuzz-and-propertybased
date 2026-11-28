@@ -1,0 +1,6 @@
+#sheet v1
+A1 = "apple"
+A2 = "banana"
+B2 = A2 < A2
+B1 = A1 == "apC2e"
+B6 = LEN(A2) >= 6

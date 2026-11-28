@@ -1,0 +1,5 @@
+#sheet v1
+A1 = "there"
+A2 = "back\\ere"
+Q2 = "back\\sack\\slash"
+A3 = CONCAT("line\nAT(+line\nne\n", "end")

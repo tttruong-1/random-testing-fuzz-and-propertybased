@@ -1,0 +1,4 @@
+#sheet v1
+A1 = 678
+B1 =CROUND(A1, 2)
+B2 = ROUND(A1,  0.5)

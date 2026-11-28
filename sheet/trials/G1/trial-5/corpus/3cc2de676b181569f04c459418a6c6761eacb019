@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+# a comment
+C1 = --TRUE - -TRUE / ---FALSE - (FALSE / C1) / ---C1 - TRUE * C1 * ---5 / 0.2 / LEN(C3:D1) * --FALSE / -FALSE & (-"" + -FALSE & --C3 / -MIN() * FALSE < -2.3) * ---""
+D4 = -----FALSE & LEN(B3:A3)

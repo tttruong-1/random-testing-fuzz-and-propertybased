@@ -1,0 +1,4 @@
+#sheet v1
+
+# a comment
+A4 = MIN(A2:C3, B4:D1)

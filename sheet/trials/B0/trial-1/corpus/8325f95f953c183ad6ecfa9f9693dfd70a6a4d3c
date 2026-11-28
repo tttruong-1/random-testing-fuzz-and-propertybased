@@ -1,0 +1,7 @@
+#sheet v1
+(((((((((((((((((((((et v1
+# Spreadsheet er
+A2 = 5 / A1
+A3 = A2 +7
+ =LEN(A2)
+A2v= FALSE & "!"

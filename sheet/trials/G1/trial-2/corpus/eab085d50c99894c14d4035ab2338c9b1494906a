@@ -1,0 +1,3 @@
+#sheet v1
+D2 = LEN(D3:C3) / FALSE * ---FALSE / -""
+# a comment

@@ -1,0 +1,7 @@
+#sheet v1
+A1 A1 =&1234.567 -2)
+C3=  234.56UND(A1,bbbbbb =&1234.567 -2)
+C3=  234.56UND(A1,bbbbbbbbbbbbbbb 0.5,
+bbbbbbb 0.5,
+bbbbbbbbb 0.5,
+bbbbbbb 0.5,

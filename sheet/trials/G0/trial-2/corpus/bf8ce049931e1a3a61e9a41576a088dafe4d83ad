@@ -1,0 +1,4 @@
+#sheet v1
+
+# a comment
+B6 = -CONCAT(QN9:XU53, (FALSE), FALSE & TRUE < TRUE / -FALSE) <> ----MIN(R1:A3, TRUE, TRUE) + (TRUE)

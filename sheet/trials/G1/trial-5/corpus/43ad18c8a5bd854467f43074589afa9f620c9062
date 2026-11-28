@@ -1,0 +1,5 @@
+#sheet v1
+B1 = TRUE < "Zzrl " * --"Y" * "a"
+A1 = IF("" / -(TRUE), A3:B4, B3:A4)
+# a comment
+

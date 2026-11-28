@@ -1,0 +1,4 @@
+#sheet v1
+CT83 = FALSE <> -COUNT(F8616:G4) * -"w" * "ok0" + -FALSE
+
+PQ9 = -17783.93 / COUNT(ASR7:FV5, B8:DW5, L770:DB48)

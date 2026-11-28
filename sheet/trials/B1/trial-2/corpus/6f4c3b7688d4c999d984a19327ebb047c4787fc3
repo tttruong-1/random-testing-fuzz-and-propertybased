@@ -1,0 +1,4 @@
+#sheet v1
+A1 = 2.5
+A2 = "total: " & A1
+#sheet A3 = vIFA1 =3 RLE

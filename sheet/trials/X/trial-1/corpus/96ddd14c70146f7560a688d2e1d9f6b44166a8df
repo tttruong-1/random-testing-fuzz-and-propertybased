@@ -1,0 +1,3 @@
+#sheet v1
+A2 = TRUE & SUM(A4:D4, C4:B3, B2:D2) <= FALSE
+# a comment

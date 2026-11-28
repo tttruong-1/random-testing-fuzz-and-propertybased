@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+H860 = TRUE - 02
+F3 = FALSE > MAX() * ROUND()
+
+C30 = MAX(D4:M8, TRUE, TRUE) / -TRUE / -(TRUE / -FALSE) * --"wC7" / TRUE - ----7.869 * -FALSE

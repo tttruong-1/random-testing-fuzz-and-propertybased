@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+I8 = (---"" / -MIN(M2:X2, TRUE, TRUE) * ---FALSE > "" * AVERAGE() - TRUE / FALSE / TRUE) + -TRUE == --99

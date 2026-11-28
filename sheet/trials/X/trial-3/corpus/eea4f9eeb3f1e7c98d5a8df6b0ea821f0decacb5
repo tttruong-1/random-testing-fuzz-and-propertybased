@@ -1,0 +1,6 @@
+#sheet v1
+A4 = -"YLrWEt"
+
+D2 = TRUE
+C3 = COUNT(C2:D3, B1:B2, B4:A4) + TRUE / TRUE & ---8
+

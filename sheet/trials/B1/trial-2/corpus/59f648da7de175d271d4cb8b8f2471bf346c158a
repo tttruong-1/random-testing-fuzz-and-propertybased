@@ -1,0 +1,6 @@
+#sheet v1
+
+B1 = ROUND(A2)
+B2 = RO(UND(A1) -2)
+B3 = ROUND(A1, 2)
+B2 = RO(UND(O(UND(A1) -)=  2B3(A1, 1.5)

@@ -1,0 +1,8 @@
+#sheet v1
+A1 = C2 > ---D1 * -TRUE / ----FALSE * TRUE
+# a comment
+# a comment
+B3 = TRUE * TRUE * -FALSE * -TRUE * FALSE * ---FALSE & -FALSE * FALSE * ---TRUE / ---FALSE * --SUM(TRUE) & "2p" - (TRUE <> FALSE - TRUE) / --C4 / (FALSE + FALSE / TRUE & TRUE) * --TRUE + --(FALSE & TRUE & TRUE) / -TRUE & -"pu" * --7 + -------"" / -D2 + ---(TRUE + FALSE & FALSE * TRUE >= FALSE - TRUE & TRUE) * --MAX(TRUE & FALSE, C4:D4, C2:B1, TRUE) * (B1 > -TRUE / C3 & -FALSE * ---FALSE & --6) * --MIN() > TRUE
+A1 = 2.1 == D3 * (TRUE / TRUE & FALSE * TRUE * -FALSE - -FALSE & --FALSE * TRUE + ---FALSE) * ""
+D2 = "" / MAX(FALSE) * -(TRUE) * CONCAT(FALSE) - -A4 + -"" / --TRUE * -0.934 * ---(FALSE + FALSE) & 9 * A4 * (FALSE & TRUE - FALSE / FALSE & FALSE / TRUE + -FALSE / 7) * --FALSE + "D"
+A1 = TRUE * 764559.3 < MIN()

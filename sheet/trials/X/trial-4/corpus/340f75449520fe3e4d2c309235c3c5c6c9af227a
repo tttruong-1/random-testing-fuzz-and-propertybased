@@ -1,0 +1,5 @@
+#sheet v1
+D4 = ((FALSE & FALSE < FALSE) + TRUE + 8.1619 - -"UT") + -FALSE - 257
+# a comment
+C4 = ---IF(TRUE, TRUE, D2:A2) / -B4 + C1 / --TRUE * -7.41 / ---B3
+# a comment

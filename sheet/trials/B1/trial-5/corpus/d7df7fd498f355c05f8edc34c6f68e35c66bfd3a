@@ -1,0 +1,6 @@
+#sheet v1
+A1 = 1
+AF2 = "two"
+A4 = TRUE
+B1 = COUNT(B3:A3)
+B2 = COUNT(5, "x", 6)

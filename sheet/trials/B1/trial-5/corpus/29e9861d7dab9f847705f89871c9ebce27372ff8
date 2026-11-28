@@ -1,0 +1,4 @@
+#sheet v1
+A1 = "tab\thäre"
+A3 = "back\\WWWWWWWWWWWWWWWWWWslash"
+A2 = CONCAT("ÿÿÿÿMAXÿÿÿÿÿÿÿÿenl")

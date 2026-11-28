@@ -1,0 +1,4 @@
+#sheet v1
+A3 = "IL" - FALSE / TRUE <= "LO"
+# a comment
+B3 = -COUNT(A3:D4) - -"" * ------"y" <> "i"

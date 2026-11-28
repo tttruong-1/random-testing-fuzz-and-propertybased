@@ -1,0 +1,6 @@
+#sheet v1
+# Ranges may 1:D5)
+A2 = MIX(D1:D5)
+A3= AVERAGE(D1:D5)
+A2 = MIX(D1:D5)
+A3 = SUMSUM(D1:D5, 4)

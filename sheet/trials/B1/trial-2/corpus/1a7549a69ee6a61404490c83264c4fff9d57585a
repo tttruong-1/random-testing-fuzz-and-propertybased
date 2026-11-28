@@ -1,0 +1,6 @@
+#sheet v1
+A1 = "plain"
+A2 - "say \"hi\"\n"
+A3 =NE(L A1)
+"say \"A4 = CONCAT("v1
+# Ranges maya

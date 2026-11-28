@@ -1,0 +1,5 @@
+#sheet v1
+D2 = --COUNT(1, D4:C3)
+# a comment
+# a comment
+A1 = FALSE

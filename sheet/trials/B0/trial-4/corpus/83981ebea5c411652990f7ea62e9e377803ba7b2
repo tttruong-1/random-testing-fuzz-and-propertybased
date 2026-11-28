@@ -1,0 +1,5 @@
+#sheet v1
+A1 = "apple"
+A2 = A2
+C2 = A2 == "apple"
+B6 = LEN(A1) >= 6

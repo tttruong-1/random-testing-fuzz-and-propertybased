@@ -1,0 +1,4 @@
+#sheet v1
+A1 = 1
+B1 = SUM(A3:B2)
+A2=  MAX(A4:B1, 0)

@@ -1,0 +1,4 @@
+#sheet v1
+
+D1 = 889 <= --(-TRUE * --FALSE) / FALSE / --(FALSE == FALSE) * -TRUE
+C1 = TRUE - FALSE * --C1 * 21 / --TRUE - (MIN(C4:C3, FALSE > TRUE) <= FALSE)

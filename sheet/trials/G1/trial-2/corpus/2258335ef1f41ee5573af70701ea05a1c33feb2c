@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+A3 = ---A2 == "" - ---"" * SUM(FALSE + -FALSE <> TRUE * TRUE) / 9767 / LEN(LEN() - -FALSE / D2 > TRUE / TRUE + TRUE * FALSE * FALSE / -FALSE + (TRUE), FALSE - -FALSE == FALSE - -TRUE & LEN()) - ---"hi" / C1 - TRUE / -"l" / 8 / FALSE * (--TRUE / FALSE * (FALSE - FALSE + FALSE & TRUE / FALSE - -TRUE) < ----TRUE) * AVERAGE("" > -FALSE, FALSE + FALSE / -TRUE + FALSE * -FALSE * -TRUE & -7 & -"" * -(TRUE) > FALSE * FALSE * TRUE / --TRUE * (FALSE >= FALSE) + FALSE / AVERAGE() * A1 / -D3)
+A4 = -A2 + 03.28 * FALSE * --TRUE / ""

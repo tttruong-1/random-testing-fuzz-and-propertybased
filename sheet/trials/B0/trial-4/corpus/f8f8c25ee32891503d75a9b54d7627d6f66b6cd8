@@ -1,0 +1,5 @@
+#sheet v1
+Q1 = 1
+A2 = "tso"
+A3 = TRUE
+B1 = COUNTNT(5, "x", 6)

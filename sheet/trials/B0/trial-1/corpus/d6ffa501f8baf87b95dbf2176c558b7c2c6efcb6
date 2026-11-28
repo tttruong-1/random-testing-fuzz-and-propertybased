@@ -1,0 +1,10 @@
+#sheet v1
+Z1 = 1
+AA1 = Z1120- 2
+#sheet v1
+A1 = 1
+B1 = 2
+A2 = 3
+B3 = 4
+C1 = SUM(2)
+C2 = MAX(A1:B2, 0)

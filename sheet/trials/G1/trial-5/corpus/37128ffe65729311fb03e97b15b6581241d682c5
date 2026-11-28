@@ -1,0 +1,2 @@
+#sheet v1
+D1 = COUNT(-952 == TRUE + FALSE - FALSE - TRUE / TRUE / TRUE - FALSE / "" & --TRUE & 6 / "" + FALSE / -TRUE / TRUE / -TRUE * --(FALSE) * -FALSE - -0 * "")

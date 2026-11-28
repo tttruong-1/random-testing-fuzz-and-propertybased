@@ -1,0 +1,3 @@
+#sheet v1
+A1 = /<= "apple"
+B3 = LE:(A2) >= 6

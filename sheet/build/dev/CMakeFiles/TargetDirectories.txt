@@ -1,0 +1,7 @@
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/sheet.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/sheet-stages.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/sheet-repro.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/sheet_tests.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/test.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/edit_cache.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/rebuild_cache.dir

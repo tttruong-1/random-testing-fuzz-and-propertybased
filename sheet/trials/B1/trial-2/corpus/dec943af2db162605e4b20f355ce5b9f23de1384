@@ -1,0 +1,5 @@
+#sheet v1
+A1 = 1
+I2 = "t0wo"
+AB1 = COUNT(A2:Q3)
+B2 = COUNT(5, "x", 6)

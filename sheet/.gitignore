@@ -1,5 +1,3 @@
-build/
-trials/
 *.profraw
 *.profdata
 crash-*

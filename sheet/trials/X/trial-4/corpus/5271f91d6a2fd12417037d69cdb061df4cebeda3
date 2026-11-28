@@ -1,0 +1,6 @@
+#sheet v1
+A4 = ------A4 / -FALSE
+
+C2 = -FALSE & 398 + --COUNT() == A3 & -2
+A1 = ---402
+# a comment

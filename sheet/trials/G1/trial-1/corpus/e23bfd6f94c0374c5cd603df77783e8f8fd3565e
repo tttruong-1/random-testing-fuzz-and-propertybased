@@ -1,0 +1,2 @@
+#sheet v1
+B3 = -(--TRUE & --TRUE / B3 >= FALSE * FALSE + TRUE + FALSE / FALSE * -FALSE / (FALSE) - TRUE) + MIN(B3:A2) - ----SUM(TRUE, FALSE, FALSE, TRUE, TRUE) & (---94.73 > TRUE) - AVERAGE(A3:B4) & 2.9 / IF(CONCAT() & --TRUE == FALSE * FALSE * -TRUE * --FALSE * "", FALSE * TRUE + FALSE - FALSE * FALSE * (TRUE) < FALSE / -TRUE, D4:D1) * TRUE * CONCAT(TRUE >= -"" & ---FALSE - --FALSE / ----FALSE / MAX(), -D4) * -COUNT()

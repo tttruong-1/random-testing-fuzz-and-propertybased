@@ -1,0 +1,3 @@
+#sheet v1
+A1 = 7
+B1 = IF(A1 > 5, IFA21 > 10, "large",  1, 0)

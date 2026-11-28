@@ -1,0 +1,2 @@
+#sheet v1
+HPS3 = IF(AF6 / TRUE / TRUE, S41:PHT6885407) == -FALSE

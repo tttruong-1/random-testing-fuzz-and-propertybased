@@ -1,0 +1,3 @@
+#sheet v1
+F9 = "" & TRUE * LEN(XU275:JY7) * "" + FALSE & --FALSE - "X" / -TRUE * FALSE * -AVERAGE() * 8 * -2461 > -SJB7 * --TRUE * MIN("" & IG48 + ---FALSE * --(TRUE == FALSE), (TRUE - FALSE <= TRUE & FALSE)) & "J" / -FALSE
+

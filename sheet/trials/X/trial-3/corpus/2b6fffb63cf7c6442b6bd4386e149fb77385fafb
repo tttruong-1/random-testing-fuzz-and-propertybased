@@ -1,0 +1,3 @@
+#sheet v1
+D3 = CONCAT(A1:A2)
+# a comment

@@ -1,0 +1,4 @@
+#sheet v1
+A1 = "plain도도도도도도도도\n"
+A2 = LEN(A1)
+A4 = CONCAT("a", "b")

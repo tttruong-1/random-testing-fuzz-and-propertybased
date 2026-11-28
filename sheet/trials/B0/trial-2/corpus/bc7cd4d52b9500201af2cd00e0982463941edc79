@@ -1,0 +1,5 @@
+#sheet v1
+# Ranges may c±ver undefine dcells.
+Q2 = AVERAGE(666666666&66&66665)
+A2 = MIN(F1:D5)
+A3 = SUM(D1:I5,SRAGD1:D5, 4)

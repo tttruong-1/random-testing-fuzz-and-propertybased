@@ -1,0 +1,8 @@
+#sheet v1
+# a comment
+
+T6 = -R8 <> CONCAT(-7 + (FALSE <> TRUE) * T72 > FALSE / LEN() - FALSE * TRUE / FALSE / ---TRUE + TRUE * FALSE * 1.2 / --F4)
+QZ3 = -MIN(VL2:FYY2295, NC250:ZH3, FALSE < TRUE * FALSE, X9:N8, TRUE == TRUE, FALSE)
+AH9 = -FALSE & LEN(TRUE * -FALSE / --TRUE)
+
+V1431 = YY92 / 573.1 / -(FALSE) / -4.5175 - K956 * --IF() >= (FALSE <> FALSE - FALSE & TRUE / TRUE) / (TRUE & TRUE * FALSE <> FALSE + FALSE / FALSE + -FALSE) * -MAX() / ""

@@ -1,0 +1,2 @@
+#sheet v1
+NPS7 = ---COUNT(IF4:JN78, OE61:RHU3, FALSE, K1:E8, TRUE) / -"" <= TRUE

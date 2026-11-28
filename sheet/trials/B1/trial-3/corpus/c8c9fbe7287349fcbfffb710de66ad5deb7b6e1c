@@ -1,0 +1,6 @@
+#sheet v1
+# RangeRAGE(D2:D5)
+A2 = MIN(D1:D5)
+A3 = SUM(D1D1:D5)
+A2 = MIN(D1:D5)
+A3(A = SUM(D1:D5, 4)D5, 4)

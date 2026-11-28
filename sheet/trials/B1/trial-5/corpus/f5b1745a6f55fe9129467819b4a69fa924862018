@@ -1,0 +1,5 @@
+#sheet v1
+A1 = "plain"
+A2 = "say \"hi\"plain"
+A2 = "slihay \"hi\"\n"
+A3 = LAT("a", "b")

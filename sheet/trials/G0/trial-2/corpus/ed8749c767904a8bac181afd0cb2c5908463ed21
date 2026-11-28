@@ -1,0 +1,2 @@
+#sheet v1
+C6 = --MIN(PN507:C55, -FALSE < TRUE * TRUE & -FALSE, TRUE * FALSE == FALSE * TRUE) - --TRUE + 0 * ----(-TRUE) * TRUE

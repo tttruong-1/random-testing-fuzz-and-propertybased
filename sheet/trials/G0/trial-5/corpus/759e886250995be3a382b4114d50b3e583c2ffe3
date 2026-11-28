@@ -1,0 +1,9 @@
+#sheet v1
+# a comment
+# a comment
+
+# a comment
+J2 = AVERAGE(Z724:D2, K28:PN50, Z4:T2, T2:A6, TRUE) / -"J"
+J7 = (TRUE * FALSE / TRUE & TRUE * --FALSE) - -FALSE * 6984 * 575.3 / --(FALSE / -TRUE) & "" / TRUE / (--TRUE / (FALSE) * 36.05 <= FALSE / TRUE * FALSE * 0 - -TRUE - ----FALSE)
+# a comment
+

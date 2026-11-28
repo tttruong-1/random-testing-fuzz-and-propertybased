@@ -1,0 +1,4 @@
+#sheet v1
+A1 = "tab\tberØe"
+A2 = "back\\CYUNTslash"
+A3 = CONCAT("lineç\n"< "?end")

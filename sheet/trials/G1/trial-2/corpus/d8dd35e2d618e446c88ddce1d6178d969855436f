@@ -1,0 +1,4 @@
+#sheet v1
+C3 = AVERAGE(FALSE) / ----COUNT(TRUE + TRUE & FALSE & -FALSE == TRUE + TRUE + FALSE - FALSE / -FALSE & FALSE * -TRUE / TRUE, FALSE, C1:C4, D2:D3, A3:A1, A1:C4, FALSE)
+# a comment
+A2 = "PX" / ----135.20

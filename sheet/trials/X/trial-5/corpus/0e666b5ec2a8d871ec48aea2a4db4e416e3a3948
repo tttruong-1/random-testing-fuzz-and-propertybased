@@ -1,0 +1,2 @@
+#sheet v1
+C1 = LEN(B4:C1, C3:C3, A3:C4, B1:C4, B1:B1) < 55 * --(-5) + -----9.7 / -FALSE & COUNT(TRUE - -TRUE <= TRUE - TRUE * TRUE + FALSE * -FALSE) * -CONCAT() / -TRUE / FALSE & -"" / -MIN(C2:D1, A2:D1) & -MAX(TRUE / TRUE - -TRUE & FALSE * TRUE / FALSE / B3 & B2 & --"" + -FALSE >= D2 / CONCAT() & -TRUE & C4 / TRUE, (FALSE) * 2.7 - TRUE, B2:A2)

@@ -1,0 +1,15 @@
+#sheet v1
+C4 = FALSE / --A3
+
+# a comment
+B4 = -C1 / "" / ""
+# a comment
+
+D4 = (FALSE - -TRUE > 5) * B3 > --D1
+B3 = (TRUE <> TRUE) - (TRUE) / -D4 / -CONCAT(FALSE) + (FALSE - TRUE > FALSE + TRUE) / ---7 - TRUE * FALSE * -(TRUE) * FALSE * IF(B1:A1) * (FALSE * TRUE * -FALSE) & TRUE >= TRUE * TRUE + FALSE - FALSE + ---FALSE - TRUE
+# a comment
+
+A3 = --TRUE / 1 * COUNT()
+C3 = "" / --TRUE == TRUE * TRUE / -TRUE * TRUE
+
+A2 = FALSE == FALSE / FALSE / -FALSE

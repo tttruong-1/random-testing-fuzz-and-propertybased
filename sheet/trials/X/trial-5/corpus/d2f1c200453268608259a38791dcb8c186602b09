@@ -1,0 +1,8 @@
+#sheet v1
+
+B2 = ---FALSE
+
+B4 = "" & "!8" < ---FALSE
+
+# a comment
+D2 = -"H" * (TRUE & TRUE - FALSE * FALSE * TRUE) * FALSE * --------FALSE <> (-TRUE / FALSE & -IF() <= TRUE / FALSE * TRUE / "" * C3)

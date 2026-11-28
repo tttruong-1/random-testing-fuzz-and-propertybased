@@ -1,0 +1,4 @@
+#sheet v1
+A1 = "tab\thäre"
+A2 = "back\\slash"
+A2 = CONCAT("ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿline\n", "enl")

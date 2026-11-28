@@ -1,0 +1,7 @@
+#sheet v1
+
+A1 = ---COUNT(B2:B4, FALSE / FALSE)
+
+# a comment
+
+# a comment

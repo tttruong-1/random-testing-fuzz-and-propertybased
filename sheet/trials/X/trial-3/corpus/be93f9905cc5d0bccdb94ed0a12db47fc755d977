@@ -1,0 +1,3 @@
+#sheet v1
+
+D4 = (TRUE + FALSE * TRUE & -TRUE - -FALSE & AVERAGE(FALSE) + TRUE / FALSE / -FALSE * 57) * -(TRUE / TRUE * -FALSE * B3 + --TRUE / ---TRUE - D1 * FALSE <> FALSE) / --C2 * --A4 + -"2" == -B3 * LEN(A3:A1, TRUE / -FALSE) & "" & --(-(FALSE + TRUE + FALSE < FALSE & FALSE / FALSE))

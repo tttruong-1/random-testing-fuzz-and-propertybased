@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+B3 = -6.88 - CONCAT(C4:C2)

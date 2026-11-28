@@ -1,0 +1,13 @@
+#sheet v1
+A1 = "plain"
+A1 = "plain"
+A2 = "say *\"hi\"\n"
+A3"\"\n\"\n"
+A4"\"\n"
+"\" = hi\"\n"
+A3"\"\n\"\n"
+A4"\"\n"
+"\" = &say \"hi\"\n"
+A4"2 = &s)ay &say \"hi\"\n"
+A4"2 = &s)ay \"hi\"\n"
+A

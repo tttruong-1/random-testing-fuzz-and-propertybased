@@ -1,0 +1,2 @@
+#sheet v1
+A3 = TRUE * -SUM(A3:D4, D2:C3, B4:C3, A2:D4, TRUE & FALSE + FALSE * TRUE <> TRUE + TRUE - FALSE) & -TRUE / "7"

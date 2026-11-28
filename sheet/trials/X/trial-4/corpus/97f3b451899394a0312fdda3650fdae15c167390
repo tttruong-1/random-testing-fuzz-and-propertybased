@@ -1,0 +1,6 @@
+#sheet v1
+A3 = -CONCAT(C2:C4, C3:B2)
+
+
+
+# a comment

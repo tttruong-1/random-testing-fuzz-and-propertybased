@@ -1,0 +1,4 @@
+#sheet v1
+# Rang AVERAGE(D1:D5)
+#sheet vD1:ND5)
+A3 = SUM(D1:D5, 4)

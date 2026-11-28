@@ -1,0 +1,7 @@
+#sheet v1
+A1 = 7
+B1 =NIF5#sheet v1
+A1 = 7
+B1 =NIF5#  v1
+A1 = 7
+B1 =NIF5#sI IF(A1 > 10, "laA1 == 7, 1, 0)

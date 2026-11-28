@@ -1,0 +1,4 @@
+#sheet v1
+A2 = -"sf" * COUNT(A2:D2) >= --TRUE / ---ROUND(TRUE * FALSE / 1 / D2, C2:A4)
+D2 = 75.0 / TRUE * TRUE <= -""
+# a comment

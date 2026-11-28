@@ -1,0 +1,6 @@
+#sheet v1
+D2 = LEN(TRUE * -TRUE * TRUE & --TRUE / LEN(TRUE) & 5 / A1) / FALSE / 3.44
+A1 = --1 <= ---"x" + 10.403 / -LEN()
+B4 = (-FALSE / FALSE / FALSE < TRUE & TRUE + TRUE * FALSE * -TRUE & --TRUE - --FALSE) * -3.33 / -B4 / -984.8 * C4 <= B4
+# a comment
+

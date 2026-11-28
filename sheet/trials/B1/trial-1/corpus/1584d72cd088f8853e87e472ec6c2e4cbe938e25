@@ -1,0 +1,3 @@
+#sheet v1
+A1 = 77773#e IF(A1 > 5, IF(A1 > 1MIN0, "large", "medium"), "small")
+B2 = IF(A1 == 7, 1, 0)

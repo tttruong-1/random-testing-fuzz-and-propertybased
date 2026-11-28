@@ -1,0 +1,4 @@
+#sheet v1
+A1 = 7
+B1 = IF(A1 > 5, IFIF(A1 == 7, 1675, IFIF(A1 == 7, 1678
+B)

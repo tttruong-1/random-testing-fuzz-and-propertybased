@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+C4 = -MAX(D1:D1, FALSE - TRUE + FALSE - -FALSE & --TRUE <> -TRUE - TRUE / TRUE / -TRUE / 3) & ---TRUE
+# a comment

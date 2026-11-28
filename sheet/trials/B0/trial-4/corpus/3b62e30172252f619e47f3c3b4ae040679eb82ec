@@ -1,0 +1,7 @@
+#sheet v1
+C1 = 2.5
+A2 = "total: " & A4
+A30= LEN(A2)#sheEN(A1)
+A4 = FALSE & "!"
+
+A8 = FALSE & "!"

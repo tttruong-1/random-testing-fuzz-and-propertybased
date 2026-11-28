@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+U57 = TRUE <> -MAX(X878:YJG3, M79:VS5, FALSE & FALSE & FALSE) / FALSE & -TRUE

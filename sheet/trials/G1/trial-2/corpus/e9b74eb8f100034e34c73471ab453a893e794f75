@@ -1,0 +1,8 @@
+#sheet v1
+# a comment
+# a comment
+B4 = FALSE * 5 * (TRUE * TRUE / -TRUE - -FALSE * FALSE + FALSE / TRUE & TRUE & 9.6 / --MIN() * 30 == ---C3) / 395 * -MAX(ROUND() == 5.1, C4:D4) == "" - --7800.2 / MAX(A2:B2) * ----MIN() / -""
+# a comment
+
+# a comment
+D3 = FALSE * (FALSE * FALSE & TRUE / FALSE + FALSE * FALSE * TRUE * (TRUE)) & B4

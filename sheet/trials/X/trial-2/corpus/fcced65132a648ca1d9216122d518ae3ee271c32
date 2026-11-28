@@ -1,0 +1,7 @@
+#sheet v1
+D3 = -A2 / -C3 * -AVERAGE(D3:D1, -TRUE & (TRUE)) * -B4 / -A4
+
+
+D4 = FALSE / FALSE < ----CONCAT()
+A1 = FALSE - -TRUE * "" * FALSE + (FALSE * CONCAT()) / C1 - MIN() * ((FALSE) * A3 & ---FALSE) * A4
+# a comment

@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+C2 = TRUE * -ROUND(D2:D2, A4:C4, B2:C4, C4:C2, TRUE, TRUE) / (C2 + -C2 / 4.6585 < --FALSE + --D4) & "a" + FALSE / --TRUE / (--FALSE & LEN(FALSE > TRUE)) / D3
+

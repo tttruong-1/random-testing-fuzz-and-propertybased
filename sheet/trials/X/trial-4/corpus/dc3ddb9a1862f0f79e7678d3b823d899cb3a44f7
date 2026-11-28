@@ -1,0 +1,8 @@
+#sheet v1
+# a comment
+C4 = COUNT(A4:A4, D2:C2, TRUE, FALSE, TRUE, TRUE) * D1 * -MIN() / -----TRUE * ---(-FALSE + TRUE / FALSE * -FALSE * -(TRUE) / --(TRUE) - -"v")
+D1 = "" * -TRUE / (-FALSE / --TRUE / -TRUE) / (-FALSE * --TRUE + 7 + -TRUE * ---TRUE * SUM() <= AVERAGE(TRUE)) - ---(FALSE) / D3 * --D2 * FALSE * ---A1 & "" / --TRUE * -FALSE & ---(2 * -FALSE - -"") < A1 - ((TRUE * TRUE / -TRUE < FALSE / FALSE)) * -887
+A4 = CONCAT(TRUE / FALSE * -FALSE * TRUE / C3 == -TRUE / --FALSE - ---TRUE)
+C4 = 08
+
+A1 = B1 / --LEN() * 9 / --12.31 * FALSE / -(-TRUE <= TRUE - TRUE & TRUE * FALSE - -FALSE * (FALSE))

@@ -1,0 +1,5 @@
+#sheet v1
+
+J43 = TRUE & --"" / -FALSE / -"" + ----"" * 3
+# a comment
+

@@ -1,0 +1,4 @@
+#sheet v1
+
+# a comment
+B1 = COUNT(TRUE / FALSE - FALSE == TRUE - TRUE & TRUE - FALSE / -TRUE, A3:A3) * TRUE * ------"D" + -TRUE <> "ks1d" / TRUE

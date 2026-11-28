@@ -1,0 +1,2 @@
+#sheet v1
+C1 = (MAX() / -ROUND() / C4 <> (TRUE) / (TRUE) * FALSE) * -COUNT(D1:B2) - --(--FALSE / --TRUE - ----TRUE) + --"" / TRUE - D4 - --"" <> (27 + -FALSE < -"" / TRUE * "ks" * -FALSE - --"") * -B3

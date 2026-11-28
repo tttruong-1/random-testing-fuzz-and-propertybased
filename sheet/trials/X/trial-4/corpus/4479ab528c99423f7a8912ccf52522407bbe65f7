@@ -1,0 +1,4 @@
+#sheet v1
+C1 = AVERAGE(D3:A2)
+D4 = C1
+# a comment

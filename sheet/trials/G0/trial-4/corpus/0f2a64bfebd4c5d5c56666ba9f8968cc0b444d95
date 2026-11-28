@@ -1,0 +1,2 @@
+#sheet v1
+XI54 = FALSE * COUNT(G64485:G7) <> --"" / TRUE - FALSE * -FALSE / --78.92

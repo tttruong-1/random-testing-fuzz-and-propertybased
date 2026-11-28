@@ -1,0 +1,8 @@
+#sheet v1
+
+# a comment
+# a comment
+# a comment
+A3 = 051 & ---TRUE * -COUNT() + -A4 * ---(FALSE - FALSE / FALSE) / -TRUE == TRUE
+B4 = -"" / ----TRUE / --MIN(FALSE) / -"p:d" / --ROUND(TRUE) - -C1 > -TRUE * --TRUE
+

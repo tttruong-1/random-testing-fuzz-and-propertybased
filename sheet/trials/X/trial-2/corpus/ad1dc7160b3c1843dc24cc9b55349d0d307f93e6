@@ -1,0 +1,2 @@
+#sheet v1
+C2 = -----"z" / TRUE * CONCAT(B2:A4, D2:A4, A2:D1, FALSE >= TRUE) - --(-FALSE * -FALSE * "" - ---FALSE + -ROUND(TRUE, FALSE)) - "" - --TRUE

@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+
+A1 = 9.3 / (FALSE + FALSE * FALSE + --FALSE & (TRUE) / --FALSE & FALSE + -----TRUE <= --(TRUE)) & TRUE + ""

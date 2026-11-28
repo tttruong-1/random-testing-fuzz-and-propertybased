@@ -1,0 +1,9 @@
+#sheet v1
+D2 = --3.6 & D4 - LEN() / FALSE
+
+# a comment
+
+A1 = TRUE / --COUNT() / TRUE / (49.52 <= TRUE / FALSE - FALSE & FALSE * FALSE / -TRUE * D4 & FALSE * FALSE * FALSE / -FALSE / ---TRUE - -(TRUE)) / MIN()
+
+B2 = -(TRUE * FALSE * -FALSE - TRUE * D1) >= ROUND(TRUE) / "" + "t" / 463
+A4 = FALSE

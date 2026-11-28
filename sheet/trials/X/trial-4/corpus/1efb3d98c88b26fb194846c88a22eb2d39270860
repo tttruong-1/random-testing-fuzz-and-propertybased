@@ -1,0 +1,2 @@
+#sheet v1
+B4 = ----SUM(--TRUE >= TRUE * TRUE + FALSE * TRUE * -TRUE + FALSE / TRUE, B3:D2, TRUE < TRUE, D3:D1, C3:A1, C4:A1, FALSE)

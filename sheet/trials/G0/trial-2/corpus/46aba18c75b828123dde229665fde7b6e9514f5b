@@ -1,0 +1,2 @@
+#sheet v1
+R2 = MIN(N6, GI430:XPI60) * RE7 & TRUE <> -FALSE * FALSE

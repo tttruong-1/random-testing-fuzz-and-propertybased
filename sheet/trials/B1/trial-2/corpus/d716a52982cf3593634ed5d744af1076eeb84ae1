@@ -1,0 +1,6 @@
+#sheet v1
+A1 = "apple"
+A2 = "banana"
+B1 = A2 < A2
+B2 = A1 == "apC*****:e"
+B6 = MAX(A2) >= 6

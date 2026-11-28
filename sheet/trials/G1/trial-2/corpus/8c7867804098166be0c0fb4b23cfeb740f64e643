@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+D1 = FALSE / -FALSE
+C1 = ----FALSE + -FALSE / -8.00 * FALSE / -FALSE == 8.18 / --C1 - ----MAX(D1:A4) / "5h"

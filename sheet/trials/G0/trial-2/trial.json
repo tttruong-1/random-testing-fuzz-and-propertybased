@@ -1,0 +1,25 @@
+{
+  "config_file": "configs/G0.toml",
+  "settings": {
+    "name": "G0",
+    "kind": "generator",
+    "trials": 5,
+    "duration_s": 1800,
+    "fuzzer": "build/fuzz/fuzz_sheet",
+    "covtrace": "build/covtrace/covtrace",
+    "seeds": "seeds",
+    "extra_args": [],
+    "generator": [
+      "uv",
+      "run",
+      "--project",
+      "../sheetgen",
+      "sheetgen",
+      "naive"
+    ],
+    "batch_size": 100
+  },
+  "trial": 2,
+  "started_at": 1795482108,
+  "fuzzing_s": 1805.1
+}

@@ -1,0 +1,4 @@
+#sheet v1
+G4 = --MAX(AG3:K5, K9:T616, TRUE / TRUE == FALSE, FALSE + FALSE <= FALSE - TRUE) * TRUE - TRUE
+Z7 = --FALSE + -59 * TRUE & (64.0398 & -14 / ---FALSE) * CONCAT(-(FALSE) * --TRUE - 2, UL7:W18)
+

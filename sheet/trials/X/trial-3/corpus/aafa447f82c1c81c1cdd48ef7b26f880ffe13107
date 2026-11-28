@@ -1,0 +1,5 @@
+#sheet v1
+C3 = ("" + ---CONCAT() & --2 < MIN()) + 19.8 * TRUE / ---7
+
+# a comment
+C2 = FALSE / TRUE * -C1 + "" / -FALSE

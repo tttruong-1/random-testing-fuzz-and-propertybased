@@ -1,0 +1,6 @@
+#sheet v1
+A1 = "applÿÿÿÿÿ A2 ==ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿe"
+A2 = "##sheet shbanana"
+B1 = A1 < A2
+B2 = A2 == "apple"
+B6 = LEN(A2) >= 6

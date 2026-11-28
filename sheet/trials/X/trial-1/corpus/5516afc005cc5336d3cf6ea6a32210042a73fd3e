@@ -1,0 +1,8 @@
+#sheet v1
+
+B1 = --B3 - MAX(-TRUE + --IF(FALSE), TRUE * FALSE * --TRUE * -(FALSE) * 8) <= C4 + ---LEN(FALSE / FALSE / FALSE & FALSE / -TRUE * "")
+
+B2 = D3 / (-"" == B4 & "") < (--TRUE) - ---A4 & --(FALSE * -FALSE / --TRUE) - --FALSE - LEN(TRUE - TRUE > FALSE - FALSE, D3:A1) / -MAX(FALSE - TRUE) / TRUE / "yx" / ----(TRUE / TRUE - FALSE)
+# a comment
+B2 = SUM(FALSE == FALSE, TRUE == FALSE) + SUM() * -FALSE * -84.67 + -TRUE == SUM(TRUE * TRUE, FALSE & TRUE >= FALSE - FALSE, C3:D1, TRUE, C3:A4)
+A1 = -(FALSE * TRUE & -FALSE == TRUE - TRUE / FALSE / TRUE / -TRUE)

@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+C3 = --"D"
+D3 = (-(FALSE <= TRUE)) - --COUNT() * --CONCAT(D4:A4) + --LEN(TRUE) * FALSE / (-TRUE / B2 * TRUE * "" <= B2 / --A4) / (--(TRUE) >= -(FALSE) - ---FALSE / ----TRUE + CONCAT(TRUE) * ---AVERAGE(TRUE)) / -B1

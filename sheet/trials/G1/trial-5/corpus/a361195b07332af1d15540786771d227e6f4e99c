@@ -1,0 +1,10 @@
+#sheet v1
+A1 = MAX(D2:B2) * --SUM() / -MAX() * --TRUE * "5" / -"" + -AVERAGE("" > -FALSE * D1, B1:D1) * ----TRUE & 1.6 * -A3 / (TRUE / -FALSE * (--TRUE <> TRUE + -MIN()) & "") > 91 * ((---TRUE) == ---FALSE * ---MAX(D1:C2, TRUE)) * (--(TRUE * FALSE / -FALSE) & ----FALSE)
+# a comment
+
+A2 = --609.395 - --B4 * 15.1 / FALSE + ---1 / TRUE / 15199 + ---7.7 / -----"" / -IF(B1:D4)
+# a comment
+A3 = --(FALSE + FALSE) / -B4 / ------(TRUE) / -TRUE <> ---0
+
+D2 = (TRUE <> TRUE) * (TRUE + TRUE > TRUE) / (TRUE) / TRUE * TRUE > TRUE & 2 / ""
+D2 = ---FALSE / --ROUND() * B4 * C3

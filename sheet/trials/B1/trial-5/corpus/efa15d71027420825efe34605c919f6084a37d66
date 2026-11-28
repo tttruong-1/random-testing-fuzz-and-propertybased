@@ -1,0 +1,5 @@
+#sheet v1
+A1 = 2.0
+A2 = "total:A2 " & A1
+A3 =--0---5-9------- LEN(A2)
+A4 = FALSE & "!"

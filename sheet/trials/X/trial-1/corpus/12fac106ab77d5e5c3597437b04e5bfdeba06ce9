@@ -1,0 +1,3 @@
+#sheet v1
+C3 = A2 / --4 < ----TRUE / ----TRUE - ----26 / ---TRUE + CONCAT() * MAX(--(TRUE - FALSE < TRUE - TRUE), A2:C3)
+

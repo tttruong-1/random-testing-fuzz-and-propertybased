@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+FAQ4 = -CONCAT(-FALSE / --FALSE / "" / "T", U1:I8036) <= (FALSE) / --5.12
+
+# a comment

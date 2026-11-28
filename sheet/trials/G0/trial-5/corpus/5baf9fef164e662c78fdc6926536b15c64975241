@@ -1,0 +1,15 @@
+#sheet v1
+# a comment
+V186 = FALSE / ---AV31
+
+
+# a comment
+TC2 = -FALSE * "1gU"
+# a comment
+
+
+# a comment
+T21 = FALSE & TRUE + FALSE * FALSE + -FALSE - FALSE * FALSE - ROUND() & -IF() / -6
+# a comment
+
+T6 = FALSE

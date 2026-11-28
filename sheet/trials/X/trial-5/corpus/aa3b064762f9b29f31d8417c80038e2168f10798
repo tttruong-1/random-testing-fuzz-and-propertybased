@@ -1,0 +1,3 @@
+#sheet v1
+A2 = TRUE * MIN() + TRUE / --B2 / D4 * -TRUE & D4 + CONCAT() * ((MAX() * ROUND(TRUE) > FALSE * --TRUE + FALSE / -FALSE / 3 / MIN(TRUE)) <= 0.5) + -FALSE * (---(FALSE - TRUE * TRUE) <= "T") / (--D3 * TRUE >= SUM() / TRUE / 7 / (TRUE * FALSE + FALSE) / -TRUE / --FALSE * ---(FALSE & TRUE + FALSE * TRUE < -TRUE)) <> --MAX() / D3 / -LEN()
+

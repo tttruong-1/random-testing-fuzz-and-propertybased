@@ -1,0 +1,5 @@
+#sheet v1
+A2 = B3 + (TRUE + TRUE & FALSE / TRUE & TRUE & TRUE / -TRUE * --TRUE & A4 + SUM() / ---TRUE - -(TRUE + FALSE == FALSE)) * TRUE - MAX(C2:D3, B2:A1, TRUE * -FALSE <= TRUE * TRUE, C1:A1, A4:D1) / -(-TRUE / (TRUE <> FALSE) & -(TRUE) * ----TRUE - ---C2 + -D2 <> --FALSE * FALSE / 8.18 - -FALSE) & -FALSE - (--"\\") / (--TRUE * ROUND() + ---TRUE * IF() & 4 >= FALSE * 16.1 / FALSE & -----TRUE * (TRUE & FALSE * TRUE & FALSE) + -FALSE / ---71.42 & FALSE / FALSE / --TRUE * -"" * -(FALSE >= FALSE) / COUNT() / 21.57 / -2.30 / -(TRUE - FALSE / TRUE / TRUE + TRUE * FALSE * TRUE / --FALSE)) / (D4 * SUM() * -TRUE * AVERAGE() + -FALSE * ----"17")
+
+
+B4 = ---SUM() * --(FALSE - TRUE * -TRUE / FALSE & --TRUE * -1) / SUM(TRUE * (TRUE) / "")

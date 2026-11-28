@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+
+B4 = -----MIN(A1:C1)
+# a comment

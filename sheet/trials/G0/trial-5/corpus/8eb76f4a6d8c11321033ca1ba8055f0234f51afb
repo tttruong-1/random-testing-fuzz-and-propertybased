@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+Q9 = (--FALSE == -TRUE / --FALSE + -FALSE / TRUE - --(FALSE) - TRUE / "1e" - "" / --"w" & -TRUE * -TRUE * -TRUE / 43.90 * (FALSE) * ---D4 * IF() - -SUM(TRUE == TRUE, FALSE >= FALSE))

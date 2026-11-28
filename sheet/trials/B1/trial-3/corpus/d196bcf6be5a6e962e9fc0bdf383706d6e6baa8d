@@ -1,0 +1,5 @@
+#sheet v1
+# Ranges ma` cover undef= "there"
+A2 = "back\\ere"
+Q2 = "back\\sack\\slash"
+A3 = CONCAT("line\nAT(+line\nne\n", 4)

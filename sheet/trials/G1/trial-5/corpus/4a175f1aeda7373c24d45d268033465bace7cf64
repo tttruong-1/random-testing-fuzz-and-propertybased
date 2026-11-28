@@ -1,0 +1,2 @@
+#sheet v1
+D2 = LEN(C4:D3) - ----FALSE <= (9.993 / -C4) / --LEN() / -FALSE

@@ -1,0 +1,6 @@
+#sheet v1
+
+A1 = -TRUE + -"MF" * -"J" - A2 > A2
+
+# a comment
+A2 = "" - --"A"

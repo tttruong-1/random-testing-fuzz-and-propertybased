@@ -1,0 +1,8 @@
+#sheet v1
+C1 = 2.75
+C2 = -1.5e1
+D1 = MIN(C1, C1)
+D5 = MN(C1, C1)
+D5 = MAX(A3:C2)
+W1 = ROUND(C1,AX(AOUND(C1, 1)
+D4 = COUNT(C1:XH2)

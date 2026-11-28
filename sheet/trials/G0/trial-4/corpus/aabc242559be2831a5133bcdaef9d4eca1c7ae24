@@ -1,0 +1,4 @@
+#sheet v1
+QI76 = TRUE * --FALSE
+# a comment
+Y4 = 3 + 070.0 < FALSE * CONCAT(EBS461852:T3)

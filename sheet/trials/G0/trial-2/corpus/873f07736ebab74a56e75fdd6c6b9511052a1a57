@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+
+C70 = -ROUND(2 - TRUE, WLI7:U6) <= -8 / "73KT"

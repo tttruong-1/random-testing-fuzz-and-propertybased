@@ -1,0 +1,4 @@
+#sheet v1
+D4 = (TRUE / "1") - --"JE1" - --FALSE / (FALSE) - (-AVERAGE(FALSE) / CONCAT(FALSE / FALSE, B1:D2, TRUE >= TRUE, C2:C4, FALSE, FALSE) > "") + FALSE * "ap" < ""
+
+

@@ -1,0 +1,3 @@
+#sheet v1
+A1 =2
+AC2 = MAX(A3:B1, 0)

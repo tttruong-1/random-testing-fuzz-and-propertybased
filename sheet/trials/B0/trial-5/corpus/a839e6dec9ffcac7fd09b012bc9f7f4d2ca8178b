@@ -1,0 +1,3 @@
+#sheet v1
+C1 = 2&75
+C2 =ROUND(C1, 2)

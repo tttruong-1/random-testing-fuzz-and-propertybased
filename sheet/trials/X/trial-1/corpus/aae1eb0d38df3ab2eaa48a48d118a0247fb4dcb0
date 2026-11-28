@@ -1,0 +1,7 @@
+#sheet v1
+B4 = -C4 / -""
+B1 = -TRUE * -9.2 * COUNT() > (--(FALSE) >= TRUE * TRUE * FALSE / FALSE - --"" - -----FALSE) / FALSE / COUNT(SUM() < FALSE / TRUE & TRUE / TRUE / FALSE & -TRUE - "" - ----FALSE) / -(-ROUND() >= 9.1 & ----A4)
+C2 = --"CVP1Y"
+# a comment
+B2 = 439.9 + (-TRUE * --FALSE / TRUE / (FALSE <= FALSE + TRUE)) + -----TRUE / --A4 / -5 / ------"" / (--A3 == TRUE * -FALSE * 8 * (TRUE == TRUE) + -TRUE - -"") <> -FALSE + LEN(A2:C1, B1:C3)
+# a comment

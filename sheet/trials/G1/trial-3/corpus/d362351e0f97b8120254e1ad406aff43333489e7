@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+C3 = -D2 / -COUNT(--TRUE, A4:D1) < (TRUE * TRUE / (TRUE * FALSE / -TRUE - -FALSE + ---TRUE))
+B3 = -----"" * 0.67 / TRUE - FALSE * --D1 / A2 + FALSE >= SUM() * -FALSE
+A3 = -LEN() + ---------FALSE <> "a" / (7) * FALSE / TRUE
+# a comment

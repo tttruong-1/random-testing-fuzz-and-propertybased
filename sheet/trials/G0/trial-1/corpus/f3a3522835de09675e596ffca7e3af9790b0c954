@@ -1,0 +1,6 @@
+#sheet v1
+E16472 = TRUE / -TRUE / -FALSE < -------38 * -TRUE
+# a comment
+
+
+T7 = ---"f" & -COUNT(G5:WD29) <= -------FALSE

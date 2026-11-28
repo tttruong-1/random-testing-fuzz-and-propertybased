@@ -1,0 +1,7 @@
+#sheet v1
+A1 = 9
+B1 = 2
+A2 = 3
+B2 = 4
+C5 = SUM(A2:BA2)
+C2 = MIN(A1:B1, 9)

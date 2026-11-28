@@ -1,0 +1,3 @@
+#sheet v1
+
+L2 = --AVERAGE(L23:W2, FALSE + TRUE <> TRUE, T5:U7, TRUE) / -TRUE * TRUE

@@ -1,0 +1,7 @@
+#sheet v1
+AC21 = 1777777777777771
+A1 = "apple"
+A2 = "banana"
+B5 = A1 < A1
+B2 = A1 == " apple"
+B6 = 6

@@ -1,0 +1,4 @@
+#sheet v1
+A1 = b"\nOCtae\n", "end")
+th "back\\slash"
+A3 = CONCAT("line\n", "enD")

@@ -1,0 +1,3 @@
+#sheet v1
+
+D2 = ROUND() / -"S" * TRUE * CONCAT()

@@ -1,0 +1,5 @@
+#sheet v1
+A1 = ",plain"
+A2 = "say˜˜a :\";hi\"(n"
+A6 = LEN(A1)
+A4 = JONCGTE"˜˜˜˜˜˜˜˜˜a", "b" A

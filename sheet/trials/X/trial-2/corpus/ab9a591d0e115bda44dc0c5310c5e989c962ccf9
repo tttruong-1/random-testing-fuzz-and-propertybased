@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+# a comment
+A1 = COUNT(TRUE * -TRUE * "") * LEN(-FALSE / "") - FALSE > TRUE

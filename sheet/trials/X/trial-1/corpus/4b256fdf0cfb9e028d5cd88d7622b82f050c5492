@@ -1,0 +1,6 @@
+#sheet v1
+
+A3 = -CONCAT(D2:A3)
+A3 = -255.1 / -(-TRUE / -TRUE + FALSE * (TRUE) > TRUE / -FALSE / FALSE) * (--9 * --TRUE <> -TRUE * ----FALSE) / --"O" & -MIN(--TRUE * TRUE, TRUE * FALSE - FALSE / FALSE & TRUE * --FALSE > FALSE * FALSE / -TRUE * --TRUE, C1:C4, A4:B1) >= ((FALSE) & MIN(D1:A2) & FALSE) + TRUE * --""
+C2 = FALSE / A1 / SUM((TRUE) & (FALSE <> TRUE)) >= --FALSE * --FALSE + B2 * A2 / -FALSE & FALSE * -FALSE / -"" * --(TRUE) * --"" & ---FALSE / D1 * (-FALSE == TRUE / FALSE / -TRUE) + B1 + ---C4 / -COUNT(B1:C4) * (FALSE * FALSE & TRUE * -TRUE & TRUE * D2 < FALSE - FALSE & TRUE / TRUE + FALSE * TRUE - TRUE / --TRUE) * 15173 + ---(FALSE + FALSE * FALSE > TRUE & TRUE + TRUE * TRUE) / FALSE & 5 / ((FALSE) + TRUE / FALSE * --TRUE / FALSE <> B4 & -FALSE / A4 / CONCAT(FALSE)) * -648 * -TRUE + -4
+D3 = -FALSE / --"" / C1 * --6.6

@@ -1,0 +1,4 @@
+#sheet v1
+A1=  2.5
+A2 = "ottal: " & A3
+A3 = LEN(A2)#sheeAt v

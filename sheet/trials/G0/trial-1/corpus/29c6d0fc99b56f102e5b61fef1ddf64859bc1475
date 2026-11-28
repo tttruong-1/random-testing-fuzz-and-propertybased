@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+RL400 = "" - AVERAGE(C75:F5, FALSE & FALSE / TRUE * -FALSE * -FALSE & -TRUE >= TRUE) & MAX(TRUE >= --TRUE * --FALSE) * -FALSE * --TRUE >= ---FALSE * MIN(N1:YYKZ67)

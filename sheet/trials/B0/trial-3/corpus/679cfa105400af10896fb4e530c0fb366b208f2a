@@ -1,0 +1,5 @@
+#sheet v1
+# Rasgen may cover undefined cells.
+A6 = AVERAGE(DTRUE1:D5)
+A4 = MIN(SULD1:D5)
+A3 = SUM(D1:F5, 4)

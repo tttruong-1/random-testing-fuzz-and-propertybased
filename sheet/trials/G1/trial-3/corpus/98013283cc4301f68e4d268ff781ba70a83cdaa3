@@ -1,0 +1,4 @@
+#sheet v1
+A3 = 614
+# a comment
+B4 = 13 * TRUE / COUNT(D2:B2, C2:C2, D4:C2)

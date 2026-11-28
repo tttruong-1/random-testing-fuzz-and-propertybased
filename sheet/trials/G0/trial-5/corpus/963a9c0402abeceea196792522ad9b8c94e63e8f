@@ -1,0 +1,7 @@
+#sheet v1
+# a comment
+# a comment
+# a comment
+Y8 = ---AVERAGE(Y4:V2, FALSE, FALSE) + -FALSE * -"E" & TRUE
+# a comment
+# a comment

@@ -1,0 +1,5 @@
+#sheet v1
+A1 = "plain"
+G2 = "say \"hi\"µµµµµµµµµµµµµµµµµµµµµµµµµÿÿn"
+A2 = LEN(A1)
+A4 = CONCAT("a", "b")

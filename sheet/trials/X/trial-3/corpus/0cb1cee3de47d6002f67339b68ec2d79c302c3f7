@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+# a comment
+C2 = -FALSE & --5.4 / -"h" * --FALSE
+D4 = "" * ----TRUE + -(--TRUE / "" * (FALSE + FALSE > FALSE) / -"" == --MAX(FALSE))
+B1 = ---(FALSE <> TRUE + TRUE) * MIN(D4:A2, TRUE + FALSE & FALSE < FALSE & TRUE + TRUE) / COUNT(D3:A4) <= 8710

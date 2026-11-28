@@ -246,6 +246,12 @@ private:
   }
 
   auto parse_primary() -> NodeResult {
+    // BUG FIXED HERE ----------------------------------------------------------------------
+    const DepthGuard guard{depth_};
+    if (depth_ > max_nesting_depth) {
+      return std::unexpected(error("error: expression nesting exceeds max depth"));
+    }
+
     const Token& token = current();
     switch (token.kind) {
       case TokenKind::Number: {

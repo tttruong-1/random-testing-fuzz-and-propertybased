@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+D4 = -IF(TRUE * -TRUE * "" * --7 <> --TRUE, A1:B4, -FALSE * --TRUE >= FALSE) < FALSE
+
+# a comment

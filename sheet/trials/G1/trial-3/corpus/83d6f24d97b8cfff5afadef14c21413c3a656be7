@@ -1,0 +1,2 @@
+#sheet v1
+B1 = 3.8 - -IF(A1:B3, B4:C2, C1:C3) / "" * TRUE * --FALSE < 06

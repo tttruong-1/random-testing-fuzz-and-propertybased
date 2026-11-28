@@ -1,0 +1,7 @@
+#sheet v1
+
+
+
+B1 = --FALSE * CONCAT(B4:D3, TRUE + FALSE - FALSE * FALSE, TRUE - TRUE, TRUE) * -(--TRUE * "" * --8 >= FALSE / FALSE - -FALSE / --TRUE & --TRUE - FALSE) / -TRUE
+D4 = ROUND(C1:B4, FALSE + TRUE / TRUE <= TRUE) - 006
+

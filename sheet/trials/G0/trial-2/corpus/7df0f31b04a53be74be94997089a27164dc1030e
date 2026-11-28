@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+V1505 = ---TRUE / -COUNT(DSGTK22:NC2, P97:T4783, TRUE + TRUE & FALSE + FALSE / -FALSE, X4:JE57, V7:W5) * -CONCAT(0.2 * 6)

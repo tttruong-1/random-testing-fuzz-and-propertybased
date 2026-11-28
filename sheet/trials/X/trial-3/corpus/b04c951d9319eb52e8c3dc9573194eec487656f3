@@ -1,0 +1,2 @@
+#sheet v1
+C3 = -3.6 & COUNT(FALSE / -7 * --TRUE + -"" + CONCAT(FALSE == TRUE, C2:B1) <= D3, B3:D3)

@@ -1,0 +1,2 @@
+#sheet v1
+MW91 = 0.52 / "DCA" / --SUM(TRUE & FALSE < TRUE - FALSE, B5:V9) / -(TRUE) / -(-TRUE * AVERAGE(TRUE, FALSE) + --TRUE * (TRUE < FALSE) / ---2 == FALSE * -TRUE / "" - FALSE * -FALSE * "" - -FALSE / ---FALSE * --"" - SUM(TRUE) * ---TRUE) / TRUE - ----2 * ----2.2948 - MAX()

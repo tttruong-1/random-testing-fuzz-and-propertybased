@@ -1,0 +1,2 @@
+#sheet v1
+W622 = COUNT(I8:O2, UG25:G1, N13469:B4) - -TRUE

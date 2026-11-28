@@ -1,0 +1,6 @@
+#sheet v1
+
+B3 = FALSE * -AVERAGE(FALSE < TRUE, FALSE, TRUE, TRUE) * CONCAT(FALSE - TRUE - TRUE >= TRUE + FALSE, FALSE & TRUE == FALSE) + (--TRUE) / --TRUE & -TRUE + --((TRUE) / -FALSE * CONCAT() <> FALSE & ROUND()) + -(B2 / D3 / -(TRUE) < "" / 4 + 8 / -FALSE / 8) / (FALSE * -----FALSE / --FALSE + 6 * (-TRUE / --FALSE) > -4) - FALSE / (----COUNT(TRUE)) < FALSE * 1.01 & (-(FALSE / TRUE) + ROUND(B4:B2)) / (0354.9 - --C3 * --"" - -TRUE * "q")
+C3 = C2
+A2 = --FALSE * 2 / TRUE * TRUE & (---FALSE + ----FALSE) / -"" & --7 * "o" * FALSE <> --(--TRUE * SUM(TRUE) + ----TRUE > FALSE * FALSE & --TRUE - -TRUE / --FALSE / ---TRUE + MAX(FALSE))
+A2 = D2 / TRUE * ROUND(A4:C1) / 308.6

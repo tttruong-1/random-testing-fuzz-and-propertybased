@@ -1,0 +1,6 @@
+#sheet v1
+
+# a comment
+JG7 = FALSE * TRUE * -LEN(F6:C2) / 04 / ---TRUE * --"z8" & ---2
+# a comment
+OL180 = IF(YS3:RJA7, FALSE + FALSE / -TRUE, A9:O8) < FALSE / 2311.95 * 3.4 + ----" "

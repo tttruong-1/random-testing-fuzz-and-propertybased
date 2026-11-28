@@ -1,0 +1,3 @@
+#sheet v1
+C1 = --A1 - -TRUE + --IF(A4:A3, TRUE / SUM()) - "k7U0" * -TRUE
+# a comment

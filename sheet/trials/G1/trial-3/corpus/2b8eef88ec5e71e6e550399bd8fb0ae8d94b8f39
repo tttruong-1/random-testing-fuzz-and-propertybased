@@ -1,0 +1,4 @@
+#sheet v1
+B2 = (MAX(FALSE, D2:C1) / -TRUE <> TRUE + (-TRUE & FALSE * FALSE * TRUE / -FALSE) - --FALSE * --A3 & 7.4 / ("" / -(TRUE) + (TRUE <> TRUE) <= -FALSE - -0 & -TRUE * ---FALSE / -SUM())) > MAX(TRUE - SUM() == FALSE / --FALSE * -FALSE + ---FALSE * ---FALSE) * --TRUE / -----C1
+
+B3 = TRUE * TRUE + C2 & FALSE / --A4 - -CONCAT(TRUE & FALSE * TRUE * -FALSE >= FALSE * -FALSE, C2:B3, TRUE + FALSE, TRUE) * -MAX() - LEN(A1:C4) / TRUE / "P9H" <> "ds"

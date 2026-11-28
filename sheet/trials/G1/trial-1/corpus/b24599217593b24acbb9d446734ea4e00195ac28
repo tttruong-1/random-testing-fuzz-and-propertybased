@@ -1,0 +1,11 @@
+#sheet v1
+C3 = ---D3 - 7.599470 - --D4 * MIN() > TRUE
+# a comment
+# a comment
+B3 = -10 * -"Q" > -B4
+B3 = --FALSE - D1 * -A2 / -04.0 * -SUM() * ---ROUND(TRUE, TRUE) * 5 + -FALSE == --TRUE
+# a comment
+C4 = -MIN() * COUNT() * -(TRUE + FALSE) / SUM(A2:C4) / ----COUNT() > ---9 * (TRUE - 0) * (--TRUE > -FALSE - -FALSE & -(TRUE))
+# a comment
+
+

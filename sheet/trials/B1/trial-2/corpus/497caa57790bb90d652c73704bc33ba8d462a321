@@ -1,0 +1,3 @@
+#sheet v1
+A1 = "plain"
+A2 = "say \"hi= -(A1 *A1 *A0")

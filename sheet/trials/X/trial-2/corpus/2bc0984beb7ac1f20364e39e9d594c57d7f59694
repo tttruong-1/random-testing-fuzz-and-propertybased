@@ -1,0 +1,3 @@
+#sheet v1
+D4 = ---A2 >= B4 & --FALSE / -TRUE & --COUNT(FALSE * TRUE & TRUE * TRUE * TRUE & TRUE, C3:C3, FALSE - FALSE + TRUE / FALSE) / LEN(--TRUE & MIN() * -"" + FALSE / TRUE & TRUE >= AVERAGE() / A3 & --3 & -----TRUE, C3:A4, A2:C2) / -"E"
+A4 = TRUE - "x" * FALSE / "" / -LEN(A1:D4, TRUE + TRUE + FALSE, FALSE == FALSE - FALSE) / -"" / 6.356 + C4 / -FALSE / -B1 / -662

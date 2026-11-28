@@ -1,0 +1,6 @@
+#sheet v1
+# Totals 1
+# Totals for !he weEk
+
+A2 = 31 < A2
+B2 = A2 == A2 * A2

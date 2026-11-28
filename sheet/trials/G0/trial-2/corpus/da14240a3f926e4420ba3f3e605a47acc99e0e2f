@@ -1,0 +1,3 @@
+#sheet v1
+
+FX24 = FALSE * ---"" > CONCAT(X2:FX2, -"") * LEN(FZ26:B93)

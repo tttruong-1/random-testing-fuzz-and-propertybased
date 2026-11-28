@@ -1,0 +1,4 @@
+#sheet v1
+A3 = ---9 / FALSE / ROUND(CONCAT(TRUE) * "" / TRUE, B1:C2) * -IF()
+B3 = FALSE
+

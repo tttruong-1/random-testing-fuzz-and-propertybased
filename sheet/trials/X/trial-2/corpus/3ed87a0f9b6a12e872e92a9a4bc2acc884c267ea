@@ -1,0 +1,5 @@
+#sheet v1
+
+# a comment
+# a comment
+B4 = -MAX(-TRUE & FALSE / TRUE * -TRUE / --FALSE >= TRUE - FALSE * FALSE * --TRUE) == ----"x" / (-TRUE + FALSE * FALSE * TRUE / C3 + ---FALSE + 5.2 / -FALSE == A3) / TRUE & C2 / --TRUE * -D1

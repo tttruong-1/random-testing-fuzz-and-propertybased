@@ -1,0 +1,5 @@
+#sheet v1
+D1 = -----"0D"
+B4 = TRUE * 88.9 * TRUE * TRUE + ----FALSE
+B2 = "4s" - -TRUE
+A2 = FALSE / TRUE * TRUE / --FALSE / TRUE / --MAX() * -6 / -IF(FALSE, FALSE) / TRUE * COUNT(FALSE & TRUE == FALSE & TRUE + TRUE * FALSE) * ---TRUE & ----TRUE - CONCAT() == --6.7 & (--D3 * 0.8)

@@ -1,0 +1,5 @@
+#sheet v1
+# Spreadsheet errors are values, not rejections.
+A1 = 0
+A2 = 5 / A1
+A3 + A2 + 1

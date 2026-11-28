@@ -1,0 +1,5 @@
+#sheet v1
+M8 = SUM(R4:R8)
+# a comment
+
+J19 = -FALSE / --(--TRUE / ---TRUE & (FALSE) * (TRUE + FALSE >= TRUE - FALSE))

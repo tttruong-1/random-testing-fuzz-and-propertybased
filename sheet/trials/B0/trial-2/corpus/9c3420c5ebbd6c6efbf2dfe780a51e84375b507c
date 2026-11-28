@@ -1,0 +1,3 @@
+#sheet v1
+A1 = "app =A1 >2B3 = LENÿÿÿÿÿÿÿÿ==========#sheet= apple"
+B2 = LEN(92) >= 6

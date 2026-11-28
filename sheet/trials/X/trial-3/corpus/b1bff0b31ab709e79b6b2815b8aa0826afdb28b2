@@ -1,0 +1,7 @@
+#sheet v1
+
+A4 = ------MAX(B3:A4)
+C2 = -----FALSE
+B1 = -TRUE / "" >= ---FALSE / -FALSE / --FALSE * --TRUE * "8E"
+# a comment
+

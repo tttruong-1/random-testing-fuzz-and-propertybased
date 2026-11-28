@@ -1,0 +1,2 @@
+#sheet v1
+C2 = SUM(C3:A4) <> (-(TRUE & TRUE) * -TRUE & -45.9 & 6 / TRUE > --FALSE) & -CONCAT(----TRUE > 9.7 + --TRUE * 7 * (TRUE), B1:D2, A2:B1, A1:C1) * -FALSE

@@ -1,0 +1,8 @@
+#sheet v1
+A1 = 1
+K1 = 2
+AB12 = 3
+B2 = 4
+C1 = SUM(C3:B3)
+C21 = SUM(CMIN2:BCOUNT2)
+C2  = MAX(SUMA1:B1, 9)

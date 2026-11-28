@@ -1,0 +1,3 @@
+#sheet v1
+C1 = --B2 & -("" + MAX(A1:D4, D2:A3)) & -(CONCAT() * ---FALSE * B3 <= B4 + -8 * -FALSE) <= TRUE / -----FALSE * COUNT(C4:C2, -COUNT() / -"" == IF(TRUE) / TRUE) & --FALSE
+B3 = ((FALSE) * "" - FALSE & --TRUE * 6.7 * A2 / -D4) - -23 & D2 & -B2

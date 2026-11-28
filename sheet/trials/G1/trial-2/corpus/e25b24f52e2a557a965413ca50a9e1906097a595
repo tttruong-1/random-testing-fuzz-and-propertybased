@@ -1,0 +1,3 @@
+#sheet v1
+C3 = MIN(C4:A3) <> -FALSE & -CONCAT(D3:B1, C2:C4, C3:B3, A1:B2, -TRUE <> FALSE / TRUE + FALSE / TRUE)
+

@@ -1,0 +1,19 @@
+#sheet v1
+B2 = ----B1 / --"XaZ"
+
+# a comment
+D1 = "7" / COUNT() - TRUE & -(--FALSE / "" <= TRUE * -FALSE * --TRUE / --TRUE) * 76.01 / -D2
+B2 = (TRUE * TRUE & TRUE / FALSE / -FALSE) / TRUE / ---81.0 & (FALSE * TRUE / FALSE + (TRUE) & -FALSE / "" * 1.3 + --FALSE * 06.58) + B1 < ---"2"
+
+
+
+# a comment
+
+A3 = FALSE * FALSE & TRUE * -TRUE - FALSE / TRUE * -TRUE / -FALSE / ---TRUE & 43.87 >= "C"
+B1 = -TRUE / --FALSE & FALSE / SUM() >= --FALSE / (FALSE < FALSE)
+
+B2 = TRUE + FALSE - FALSE & FALSE > FALSE + FALSE + FALSE - TRUE
+
+
+C3 = FALSE
+# a comment

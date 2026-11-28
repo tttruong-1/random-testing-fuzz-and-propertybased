@@ -1,0 +1,8 @@
+#sheet v1
+C2 = "F" == FALSE * --FALSE * TRUE
+
+D2 = FALSE / --MIN(A3:C1) & -------TRUE
+
+# a comment
+# a comment
+A1 = TRUE

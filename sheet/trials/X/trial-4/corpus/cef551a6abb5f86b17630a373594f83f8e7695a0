@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+D4 = 9.0 <= "76V" & -----"pcHx" / "XT"
+C4 = -TRUE
+A4 = ROUND(B1:A3) & -SUM() & IF(TRUE * TRUE / TRUE - -TRUE < FALSE - FALSE * TRUE / TRUE & --FALSE, FALSE / TRUE / TRUE) + ---A2 * TRUE / AVERAGE() * FALSE < (6 <> -TRUE * --TRUE * -IF() / -(FALSE) & ---FALSE + "lmo")

@@ -1,0 +1,14 @@
+#sheet v1
+D1 = "" < --FALSE * FALSE
+
+D4 = 1 / TRUE / ----FALSE + --(FALSE) + MIN(TRUE + FALSE * TRUE / FALSE + SUM() < --FALSE, FALSE & FALSE - TRUE * FALSE - FALSE * -TRUE) / ---TRUE * ---9.5
+# a comment
+A4 = "" / -----80.3 + --(2 <> AVERAGE() + B3 / TRUE) <= ----TRUE / -(D2) * -FALSE * C1
+# a comment
+A1 = (TRUE * FALSE + TRUE / TRUE == FALSE / FALSE + TRUE * FALSE) / --(TRUE == TRUE * FALSE) * --FALSE
+B2 = ROUND() * ""
+# a comment
+# a comment
+D2 = -"" / ---TRUE
+# a comment
+# a comment

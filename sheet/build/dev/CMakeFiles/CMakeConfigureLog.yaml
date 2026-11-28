@@ -1,0 +1,1725 @@
+
+---
+events:
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineSystem.cmake:12 (find_program)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_UNAME"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "uname"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    searched_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/uname"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/uname"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/uname"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/uname"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/uname"
+      - "/usr/local/sbin/uname"
+      - "/usr/local/bin/uname"
+      - "/usr/sbin/uname"
+    found: "/usr/bin/uname"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineSystem.cmake:212 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Linux - 7.0.0-43-generic - x86_64
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeNinjaFindMake.cmake:5 (find_program)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_MAKE_PROGRAM"
+    description: "Program used to build from build.ninja files."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "ninja-build"
+      - "ninja"
+      - "samu"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    searched_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/ninja-build"
+    found: "/usr/shared/CMPT/faculty/wsumner/base/bin/ninja"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCompiler.cmake:115 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:71 (_cmake_find_compiler_path)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "clang++"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    found: "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:462 (find_file)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "file"
+    variable: "src_in"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "CMakeCXXCompilerId.cpp.in"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/"
+    found: "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeCXXCompilerId.cpp.in"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: /usr/shared/CMPT/faculty/wsumner/base/bin/clang++ 
+      Build flags: -fno-omit-frame-pointer;-fsanitize=address,undefined;-fno-sanitize-recover=undefined
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+      
+      The CXX compiler identification is Clang, found in:
+        /home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/4.2.3/CompilerIdCXX/a.out
+      
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_AR"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "llvm-ar"
+      - "ar"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    found: "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-ar"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_RANLIB"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "llvm-ranlib"
+      - "ranlib"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    found: "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-ranlib"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_STRIP"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "llvm-strip"
+      - "strip"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    found: "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-strip"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_LINKER"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "ld.lld"
+      - "ld"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    searched_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/ld.lld"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/ld.lld"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/ld.lld"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/ld.lld"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/ld.lld"
+      - "/usr/local/sbin/ld.lld"
+      - "/usr/local/bin/ld.lld"
+      - "/usr/sbin/ld.lld"
+      - "/usr/bin/ld.lld"
+      - "/sbin/ld.lld"
+      - "/bin/ld.lld"
+      - "/usr/games/ld.lld"
+      - "/usr/local/games/ld.lld"
+      - "/snap/bin/ld.lld"
+      - "/home/tttruong/.dotnet/tools/ld.lld"
+      - "/usr/local/clion/bin/ld.lld"
+      - "/usr/local/idea/bin/ld.lld"
+      - "/usr/local/goland/bin/ld.lld"
+      - "/usr/local/pycharm/bin/ld.lld"
+      - "/usr/local/rubymine/bin/ld.lld"
+      - "/snap/android-studio/current/android-studio/bin/ld.lld"
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/ld"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/ld"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/ld"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/ld"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/ld"
+      - "/usr/local/sbin/ld"
+      - "/usr/local/bin/ld"
+      - "/usr/sbin/ld"
+    found: "/usr/bin/ld"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_NM"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "llvm-nm"
+      - "nm"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    found: "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-nm"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_OBJDUMP"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "llvm-objdump"
+      - "objdump"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    found: "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-objdump"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_OBJCOPY"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "llvm-objcopy"
+      - "objcopy"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    found: "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-objcopy"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_READELF"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "llvm-readelf"
+      - "readelf"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    found: "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-readelf"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_DLLTOOL"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "llvm-dlltool"
+      - "dlltool"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    found: "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-dlltool"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_ADDR2LINE"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "llvm-addr2line"
+      - "addr2line"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    found: "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-addr2line"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_TAPI"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "tapi"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    searched_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/tapi"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/tapi"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/tapi"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/tapi"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/tapi"
+      - "/usr/local/sbin/tapi"
+      - "/usr/local/bin/tapi"
+      - "/usr/sbin/tapi"
+      - "/usr/bin/tapi"
+      - "/sbin/tapi"
+      - "/bin/tapi"
+      - "/usr/games/tapi"
+      - "/usr/local/games/tapi"
+      - "/snap/bin/tapi"
+      - "/home/tttruong/.dotnet/tools/tapi"
+      - "/usr/local/clion/bin/tapi"
+      - "/usr/local/idea/bin/tapi"
+      - "/usr/local/goland/bin/tapi"
+      - "/usr/local/pycharm/bin/tapi"
+      - "/usr/local/rubymine/bin/tapi"
+      - "/snap/android-studio/current/android-studio/bin/tapi"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/Compiler/Clang-FindBinUtils.cmake:26 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER_AR"
+    description: "LLVM archiver"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "llvm-ar-23.1"
+      - "llvm-ar-23"
+      - "llvm-ar23"
+      - "llvm-ar"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    searched_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/llvm-ar-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-ar-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/llvm-ar-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/llvm-ar-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/llvm-ar-23.1"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/llvm-ar-23.1"
+      - "/usr/local/sbin/llvm-ar-23.1"
+      - "/usr/local/bin/llvm-ar-23.1"
+      - "/usr/sbin/llvm-ar-23.1"
+      - "/usr/bin/llvm-ar-23.1"
+      - "/sbin/llvm-ar-23.1"
+      - "/bin/llvm-ar-23.1"
+      - "/usr/games/llvm-ar-23.1"
+      - "/usr/local/games/llvm-ar-23.1"
+      - "/snap/bin/llvm-ar-23.1"
+      - "/home/tttruong/.dotnet/tools/llvm-ar-23.1"
+      - "/usr/local/clion/bin/llvm-ar-23.1"
+      - "/usr/local/idea/bin/llvm-ar-23.1"
+      - "/usr/local/goland/bin/llvm-ar-23.1"
+      - "/usr/local/pycharm/bin/llvm-ar-23.1"
+      - "/usr/local/rubymine/bin/llvm-ar-23.1"
+      - "/snap/android-studio/current/android-studio/bin/llvm-ar-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/llvm-ar-23"
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-ar-23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/llvm-ar-23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/llvm-ar-23"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/llvm-ar-23"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/llvm-ar-23"
+      - "/usr/local/sbin/llvm-ar-23"
+      - "/usr/local/bin/llvm-ar-23"
+      - "/usr/sbin/llvm-ar-23"
+      - "/usr/bin/llvm-ar-23"
+      - "/sbin/llvm-ar-23"
+      - "/bin/llvm-ar-23"
+      - "/usr/games/llvm-ar-23"
+      - "/usr/local/games/llvm-ar-23"
+      - "/snap/bin/llvm-ar-23"
+      - "/home/tttruong/.dotnet/tools/llvm-ar-23"
+      - "/usr/local/clion/bin/llvm-ar-23"
+      - "/usr/local/idea/bin/llvm-ar-23"
+      - "/usr/local/goland/bin/llvm-ar-23"
+      - "/usr/local/pycharm/bin/llvm-ar-23"
+      - "/usr/local/rubymine/bin/llvm-ar-23"
+      - "/snap/android-studio/current/android-studio/bin/llvm-ar-23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/llvm-ar23"
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-ar23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/llvm-ar23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/llvm-ar23"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/llvm-ar23"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/llvm-ar23"
+      - "/usr/local/sbin/llvm-ar23"
+      - "/usr/local/bin/llvm-ar23"
+      - "/usr/sbin/llvm-ar23"
+      - "/usr/bin/llvm-ar23"
+      - "/sbin/llvm-ar23"
+      - "/bin/llvm-ar23"
+      - "/usr/games/llvm-ar23"
+      - "/usr/local/games/llvm-ar23"
+      - "/snap/bin/llvm-ar23"
+      - "/home/tttruong/.dotnet/tools/llvm-ar23"
+      - "/usr/local/clion/bin/llvm-ar23"
+      - "/usr/local/idea/bin/llvm-ar23"
+      - "/usr/local/goland/bin/llvm-ar23"
+      - "/usr/local/pycharm/bin/llvm-ar23"
+      - "/usr/local/rubymine/bin/llvm-ar23"
+      - "/snap/android-studio/current/android-studio/bin/llvm-ar23"
+    found: "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/llvm-ar"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/Compiler/Clang-FindBinUtils.cmake:38 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER_RANLIB"
+    description: "Generate index for LLVM archive"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "llvm-ranlib-23.1"
+      - "llvm-ranlib-23"
+      - "llvm-ranlib23"
+      - "llvm-ranlib"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    searched_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/llvm-ranlib-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-ranlib-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/llvm-ranlib-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/llvm-ranlib-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/llvm-ranlib-23.1"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/llvm-ranlib-23.1"
+      - "/usr/local/sbin/llvm-ranlib-23.1"
+      - "/usr/local/bin/llvm-ranlib-23.1"
+      - "/usr/sbin/llvm-ranlib-23.1"
+      - "/usr/bin/llvm-ranlib-23.1"
+      - "/sbin/llvm-ranlib-23.1"
+      - "/bin/llvm-ranlib-23.1"
+      - "/usr/games/llvm-ranlib-23.1"
+      - "/usr/local/games/llvm-ranlib-23.1"
+      - "/snap/bin/llvm-ranlib-23.1"
+      - "/home/tttruong/.dotnet/tools/llvm-ranlib-23.1"
+      - "/usr/local/clion/bin/llvm-ranlib-23.1"
+      - "/usr/local/idea/bin/llvm-ranlib-23.1"
+      - "/usr/local/goland/bin/llvm-ranlib-23.1"
+      - "/usr/local/pycharm/bin/llvm-ranlib-23.1"
+      - "/usr/local/rubymine/bin/llvm-ranlib-23.1"
+      - "/snap/android-studio/current/android-studio/bin/llvm-ranlib-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/llvm-ranlib-23"
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-ranlib-23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/llvm-ranlib-23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/llvm-ranlib-23"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/llvm-ranlib-23"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/llvm-ranlib-23"
+      - "/usr/local/sbin/llvm-ranlib-23"
+      - "/usr/local/bin/llvm-ranlib-23"
+      - "/usr/sbin/llvm-ranlib-23"
+      - "/usr/bin/llvm-ranlib-23"
+      - "/sbin/llvm-ranlib-23"
+      - "/bin/llvm-ranlib-23"
+      - "/usr/games/llvm-ranlib-23"
+      - "/usr/local/games/llvm-ranlib-23"
+      - "/snap/bin/llvm-ranlib-23"
+      - "/home/tttruong/.dotnet/tools/llvm-ranlib-23"
+      - "/usr/local/clion/bin/llvm-ranlib-23"
+      - "/usr/local/idea/bin/llvm-ranlib-23"
+      - "/usr/local/goland/bin/llvm-ranlib-23"
+      - "/usr/local/pycharm/bin/llvm-ranlib-23"
+      - "/usr/local/rubymine/bin/llvm-ranlib-23"
+      - "/snap/android-studio/current/android-studio/bin/llvm-ranlib-23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/llvm-ranlib23"
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/llvm-ranlib23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/llvm-ranlib23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/llvm-ranlib23"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/llvm-ranlib23"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/llvm-ranlib23"
+      - "/usr/local/sbin/llvm-ranlib23"
+      - "/usr/local/bin/llvm-ranlib23"
+      - "/usr/sbin/llvm-ranlib23"
+      - "/usr/bin/llvm-ranlib23"
+      - "/sbin/llvm-ranlib23"
+      - "/bin/llvm-ranlib23"
+      - "/usr/games/llvm-ranlib23"
+      - "/usr/local/games/llvm-ranlib23"
+      - "/snap/bin/llvm-ranlib23"
+      - "/home/tttruong/.dotnet/tools/llvm-ranlib23"
+      - "/usr/local/clion/bin/llvm-ranlib23"
+      - "/usr/local/idea/bin/llvm-ranlib23"
+      - "/usr/local/goland/bin/llvm-ranlib23"
+      - "/usr/local/pycharm/bin/llvm-ranlib23"
+      - "/usr/local/rubymine/bin/llvm-ranlib23"
+      - "/snap/android-studio/current/android-studio/bin/llvm-ranlib23"
+    found: "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/llvm-ranlib"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/Compiler/Clang-FindBinUtils.cmake:50 (find_program)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS"
+    description: "`clang-scan-deps` dependency scanner"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "clang-scan-deps-23.1"
+      - "clang-scan-deps-23"
+      - "clang-scan-deps23"
+      - "clang-scan-deps"
+    candidate_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/snap/bin/"
+      - "/home/tttruong/.dotnet/tools/"
+      - "/usr/local/clion/bin/"
+      - "/usr/local/idea/bin/"
+      - "/usr/local/goland/bin/"
+      - "/usr/local/pycharm/bin/"
+      - "/usr/local/rubymine/bin/"
+      - "/snap/android-studio/current/android-studio/bin/"
+    searched_directories:
+      - "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/clang-scan-deps-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/clang-scan-deps-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/clang-scan-deps-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/clang-scan-deps-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/clang-scan-deps-23.1"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/clang-scan-deps-23.1"
+      - "/usr/local/sbin/clang-scan-deps-23.1"
+      - "/usr/local/bin/clang-scan-deps-23.1"
+      - "/usr/sbin/clang-scan-deps-23.1"
+      - "/usr/bin/clang-scan-deps-23.1"
+      - "/sbin/clang-scan-deps-23.1"
+      - "/bin/clang-scan-deps-23.1"
+      - "/usr/games/clang-scan-deps-23.1"
+      - "/usr/local/games/clang-scan-deps-23.1"
+      - "/snap/bin/clang-scan-deps-23.1"
+      - "/home/tttruong/.dotnet/tools/clang-scan-deps-23.1"
+      - "/usr/local/clion/bin/clang-scan-deps-23.1"
+      - "/usr/local/idea/bin/clang-scan-deps-23.1"
+      - "/usr/local/goland/bin/clang-scan-deps-23.1"
+      - "/usr/local/pycharm/bin/clang-scan-deps-23.1"
+      - "/usr/local/rubymine/bin/clang-scan-deps-23.1"
+      - "/snap/android-studio/current/android-studio/bin/clang-scan-deps-23.1"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/clang-scan-deps-23"
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/clang-scan-deps-23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/clang-scan-deps-23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/clang-scan-deps-23"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/clang-scan-deps-23"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/clang-scan-deps-23"
+      - "/usr/local/sbin/clang-scan-deps-23"
+      - "/usr/local/bin/clang-scan-deps-23"
+      - "/usr/sbin/clang-scan-deps-23"
+      - "/usr/bin/clang-scan-deps-23"
+      - "/sbin/clang-scan-deps-23"
+      - "/bin/clang-scan-deps-23"
+      - "/usr/games/clang-scan-deps-23"
+      - "/usr/local/games/clang-scan-deps-23"
+      - "/snap/bin/clang-scan-deps-23"
+      - "/home/tttruong/.dotnet/tools/clang-scan-deps-23"
+      - "/usr/local/clion/bin/clang-scan-deps-23"
+      - "/usr/local/idea/bin/clang-scan-deps-23"
+      - "/usr/local/goland/bin/clang-scan-deps-23"
+      - "/usr/local/pycharm/bin/clang-scan-deps-23"
+      - "/usr/local/rubymine/bin/clang-scan-deps-23"
+      - "/snap/android-studio/current/android-studio/bin/clang-scan-deps-23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/clang-scan-deps23"
+      - "/usr/shared/CMPT/faculty/wsumner/base/bin/clang-scan-deps23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/uv/clang-scan-deps23"
+      - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin/clang-scan-deps23"
+      - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin/clang-scan-deps23"
+      - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/clang-scan-deps23"
+      - "/usr/local/sbin/clang-scan-deps23"
+      - "/usr/local/bin/clang-scan-deps23"
+      - "/usr/sbin/clang-scan-deps23"
+      - "/usr/bin/clang-scan-deps23"
+      - "/sbin/clang-scan-deps23"
+      - "/bin/clang-scan-deps23"
+      - "/usr/games/clang-scan-deps23"
+      - "/usr/local/games/clang-scan-deps23"
+      - "/snap/bin/clang-scan-deps23"
+      - "/home/tttruong/.dotnet/tools/clang-scan-deps23"
+      - "/usr/local/clion/bin/clang-scan-deps23"
+      - "/usr/local/idea/bin/clang-scan-deps23"
+      - "/usr/local/goland/bin/clang-scan-deps23"
+      - "/usr/local/pycharm/bin/clang-scan-deps23"
+      - "/usr/local/rubymine/bin/clang-scan-deps23"
+      - "/snap/android-studio/current/android-studio/bin/clang-scan-deps23"
+    found: "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/clang-scan-deps"
+    search_context:
+      ENV{PATH}:
+        - "/usr/shared/CMPT/faculty/wsumner/base/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/uv"
+        - "/usr/shared/CMPT/faculty/wsumner/installed/tree-sitter/bin"
+        - "/usr/shared/CMPT/faculty/wsumner/base/env373/bin"
+        - "/opt/rust/toolchains/stable-x86_64-unknown-linux-gnu/bin/"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/snap/bin"
+        - "/home/tttruong/.dotnet/tools"
+        - "/usr/local/clion/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/goland/bin"
+        - "/usr/local/idea/bin"
+        - "/usr/local/pycharm/bin"
+        - "/usr/local/rubymine/bin"
+        - "/snap/android-studio/current/android-studio/bin"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/CMakeScratch/TryCompile-KxoSlB"
+      binary: "/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/CMakeScratch/TryCompile-KxoSlB"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/clang-scan-deps"
+      CMAKE_CXX_FLAGS: "-fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined"
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: '/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/CMakeScratch/TryCompile-KxoSlB'
+        
+        Run Build Command(s): /usr/shared/CMPT/faculty/wsumner/base/bin/ninja -v cmTC_e2672
+        [1/2] /usr/shared/CMPT/faculty/wsumner/base/bin/clang++   -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined    -v -MD -MT CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o -c /usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
+        clang version 23.1.1
+        Target: x86_64-unknown-linux-gnu
+        Thread model: posix
+        InstalledDir: /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin
+        Configuration file: /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/clang++.cfg
+        Found candidate GCC installation: /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0
+        Selected GCC installation: /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0
+        Candidate multilib: .;@m64
+        Selected multilib: .;@m64
+         (in-process)
+         "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/clang-23" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -debugger-tuning=gdb -fdebug-compilation-dir=/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/CMakeScratch/TryCompile-KxoSlB -v -fcoverage-compilation-dir=/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/CMakeScratch/TryCompile-KxoSlB -resource-dir /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23 -dependency-file CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -c-isystem /usr/shared/CMPT/faculty/wsumner/base/include -c-isystem . -cxx-isystem /usr/shared/CMPT/faculty/wsumner/base/include -cxx-isystem . -internal-isystem /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0 -internal-isystem /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/x86_64-pc-linux-gnu -internal-isystem /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/backward -internal-isystem /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/include -internal-isystem /usr/local/include -internal-isystem /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../x86_64-pc-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro -ferror-limit 19 -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fsanitize=address,alignment,array-bounds,bool,builtin,enum,float-cast-overflow,function,integer-divide-by-zero,nonnull-attribute,null,pointer-overflow,return,returns-nonnull-attribute,shift-base,shift-exponent,signed-integer-overflow,unreachable,vla-bound -fsanitize-merge=alignment,array-bounds,bool,builtin,enum,float-cast-overflow,function,integer-divide-by-zero,nonnull-attribute,null,pointer-overflow,return,returns-nonnull-attribute,shift-base,shift-exponent,signed-integer-overflow,unreachable,vla-bound -fsanitize-system-ignorelist=/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/share/asan_ignorelist.txt -fno-sanitize-memory-param-retval -fsanitize-address-use-after-scope -fsanitize-address-globals-dead-stripping -fno-assume-sane-operator-new -faddrsig -fdwarf2-cfi-asm -o CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
+        clang -cc1 version 23.1.1 based upon LLVM 23.1.1 default target x86_64-unknown-linux-gnu
+        ignoring nonexistent directory "/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../x86_64-pc-linux-gnu/include"
+        ignoring nonexistent directory "/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         /usr/shared/CMPT/faculty/wsumner/base/include
+         .
+         /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0
+         /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/x86_64-pc-linux-gnu
+         /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/backward
+         /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/include
+         /usr/local/include
+         /usr/include/x86_64-linux-gnu
+         /usr/include
+        End of search list.
+        [2/2] : && /usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -v -Wl,-v CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_e2672   && :
+        clang version 23.1.1
+        Target: x86_64-unknown-linux-gnu
+        Thread model: posix
+        InstalledDir: /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin
+        Configuration file: /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/clang++.cfg
+        Found candidate GCC installation: /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0
+        Selected GCC installation: /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0
+        Candidate multilib: .;@m64
+        Selected multilib: .;@m64
+         "/usr/bin/ld" -z relro --hash-style=gnu --eh-frame-hdr -m elf_x86_64 -pie -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_e2672 /lib/x86_64-linux-gnu/Scrt1.o /lib/x86_64-linux-gnu/crti.o /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/crtbeginS.o -L/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu -L/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0 -L/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib64 -L/lib -L/usr/lib --whole-archive /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan_static.a --no-whole-archive --whole-archive /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan.a --no-whole-archive --dynamic-list=/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan.a.syms --whole-archive /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan_cxx.a --no-whole-archive --dynamic-list=/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan_cxx.a.syms -L/usr/shared/CMPT/faculty/wsumner/base/lib -L. -v CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm --no-as-needed -lpthread -lrt -lm -ldl -lresolv -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/crtendS.o /lib/x86_64-linux-gnu/crtn.o
+        GNU ld (GNU Binutils for Ubuntu) 2.42
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:217 (message)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [/usr/shared/CMPT/faculty/wsumner/base/include]
+          add: [.]
+          add: [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0]
+          add: [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/x86_64-pc-linux-gnu]
+          add: [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/backward]
+          add: [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/include]
+          add: [/usr/local/include]
+          add: [/usr/include/x86_64-linux-gnu]
+          add: [/usr/include]
+        end of search list found
+        collapse include dir [/usr/shared/CMPT/faculty/wsumner/base/include] ==> [/usr/shared/CMPT/faculty/wsumner/base/include]
+        skipping relative include dir [.]
+        collapse include dir [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0] ==> [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/include/c++/16.2.0]
+        collapse include dir [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/x86_64-pc-linux-gnu] ==> [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/include/c++/16.2.0/x86_64-pc-linux-gnu]
+        collapse include dir [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/backward] ==> [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/include/c++/16.2.0/backward]
+        collapse include dir [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/include] ==> [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/include]
+        collapse include dir [/usr/local/include] ==> [/usr/local/include]
+        collapse include dir [/usr/include/x86_64-linux-gnu] ==> [/usr/include/x86_64-linux-gnu]
+        collapse include dir [/usr/include] ==> [/usr/include]
+        implicit include dirs: [/usr/shared/CMPT/faculty/wsumner/base/include;/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/include/c++/16.2.0;/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/include/c++/16.2.0/x86_64-pc-linux-gnu;/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/include/c++/16.2.0/backward;/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/include;/usr/local/include;/usr/include/x86_64-linux-gnu;/usr/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:253 (message)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
+        ignore line: [Change Dir: '/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/CMakeScratch/TryCompile-KxoSlB']
+        ignore line: []
+        ignore line: [Run Build Command(s): /usr/shared/CMPT/faculty/wsumner/base/bin/ninja -v cmTC_e2672]
+        ignore line: [[1/2] /usr/shared/CMPT/faculty/wsumner/base/bin/clang++   -fno-omit-frame-pointer -fsanitize=address undefined -fno-sanitize-recover=undefined    -v -MD -MT CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o -c /usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [clang version 23.1.1]
+        ignore line: [Target: x86_64-unknown-linux-gnu]
+        ignore line: [Thread model: posix]
+        ignore line: [InstalledDir: /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin]
+        ignore line: [Configuration file: /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/clang++.cfg]
+        ignore line: [Found candidate GCC installation: /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0]
+        ignore line: [Selected GCC installation: /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0]
+        ignore line: [Candidate multilib: .]
+        ignore line: [@m64]
+        ignore line: [Selected multilib: .]
+        ignore line: [@m64]
+        ignore line: [ (in-process)]
+        ignore line: [ "/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/clang-23" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -debugger-tuning=gdb -fdebug-compilation-dir=/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/CMakeScratch/TryCompile-KxoSlB -v -fcoverage-compilation-dir=/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/CMakeFiles/CMakeScratch/TryCompile-KxoSlB -resource-dir /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23 -dependency-file CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -c-isystem /usr/shared/CMPT/faculty/wsumner/base/include -c-isystem . -cxx-isystem /usr/shared/CMPT/faculty/wsumner/base/include -cxx-isystem . -internal-isystem /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0 -internal-isystem /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/x86_64-pc-linux-gnu -internal-isystem /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/backward -internal-isystem /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/include -internal-isystem /usr/local/include -internal-isystem /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../x86_64-pc-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro -ferror-limit 19 -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fsanitize=address alignment array-bounds bool builtin enum float-cast-overflow function integer-divide-by-zero nonnull-attribute null pointer-overflow return returns-nonnull-attribute shift-base shift-exponent signed-integer-overflow unreachable vla-bound -fsanitize-merge=alignment array-bounds bool builtin enum float-cast-overflow function integer-divide-by-zero nonnull-attribute null pointer-overflow return returns-nonnull-attribute shift-base shift-exponent signed-integer-overflow unreachable vla-bound -fsanitize-system-ignorelist=/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/share/asan_ignorelist.txt -fno-sanitize-memory-param-retval -fsanitize-address-use-after-scope -fsanitize-address-globals-dead-stripping -fno-assume-sane-operator-new -faddrsig -fdwarf2-cfi-asm -o CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [clang -cc1 version 23.1.1 based upon LLVM 23.1.1 default target x86_64-unknown-linux-gnu]
+        ignore line: [ignoring nonexistent directory "/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../x86_64-pc-linux-gnu/include"]
+        ignore line: [ignoring nonexistent directory "/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ /usr/shared/CMPT/faculty/wsumner/base/include]
+        ignore line: [ .]
+        ignore line: [ /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0]
+        ignore line: [ /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/x86_64-pc-linux-gnu]
+        ignore line: [ /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../include/c++/16.2.0/backward]
+        ignore line: [ /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/include]
+        ignore line: [ /usr/local/include]
+        ignore line: [ /usr/include/x86_64-linux-gnu]
+        ignore line: [ /usr/include]
+        ignore line: [End of search list.]
+        ignore line: [[2/2] : && /usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -fno-omit-frame-pointer -fsanitize=address undefined -fno-sanitize-recover=undefined -v -Wl -v CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_e2672   && :]
+        ignore line: [clang version 23.1.1]
+        ignore line: [Target: x86_64-unknown-linux-gnu]
+        ignore line: [Thread model: posix]
+        ignore line: [InstalledDir: /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin]
+        ignore line: [Configuration file: /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/bin/clang++.cfg]
+        ignore line: [Found candidate GCC installation: /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0]
+        ignore line: [Selected GCC installation: /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0]
+        ignore line: [Candidate multilib: .]
+        ignore line: [@m64]
+        ignore line: [Selected multilib: .]
+        ignore line: [@m64]
+        link line: [ "/usr/bin/ld" -z relro --hash-style=gnu --eh-frame-hdr -m elf_x86_64 -pie -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_e2672 /lib/x86_64-linux-gnu/Scrt1.o /lib/x86_64-linux-gnu/crti.o /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/crtbeginS.o -L/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu -L/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0 -L/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib64 -L/lib -L/usr/lib --whole-archive /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan_static.a --no-whole-archive --whole-archive /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan.a --no-whole-archive --dynamic-list=/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan.a.syms --whole-archive /usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan_cxx.a --no-whole-archive --dynamic-list=/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan_cxx.a.syms -L/usr/shared/CMPT/faculty/wsumner/base/lib -L. -v CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm --no-as-needed -lpthread -lrt -lm -ldl -lresolv -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/crtendS.o /lib/x86_64-linux-gnu/crtn.o]
+          arg [/usr/bin/ld] ==> ignore
+          arg [-zrelro] ==> ignore
+          arg [--hash-style=gnu] ==> ignore
+          arg [--eh-frame-hdr] ==> ignore
+          arg [-m] ==> ignore
+          arg [elf_x86_64] ==> ignore
+          arg [-pie] ==> ignore
+          arg [-dynamic-linker] ==> ignore
+          arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+          arg [-o] ==> ignore
+          arg [cmTC_e2672] ==> ignore
+          arg [/lib/x86_64-linux-gnu/Scrt1.o] ==> obj [/lib/x86_64-linux-gnu/Scrt1.o]
+          arg [/lib/x86_64-linux-gnu/crti.o] ==> obj [/lib/x86_64-linux-gnu/crti.o]
+          arg [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/crtbeginS.o] ==> obj [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/crtbeginS.o]
+          arg [-L/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu] ==> dir [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu]
+          arg [-L/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0] ==> dir [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0]
+          arg [-L/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../lib64] ==> dir [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../lib64]
+          arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+          arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+          arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+          arg [-L/usr/lib64] ==> dir [/usr/lib64]
+          arg [-L/lib] ==> dir [/lib]
+          arg [-L/usr/lib] ==> dir [/usr/lib]
+          arg [--whole-archive] ==> ignore
+          arg [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan_static.a] ==> lib [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan_static.a]
+          arg [--no-whole-archive] ==> ignore
+          arg [--whole-archive] ==> ignore
+          arg [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan.a] ==> lib [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan.a]
+          arg [--no-whole-archive] ==> ignore
+          arg [--dynamic-list=/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan.a.syms] ==> ignore
+          arg [--whole-archive] ==> ignore
+          arg [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan_cxx.a] ==> lib [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan_cxx.a]
+          arg [--no-whole-archive] ==> ignore
+          arg [--dynamic-list=/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan_cxx.a.syms] ==> ignore
+          arg [-L/usr/shared/CMPT/faculty/wsumner/base/lib] ==> dir [/usr/shared/CMPT/faculty/wsumner/base/lib]
+          arg [-L.] ==> ignore
+          arg [-v] ==> ignore
+          arg [CMakeFiles/cmTC_e2672.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [-lstdc++] ==> lib [stdc++]
+          arg [-lm] ==> lib [m]
+          arg [--no-as-needed] ==> ignore
+          arg [-lpthread] ==> lib [pthread]
+          arg [-lrt] ==> lib [rt]
+          arg [-lm] ==> lib [m]
+          arg [-ldl] ==> lib [dl]
+          arg [-lresolv] ==> lib [resolv]
+          arg [-lgcc_s] ==> lib [gcc_s]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lc] ==> lib [c]
+          arg [-lgcc_s] ==> lib [gcc_s]
+          arg [-lgcc] ==> lib [gcc]
+          arg [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/crtendS.o] ==> obj [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/crtendS.o]
+          arg [/lib/x86_64-linux-gnu/crtn.o] ==> obj [/lib/x86_64-linux-gnu/crtn.o]
+        linker tool for 'CXX': /usr/bin/ld
+        remove lib [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan_static.a]
+        remove lib [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan.a]
+        remove lib [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu/libclang_rt.asan_cxx.a]
+        collapse library dir [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu] ==> [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu]
+        collapse library dir [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0] ==> [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0]
+        collapse library dir [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/../../../../lib64] ==> [/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib64]
+        collapse library dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+        collapse library dir [/lib/../lib64] ==> [/lib64]
+        collapse library dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+        collapse library dir [/usr/lib64] ==> [/usr/lib64]
+        collapse library dir [/lib] ==> [/lib]
+        collapse library dir [/usr/lib] ==> [/usr/lib]
+        collapse library dir [/usr/shared/CMPT/faculty/wsumner/base/lib] ==> [/usr/shared/CMPT/faculty/wsumner/base/lib]
+        implicit libs: [stdc++;m;pthread;rt;m;dl;resolv;gcc_s;gcc;c;gcc_s;gcc]
+        implicit objs: [/lib/x86_64-linux-gnu/Scrt1.o;/lib/x86_64-linux-gnu/crti.o;/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/crtbeginS.o;/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0/crtendS.o;/lib/x86_64-linux-gnu/crtn.o]
+        implicit dirs: [/usr/shared/CMPT/faculty/wsumner/installed/llvm-23.1.1/lib/clang/23/lib/x86_64-unknown-linux-gnu;/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib/gcc/x86_64-pc-linux-gnu/16.2.0;/usr/shared/CMPT/faculty/wsumner/installed/gcc-16.2.0/lib64;/lib/x86_64-linux-gnu;/lib64;/usr/lib/x86_64-linux-gnu;/usr/lib64;/lib;/usr/lib;/usr/shared/CMPT/faculty/wsumner/base/lib]
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/Internal/CMakeDetermineLinkerId.cmake:38 (message)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "/usr/shared/CMPT/faculty/wsumner/base/share/cmake-4.2/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the CXX compiler's linker: "/usr/bin/ld" "-v"
+      GNU ld (GNU Binutils for Ubuntu) 2.42
+...

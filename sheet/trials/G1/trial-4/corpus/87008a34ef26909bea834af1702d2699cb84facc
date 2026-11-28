@@ -1,0 +1,8 @@
+#sheet v1
+D2 = ---TRUE * FALSE >= -A3
+
+D3 = FALSE * B3 / --(-(FALSE - TRUE) > TRUE) <= -"" * MIN() & -FALSE * -C1 / -TRUE
+C4 = D1 - TRUE <> -FALSE & TRUE
+
+B4 = FALSE / -D4 - TRUE / --TRUE + D4 >= ---TRUE
+A1 = ----COUNT(TRUE) / ---TRUE

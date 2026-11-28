@@ -1,0 +1,3 @@
+#sheet v1
+A1 = 7
+B1 = IF(IF(A1 > 5,IF(IF(A1 > 5, IIF(A1 == 7, 1, t 

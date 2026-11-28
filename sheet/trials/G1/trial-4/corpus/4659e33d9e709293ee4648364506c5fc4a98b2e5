@@ -1,0 +1,12 @@
+#sheet v1
+D4 = -LEN(D4:B4) > -""
+A2 = (--TRUE - D2 & -3.3 - B4 / ---FALSE * --FALSE / FALSE & FALSE) * (-FALSE <= "" / (FALSE & TRUE & TRUE <> TRUE * TRUE) / --"x" - MIN(TRUE) * ---MAX(TRUE)) - -"u" * TRUE < 1262.14390
+D1 = TRUE < COUNT()
+B2 = A3
+# a comment
+A1 = TRUE > -ROUND(D4:C3, TRUE, TRUE) * ---TRUE & -FALSE
+# a comment
+
+# a comment
+# a comment
+

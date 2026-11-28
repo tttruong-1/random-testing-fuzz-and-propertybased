@@ -1,0 +1,4 @@
+#sheet v1
+A1 = > 10, "large", "medium"), "small")
+COUNTIF(A1 == 7, 1,A1 = > 10, "large", "medium"), "small")
+COUNT 0)

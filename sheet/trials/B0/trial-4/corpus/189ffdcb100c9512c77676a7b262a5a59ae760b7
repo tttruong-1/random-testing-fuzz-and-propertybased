@@ -1,0 +1,10 @@
+#sheet v1
+A1 =(A2)#sheet v1
+A1 =(A2)0
+A1t v1
+A1 = 1234t v1
+FALSE &0
+A1t v1
+A1 = 1234t v1
+FALSE & "!"(A1, 2)2et v1
+FALSE & "!"A

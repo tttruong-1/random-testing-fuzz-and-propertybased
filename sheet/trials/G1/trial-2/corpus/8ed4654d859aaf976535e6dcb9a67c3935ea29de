@@ -1,0 +1,2 @@
+#sheet v1
+C1 = C3 / --CONCAT() - --ROUND(-FALSE & --TRUE & TRUE * --FALSE * C1 * "" < TRUE / 1 * -(TRUE > FALSE), LEN(FALSE) <= FALSE & FALSE * FALSE & -TRUE + -TRUE / -FALSE - FALSE / --TRUE / FALSE, -FALSE / FALSE, C1:A4) >= -8 + C3 - FALSE & -TRUE & MAX() / TRUE / (FALSE * -FALSE & TRUE * TRUE * -FALSE / --FALSE + 3 + -FALSE / TRUE * D4 * "" & D3 * -FALSE * -"" & -TRUE) * ---"" / -AVERAGE(-FALSE * (FALSE) / 37.27, TRUE * FALSE * 6 >= --TRUE / ---FALSE, -FALSE / (FALSE) >= FALSE / TRUE * TRUE * D2) + B1 * ---(MIN(B4:D3, TRUE, TRUE) + --C2)

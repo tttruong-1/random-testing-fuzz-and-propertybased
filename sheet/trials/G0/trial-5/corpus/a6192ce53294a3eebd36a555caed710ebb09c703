@@ -1,0 +1,4 @@
+#sheet v1
+
+J21715979195 = ROUND(B8:UCE9, FALSE / -"" == --FALSE) - -AVERAGE() == 4.3 / "" & -80.4
+# a comment

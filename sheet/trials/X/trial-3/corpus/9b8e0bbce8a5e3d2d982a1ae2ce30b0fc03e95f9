@@ -1,0 +1,3 @@
+#sheet v1
+C1 = -6 - AVERAGE() & SUM() * -TRUE * "2"
+# a comment

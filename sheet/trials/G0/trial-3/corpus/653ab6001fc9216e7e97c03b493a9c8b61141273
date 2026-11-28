@@ -1,0 +1,2 @@
+#sheet v1
+F636 = (TRUE * -7.5 <= SUM(Q2:A8, V2:R5, TRUE, FALSE) * (COUNT() > "")) - -TRUE + ----TRUE / 80.912963983 > -"" / -FK7 - -1 / TRUE * (FALSE * "L")

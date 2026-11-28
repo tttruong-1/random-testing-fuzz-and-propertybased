@@ -1,0 +1,18 @@
+#sheet v1
+# a comment
+A2 = A4 + FALSE + --MIN() * -A4 == -MAX(FALSE == "", (TRUE) >= TRUE - FALSE + TRUE / TRUE - TRUE * -TRUE - FALSE * TRUE * TRUE * -TRUE + "")
+B1 = TRUE / "mm" / ---"" / (0) * -TRUE * FALSE * ("" / "" * TRUE & -"" <> ---AVERAGE()) / -(D1 + --FALSE - FALSE + FALSE * FALSE / 7 / A2 * -A1 * 5 > B3 / -(FALSE) - ----FALSE * --(FALSE)) & -A3
+# a comment
+
+# a comment
+A2 = TRUE + --8.7 * --FALSE & 7 - COUNT(D4:B1, TRUE, FALSE, TRUE) * --"kl" / A1
+B1 = -3
+
+# a comment
+# a comment
+# a comment
+
+D2 = -FALSE
+
+
+C3 = TRUE == TRUE

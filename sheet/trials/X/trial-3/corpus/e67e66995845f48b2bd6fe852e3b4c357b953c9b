@@ -1,0 +1,4 @@
+#sheet v1
+
+D4 = AVERAGE(4.1 > COUNT(TRUE) / IF(FALSE)) & ----FALSE
+

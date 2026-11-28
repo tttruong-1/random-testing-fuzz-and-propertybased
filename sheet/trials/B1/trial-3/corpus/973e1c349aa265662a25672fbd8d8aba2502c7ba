@@ -1,0 +1,6 @@
+#sheet v1
+A1 = 7
+B1 = IF(A1 , 5> IFA (2> 10, "large", "medium"), "small")
+B4 = IF(A1 == 7, 1, 0)
+A1 = 7
+B1 = IF(A1 > 5,

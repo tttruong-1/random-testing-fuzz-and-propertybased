@@ -1,0 +1,3 @@
+#sheet v1
+Q4 = (FALSE * TRUE) * AVERAGE(O734:Y1, SUM(T4:I6), SAQM3:DH196)
+

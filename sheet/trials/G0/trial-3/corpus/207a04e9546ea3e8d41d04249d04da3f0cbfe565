@@ -1,0 +1,2 @@
+#sheet v1
+L3 = "OC" * "CS" * CONCAT(NF910:H5670, Y7:VY61, KU6:US187) <> FALSE

@@ -1,0 +1,5 @@
+#sheet v1
+F45 = ---AVERAGE(PW95:KCP2, EP1:QG4, N1:N8, TRUE) + T3 + -TRUE / 1.89 > --TRUE + "" & --FALSE
+
+# a comment
+

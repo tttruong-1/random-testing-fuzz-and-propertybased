@@ -1,0 +1,6 @@
+#sheet v1
+C1 = (B4 - -123 / (TRUE * --TRUE >= FALSE / FALSE & FALSE + FALSE * FALSE / TRUE / (FALSE))) - 3 * -(TRUE - FALSE * TRUE + TRUE & FALSE / -FALSE / 5 - FALSE >= TRUE - FALSE * -TRUE & TRUE / -TRUE & -FALSE * TRUE) / SUM(TRUE * FALSE * FALSE + -TRUE, C2:A1, FALSE + TRUE / TRUE <> FALSE / TRUE) * -TRUE * ---TRUE / --(FALSE / TRUE * "" / -"" + FALSE / -AVERAGE() * MAX() & -"9" * ------FALSE) + -"Y" <> A4 + -(-FALSE / ----TRUE * -(FALSE <> FALSE - TRUE) * --"") + FALSE + --D2 / --((TRUE / TRUE) & --AVERAGE()) * 7
+
+# a comment
+D2 = D3 * -FALSE
+

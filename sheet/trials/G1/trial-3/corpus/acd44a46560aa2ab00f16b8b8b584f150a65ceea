@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+C1 = -----MAX(FALSE, TRUE & TRUE, TRUE <> FALSE)
+# a comment

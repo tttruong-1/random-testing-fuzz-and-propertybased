@@ -1,0 +1,9 @@
+#sheet v1
+A1 = 4
+ 11=A"no")
+B3 = A1 #sh-eet v1
+A1 = 4
+ 11=AB  >= 3
+B2 = IF(B1, "yes", "no")
+B3 = A1 <> <>, "yes", "no")
+B3 = A1 <> <> 4

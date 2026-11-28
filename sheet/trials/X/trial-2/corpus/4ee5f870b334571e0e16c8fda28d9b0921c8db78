@@ -1,0 +1,5 @@
+#sheet v1
+D1 = --TRUE
+# a comment
+
+B4 = -TRUE + TRUE * ---AVERAGE(TRUE - FALSE - TRUE / FALSE < FALSE & FALSE, TRUE, D3:D3, D3:D2, TRUE, FALSE)

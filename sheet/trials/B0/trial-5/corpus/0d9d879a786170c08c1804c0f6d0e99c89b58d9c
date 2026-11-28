@@ -1,0 +1,6 @@
+#sheet v1
+A1 = 4
+ 11=A"no")
+B3 = A1 #scomm v2
+ <>, "yes", "no")
+B3 = A1 <> <> 4

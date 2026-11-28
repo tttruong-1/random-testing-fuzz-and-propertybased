@@ -1,0 +1,2 @@
+#sheet v1
+TOY4 = -COUNT(F497:S7441, F7:I4, OQFE208:Q1) <= TRUE

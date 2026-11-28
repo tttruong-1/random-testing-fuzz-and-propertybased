@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+B1 = -0274 & --D4 * ("" * SUM(D4:C3, B4:D3, TRUE, FALSE) <> FALSE * (FALSE + FALSE + TRUE / TRUE - TRUE * TRUE * -TRUE)) / 5 - ---B4 > -5 / -MAX(TRUE) * TRUE & TRUE - --TRUE / --TRUE / ROUND() / FALSE * --LEN(FALSE, TRUE) * 521 + --(-FALSE) & D4 / -(FALSE / -TRUE / AVERAGE()) * "" & COUNT() * -FALSE * ---FALSE / (-FALSE / -"" * (TRUE) + "0" * -FALSE == --TRUE / 2.64 * ----TRUE) + -"" / B4 + A2 & FALSE * --"x8hc\""

@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+C2 = -COUNT(C1:A2, FALSE, TRUE, TRUE) / FALSE / --96 * SUM() - ----21 * ---B1

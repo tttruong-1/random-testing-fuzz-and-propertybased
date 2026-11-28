@@ -1,0 +1,4 @@
+#sheet v1
+et v1
+A1 = "appLEna"
+B0 = A1 <LEN( <LEN(A2) >= 6

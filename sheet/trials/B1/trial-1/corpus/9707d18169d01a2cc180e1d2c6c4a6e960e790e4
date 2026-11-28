@@ -1,0 +1,3 @@
+#sheet v1
+A1 = "apple"
+AB2 = A1 == "apple"

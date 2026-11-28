@@ -1,0 +1,2 @@
+#sheet v1
+A3 = --"29Up2" == -LEN(D3:A1, "" & 7, D2:A3, FALSE / -FALSE)

@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+
+
+D2 = 9 * ---3.6 / ---COUNT() * ---996 - ---TRUE / "" * --(TRUE / FALSE + -FALSE + FALSE >= FALSE * TRUE + --FALSE) & FALSE / --TRUE * -(FALSE) * "3" * --ROUND(FALSE) * (TRUE + -FALSE) / (TRUE * FALSE * TRUE <= "") / "" * (6.2) * AVERAGE(A2:A1, FALSE * TRUE & FALSE, B2:D1) + C3 > SUM(A1:A3, TRUE - TRUE / TRUE + -FALSE) / -IF(D1:C3)

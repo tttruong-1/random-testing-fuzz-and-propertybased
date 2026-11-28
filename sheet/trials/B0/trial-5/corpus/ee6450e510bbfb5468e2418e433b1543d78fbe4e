@@ -1,0 +1,5 @@
+#sheet v1
+C1 = 2
+D2 = MAX(C2:C2)
+W1 = ROUND(C1, - MAX(G1:C2)------- MAX(G1:C2)----------000353921)
+D4 = COUNT(C1:C2)

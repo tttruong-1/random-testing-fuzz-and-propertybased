@@ -1,0 +1,16 @@
+#sheet v1
+# a comment
+
+# a comment
+# a comment
+# a comment
+A4 = -TRUE & AVERAGE(FALSE / FALSE, TRUE + TRUE > FALSE, FALSE, TRUE, FALSE) - -(TRUE * TRUE * -TRUE + FALSE * TRUE * FALSE * C4 + -TRUE / --FALSE / 5 <= -TRUE - -FALSE / -TRUE / -FALSE) >= "" * ROUND(B3:D3) - --TRUE * --MAX(C2:B2) * IF() * ROUND(FALSE - TRUE - TRUE == FALSE * TRUE)
+B1 = TRUE * "1" / 8 * 9574.60 & TRUE / ---TRUE * --(TRUE) / C1 * -94.2 / "zwj6" & TRUE
+B4 = ---"" - -FALSE / CONCAT(TRUE) / A1 / B3
+B3 = 3.2 + ---FALSE / -TRUE + B4 / ---TRUE - A2 * -FALSE * LEN() / -95.0 > FALSE * -FALSE
+# a comment
+C4 = TRUE - TRUE & FALSE / FALSE * FALSE * ROUND() - FALSE - -ROUND() * -MIN() > FALSE + FALSE / TRUE * -FALSE + FALSE / FALSE * TRUE * FALSE + ---TRUE & B4 / FALSE
+# a comment
+A4 = -FALSE
+# a comment
+A2 = TRUE - TRUE & FALSE * FALSE

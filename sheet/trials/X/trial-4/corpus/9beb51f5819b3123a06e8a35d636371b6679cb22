@@ -1,0 +1,9 @@
+#sheet v1
+
+# a comment
+C2 = MIN("", TRUE / FALSE / -TRUE, B3:C2, C1:C3, B4:C1) / -(--COUNT() / -----FALSE) * -ROUND() <> FALSE * -AVERAGE(FALSE, C2:B3, C3:D2, FALSE) * -B4 / -("" + ---TRUE & D4 * TRUE * (TRUE <> TRUE)) * --"" - -------TRUE / -----(FALSE / TRUE + TRUE < --FALSE)
+
+A1 = -AVERAGE(-TRUE) <= -14.75 * -FALSE / FALSE * (-FALSE / --FALSE * -TRUE * -5.0 == --FALSE / ---TRUE - --D4) - --FALSE
+B3 = ----TRUE & -SUM(TRUE, FALSE) >= LEN() * TRUE / D2
+# a comment
+D3 = -SUM(FALSE, FALSE, TRUE) / B4 > ---TRUE * FALSE * "rtp" & "O"

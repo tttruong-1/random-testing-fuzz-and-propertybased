@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+# a comment
+C1 = --LEN(FALSE + FALSE >= TRUE) / CONCAT(C4:B1) & ---214 <> ---FALSE / -TRUE

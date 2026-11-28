@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+# a comment
+EQ3 = --(TRUE - FALSE - FALSE / FALSE / -TRUE == -TRUE) * FALSE / --(9 / TRUE == -TRUE / FALSE + -FALSE / TRUE) / --FALSE / TRUE < FALSE / LEN(--TRUE) - (TRUE + TRUE * TRUE + -TRUE - 0 > TRUE - FALSE * -TRUE - FALSE / -FALSE * --FALSE) / PL55 * -MAX(GH76:BO9, FALSE) * -((FALSE)) / -FALSE * -LEN(B4:MY1)

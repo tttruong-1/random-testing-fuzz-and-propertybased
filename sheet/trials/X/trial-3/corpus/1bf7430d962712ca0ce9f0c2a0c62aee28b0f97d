@@ -1,0 +1,2 @@
+#sheet v1
+B3 = FALSE * COUNT(C3:A3, C4:A3, TRUE - ---FALSE <> -5) / -7.63

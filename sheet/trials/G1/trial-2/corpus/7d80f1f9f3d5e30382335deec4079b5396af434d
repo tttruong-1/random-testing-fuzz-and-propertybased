@@ -1,0 +1,3 @@
+#sheet v1
+A4 = COUNT(FALSE) <= FALSE & -FALSE
+# a comment

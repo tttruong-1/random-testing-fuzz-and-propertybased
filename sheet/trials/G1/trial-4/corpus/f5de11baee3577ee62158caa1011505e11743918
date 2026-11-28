@@ -1,0 +1,6 @@
+#sheet v1
+
+# a comment
+B4 = -B2 + (FALSE & FALSE + FALSE + (TRUE) & --FALSE - FALSE * -FALSE * TRUE * 4.1 * FALSE + D1 & -TRUE) + "!L" >= --"" * -FALSE / C1
+A1 = -"" * FALSE * "zk" * -TRUE + (MAX(B3:D4, FALSE) > FALSE * LEN() - -FALSE & TRUE / -FALSE * FALSE * FALSE / ----TRUE - (TRUE < TRUE + FALSE) * 7) / ----FALSE <= C4 * IF() / ROUND(-FALSE + FALSE / ---FALSE, TRUE + FALSE / FALSE / -TRUE, TRUE / FALSE & TRUE * -TRUE <> TRUE)
+A2 = -"" / -FALSE + B4 * ---"" * "QQ" * ---CONCAT(TRUE) / -(TRUE * FALSE * FALSE + -TRUE + -TRUE / --FALSE) - FALSE

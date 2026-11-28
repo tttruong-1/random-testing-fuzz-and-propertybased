@@ -1,0 +1,2 @@
+#sheet v1
+Z5 = ------CONCAT(SF31:A17, D2:T3, N5:O7, F5:U8, TRUE) < -FALSE

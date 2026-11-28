@@ -1,0 +1,6 @@
+#sheet v1
+
+
+
+# a comment
+TWH9 = --"4bM" * -FALSE & COUNT(G50:X3, TRUE + FALSE & TRUE >= TRUE - FALSE - TRUE, FALSE - FALSE) / -"F" >= --"" / --TRUE / -ROUND() & MIN(R4:S306)

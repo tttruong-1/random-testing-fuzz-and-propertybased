@@ -1,0 +1,2 @@
+#sheet v1
+C4 = -TRUE & --FALSE - (-TRUE) / --"B" >= --AVERAGE(A4:B3, FALSE * TRUE * -TRUE / CONCAT(FALSE), TRUE / TRUE / -TRUE, C3:C2, C1:C1, A2:A2, C4:C3)

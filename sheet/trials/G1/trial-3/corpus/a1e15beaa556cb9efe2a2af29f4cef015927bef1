@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+
+A1 = ---MIN() * --LEN() * TRUE * AVERAGE(D3:B4) & IF(B1, A4:C4) / D2 <= ----(TRUE + TRUE) * -CONCAT() & AVERAGE(FALSE * TRUE * TRUE / --FALSE, C2:B2, B1:D4, TRUE, TRUE) - -9 / 20.55 + -ROUND() * 40 * (-TRUE / --FALSE * TRUE / ---TRUE * 5 / -A3 / FALSE >= --FALSE / "")

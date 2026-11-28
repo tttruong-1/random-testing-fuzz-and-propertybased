@@ -1,0 +1,2 @@
+#sheet v1
+D2 = -(COUNT(D1:D4, TRUE) * (FALSE == -FALSE * (TRUE) + --TRUE))

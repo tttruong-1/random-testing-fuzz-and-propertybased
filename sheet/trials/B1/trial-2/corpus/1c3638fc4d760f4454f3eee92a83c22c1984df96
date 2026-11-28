@@ -1,0 +1,6 @@
+#sheet v1
+A1 = 1
+A2 = 2
+A3 = 3
+B1 = SUM(A2:A3)
+B2 = AVERAGE(A2:A3, 10)

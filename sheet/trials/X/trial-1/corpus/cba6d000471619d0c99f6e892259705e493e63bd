@@ -1,0 +1,4 @@
+#sheet v1
+
+A1 = -COUNT(C3:D4, A2:C2, FALSE * -TRUE) / -(--TRUE * --6.0 / --MIN(FALSE) & TRUE * ---54.6)
+

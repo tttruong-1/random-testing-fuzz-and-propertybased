@@ -1,0 +1,4 @@
+#sheet v1
+
+B3 = (05.798) * --MIN(A4:D4, FALSE / TRUE + -FALSE + FALSE, FALSE, A4:C4) >= 4.27
+

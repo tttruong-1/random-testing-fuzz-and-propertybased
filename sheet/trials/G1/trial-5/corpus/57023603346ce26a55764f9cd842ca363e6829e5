@@ -1,0 +1,4 @@
+#sheet v1
+
+# a comment
+A3 = -TRUE * TRUE + TRUE * "" & "j" - -1.1 > MAX((FALSE) * --FALSE * -(FALSE == TRUE) >= "" / 0.3, B1:C1, B3:D4, A1:D2, B1:A4)

@@ -1,0 +1,5 @@
+#sheet v1
+A1 = ""
+A2 = ""nabana
+B1 = 4
+S1 = AMX(A1:B2)< A2

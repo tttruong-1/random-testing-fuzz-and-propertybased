@@ -1,0 +1,3 @@
+#sheet v1
+D2 = ----TRUE * 3 * (----TRUE - B1 / COUNT(FALSE, C3:D4) + "" & --B1 <> AVERAGE() - "q" - -FALSE & -B3)
+A3 = "0" * -(TRUE / FALSE * -"" / "B" * -3.1 + AVERAGE() / C3 == -"" / ---FALSE / TRUE) / C1 < --TRUE * "k!" & --B4

@@ -1,0 +1,4 @@
+#sheet v1
+D1 = "N" / --"" <> -FALSE / ------FALSE
+A4 = -(FALSE / TRUE / -FALSE / --FALSE * --TRUE + ----TRUE + MIN() + B3 / (TRUE * -FALSE <= TRUE + FALSE) & -0 * (TRUE * TRUE * -FALSE <> TRUE & FALSE * FALSE - FALSE) / -(FALSE & TRUE * FALSE - FALSE * FALSE * -TRUE <> FALSE - FALSE * TRUE / -TRUE) <= -"" & -----TRUE + TRUE + --COUNT(A4:D2)) <> 5 / 2 - -(--MAX() / (TRUE == FALSE / FALSE) * "mE" >= -----TRUE) - FALSE
+C1 = --FALSE

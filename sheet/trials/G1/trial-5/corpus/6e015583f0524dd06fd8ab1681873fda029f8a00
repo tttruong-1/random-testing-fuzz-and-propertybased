@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+B1 = MIN(-TRUE * (FALSE >= TRUE) * ---FALSE & -"" <> ---FALSE * (TRUE / TRUE))

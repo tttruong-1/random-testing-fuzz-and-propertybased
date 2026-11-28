@@ -1,0 +1,2 @@
+#sheet v1
+A4 = -FALSE / -MIN(B3:A4, A3:D4) <> --MAX(CONCAT(TRUE, FALSE) <= TRUE / TRUE * -FALSE * TRUE / A4 - 7.8)

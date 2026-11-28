@@ -1,0 +1,2 @@
+#sheet v1
+A1 = ---MAX(C1:D1, TRUE + FALSE & FALSE <> TRUE * TRUE, FALSE & FALSE - TRUE * TRUE <> FALSE & FALSE - TRUE * TRUE) - ---TRUE

@@ -1,0 +1,8 @@
+#sheet v1
+A1 = 1234.567<
+B1ROUND(A1, -2sheet v1
+A1 = 1234.567<
+B1ROUND(A1, -2)
+B3 = ROUND(A1)
+B3 = ROUND(<
+B1ROUNDA1, 0.5)

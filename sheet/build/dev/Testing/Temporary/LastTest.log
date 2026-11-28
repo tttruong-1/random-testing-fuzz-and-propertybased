@@ -1,0 +1,60 @@
+Start testing: Nov 21 14:24 MST
+----------------------------------------------------------
+1/2 Testing: unit
+1/2 Test: unit
+Command: "/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/sheet_tests"
+Directory: /home/tttruong/Downloads/se-random-testing-template/sheet/build/dev
+"unit" start time: Nov 21 14:24 MST
+Output:
+----------------------------------------------------------
+PASS header is required
+PASS lexer rejects bad characters and strings
+PASS parser accepts the example sheet
+PASS parser respects precedence
+PASS parser decodes string escapes
+PASS parser rejects malformed definitions
+PASS nesting depth is limited, not a stack overflow
+PASS the Ast keeps its source alive across moves
+PASS cell references print in spreadsheet notation
+PASS cell references order by column, then row
+PASS values print
+PASS resolve rejects duplicates, undefined cells and bad calls
+PASS resolve allows ranges over undefined cells and forward references
+PASS dependencies reject cycles, including through ranges
+PASS types reject mismatched operands
+PASS types check every cell a numeric range covers, either way round
+PASS types accept well-typed sheets
+PASS arithmetic and precedence
+PASS errors are values that propagate
+PASS forward references evaluate in dependency order
+PASS aggregates
+PASS IF evaluates only the chosen branch
+PASS text functions and comparisons
+PASS ROUND
+PASS tall expression trees are rejected while parsing
+0 checks failed
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"unit" end time: Nov 21 14:24 MST
+"unit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: seeds-parse
+2/2 Test: seeds-parse
+Command: "/home/tttruong/Downloads/se-random-testing-template/sheet/build/dev/sheet_tests" "--seeds" "/home/tttruong/Downloads/se-random-testing-template/sheet/seeds"
+Directory: /home/tttruong/Downloads/se-random-testing-template/sheet/build/dev
+"seeds-parse" start time: Nov 21 14:24 MST
+Output:
+----------------------------------------------------------
+21 of 21 seeds parse
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"seeds-parse" end time: Nov 21 14:24 MST
+"seeds-parse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 21 14:24 MST

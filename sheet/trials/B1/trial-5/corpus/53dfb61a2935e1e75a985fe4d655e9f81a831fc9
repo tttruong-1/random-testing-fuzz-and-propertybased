@@ -1,0 +1,4 @@
+#sheet v1
+A1 = 3
+B1 = IF(A1 == 7,IF("la", "merge", "medium"), "small")
+B3 = IF(A1 == 7, 1, 0)

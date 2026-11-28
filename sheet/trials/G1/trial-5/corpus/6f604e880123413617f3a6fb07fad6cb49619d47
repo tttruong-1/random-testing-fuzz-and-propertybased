@@ -1,0 +1,3 @@
+#sheet v1
+B3 = IF(A2:D4, A4:A4)
+# a comment

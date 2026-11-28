@@ -1,0 +1,7 @@
+#sheet v1
+# a comment
+A3 = --32778 / TRUE - --FALSE
+# a comment
+# a comment
+A3 = COUNT() * ---FALSE - 454 / FALSE + FALSE + ----(TRUE - FALSE) - ---MAX() * -C4 * 9 - --B3 / -(-TRUE / "" - FALSE * --A3) == IF(C3:C3, A2:A1, B4:A4, C2:B2)
+

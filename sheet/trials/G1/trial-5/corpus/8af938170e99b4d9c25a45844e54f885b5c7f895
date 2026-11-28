@@ -1,0 +1,9 @@
+#sheet v1
+
+# a comment
+D1 = ----MAX(TRUE) * --403 / -"g" * -(--C2 & CONCAT() / -TRUE * ----TRUE < A4 / IF(TRUE) / -0.82 * FALSE)
+
+# a comment
+
+A1 = 8 - -5.6 & ---TRUE * TRUE + --TRUE - ROUND() * --TRUE / -FALSE / D2 + --MAX(TRUE >= TRUE) < C1 * IF(TRUE < TRUE, A2:B1, TRUE, TRUE) / -FALSE * FALSE
+B3 = --FALSE / --1 / --MAX(TRUE) - ---FALSE * LEN(FALSE, FALSE) * --FALSE / --"n " <> A3 * "k"

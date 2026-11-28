@@ -1,0 +1,7 @@
+#sheet v1
+# a comment
+# a comment
+B4 = -------75 - TRUE == ---TRUE + ---FALSE
+
+D2 = -TRUE & 4.38 <= -FALSE
+

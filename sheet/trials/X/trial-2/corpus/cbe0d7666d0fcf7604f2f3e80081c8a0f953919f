@@ -1,0 +1,2 @@
+#sheet v1
+A2 = -COUNT(A4:C3, -TRUE + -FALSE / -FALSE + TRUE <> FALSE / TRUE / FALSE * (TRUE) & --TRUE / "") - -"EcTY" * -FALSE * ---"JI"

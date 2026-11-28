@@ -1,0 +1,4 @@
+#sheet v1
+B3 = -CONCAT(-C2, TRUE + -ROUND()) / --(8.8 / IF() / A1 / 6.1 - -FALSE / 4 * TRUE == 6 * TRUE * LEN(FALSE) / ----FALSE - FALSE / TRUE * --(FALSE + FALSE > TRUE) & --TRUE)
+
+# a comment

@@ -1,0 +1,4 @@
+#sheet v1
+B4 = --48.25 / MAX() & -C1 + -------"" + ----C3 & D2 / LEN() == --(-FALSE & TRUE * -FALSE * -TRUE * --TRUE & -TRUE * (FALSE - FALSE) - FALSE == A1) * FALSE * FALSE
+
+# a comment

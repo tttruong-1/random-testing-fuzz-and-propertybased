@@ -1,0 +1,4 @@
+#sheet v1
+C4 = -TRUE * SUM(A2:D2, TRUE + TRUE == FALSE * FALSE, FALSE + TRUE) / (-B3 & ROUND() / -FALSE * D2 == FALSE * FALSE - FALSE * -TRUE + --FALSE & TRUE * -FALSE / (FALSE) * FALSE - AVERAGE(TRUE, FALSE) + --"" * (FALSE)) * "SCYd" * ---"" - "7" / B2 - "" * "y" == ---TRUE * TRUE * TRUE * -"E" * ---FALSE / TRUE / 7.3 / "" - FALSE - ((TRUE) / 0 * (TRUE) / "H" * -"" - --"" * A4) - --3064 + -FALSE * ----(FALSE * (TRUE) <= ----TRUE * A3)
+# a comment
+B2 = ----(FALSE) * -"" * (-FALSE / FALSE - FALSE < FALSE / TRUE * MAX() * TRUE & ----FALSE) * 364 + CONCAT(TRUE + TRUE + FALSE / TRUE, FALSE + FALSE, C4:C4, B2:D1, TRUE, FALSE) * TRUE * 4.5 * (-COUNT() - "" == ---1 + D3 / A3 / -B3) + -TRUE <= -(FALSE / --AVERAGE() * MAX(C2:D4, FALSE) >= FALSE + TRUE + FALSE + TRUE * TRUE - TRUE * FALSE * TRUE / --FALSE + -LEN() - "" / -LEN(FALSE) + --"") / --D3

@@ -1,0 +1,5 @@
+#sheet v1
+
+# a comment
+B1 = TRUE * -TRUE / "H" & D4 - --AVERAGE() * ---"" * "" / ----IF() <= -(-TRUE) / -TRUE / (FALSE / TRUE + -FALSE + FALSE * -FALSE - -FALSE / "" - (FALSE < TRUE) * --B2) - -(TRUE / -TRUE - -TRUE * FALSE & --FALSE * -(FALSE) & TRUE * (FALSE + FALSE) > -(FALSE) * SUM()) + -FALSE + (SUM(TRUE, TRUE) - TRUE / -FALSE * ---TRUE / "5" / TRUE + FALSE / TRUE / TRUE * TRUE * -D2 / 7.2 * FALSE / "" - TRUE)
+D1 = (TRUE + FALSE - TRUE + -TRUE / 1 <> TRUE & AVERAGE()) * "g3d6" * -ROUND(A2:B1, C2:A1) * "" & --MIN(D4:B4) >= -23.0 / -COUNT(TRUE + -TRUE, D2:B3) + -TRUE

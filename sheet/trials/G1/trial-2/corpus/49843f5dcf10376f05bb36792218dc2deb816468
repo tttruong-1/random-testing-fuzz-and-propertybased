@@ -1,0 +1,4 @@
+#sheet v1
+B4 = -----"" * "x:" & ---FALSE * CONCAT(D4:C4, C1:C2, TRUE * TRUE / TRUE & (FALSE) >= FALSE / TRUE & -TRUE & --FALSE) / 44.93 + -SUM(FALSE, A2:C3, C1:D4)
+# a comment
+# a comment

@@ -1,0 +1,3 @@
+#sheet v1
+
+A3 = -CONCAT() & CONCAT(A1:B2, FALSE * -TRUE & FALSE / FALSE / TRUE) / -"qS" & --(TRUE / TRUE / -FALSE + -FALSE / -TRUE - -TRUE + MAX() - -FALSE & -"" / -TRUE / ------TRUE) == ----MIN() - "" / FALSE

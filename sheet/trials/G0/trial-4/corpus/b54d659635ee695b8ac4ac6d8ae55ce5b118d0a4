@@ -1,0 +1,3 @@
+#sheet v1
+LZ9 = 38.1 * 6.0 * (MAX(A6:B61) / ----FALSE) > 447 * -------TRUE - 906
+# a comment

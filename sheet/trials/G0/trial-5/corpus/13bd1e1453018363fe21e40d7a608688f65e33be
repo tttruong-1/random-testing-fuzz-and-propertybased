@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+R4 = --(FALSE > TRUE) * MAX(PXLH82:TU5) * -4.70 / FALSE <> 93 / "S"

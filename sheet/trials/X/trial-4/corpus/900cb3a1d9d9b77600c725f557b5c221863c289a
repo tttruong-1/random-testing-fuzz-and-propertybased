@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+B3 = FALSE == MAX(A4:A2) * SUM(D2:D2)
+# a comment

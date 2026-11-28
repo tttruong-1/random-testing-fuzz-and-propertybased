@@ -1,0 +1,4 @@
+#sheet v1
+C3 = -ROUND() < -7 + FALSE
+# a comment
+

@@ -1,0 +1,8 @@
+#sheet v1
+A1 1= 2(A2)
+A4 =5 4 = FALSE<<<<<<<<<< &ALSE &" !"
+
+A3 =z LEN(A2)*A4 == FALS(A2)
+A4 =5 4 = FALSE<<<<<<<<<< &ALSE &" !"
+
+ALS F

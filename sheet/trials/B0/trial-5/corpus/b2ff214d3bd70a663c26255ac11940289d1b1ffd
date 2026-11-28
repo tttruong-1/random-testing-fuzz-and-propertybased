@@ -1,0 +1,6 @@
+#sheet v1
+A1 = (A2)
+A4  = FALSE & "!"
+
+6= AE NL(A2)
+A4 = FALSE & B1 

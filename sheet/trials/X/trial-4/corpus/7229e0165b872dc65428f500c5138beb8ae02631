@@ -1,0 +1,4 @@
+#sheet v1
+
+
+A3 = MIN(C3:C2, D2:D1)

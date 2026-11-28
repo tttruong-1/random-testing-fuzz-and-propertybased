@@ -1,0 +1,6 @@
+#sheet v1
+# Ranges may 1:D5)
+A2 = MIaaaaaaaaaaaaaaaX(D55550:D5)
+A3= AXERAGE(D1:D5)
+A2 = MIX(D1:D5)
+A3 = CUMSUm(D1:D5, 4)

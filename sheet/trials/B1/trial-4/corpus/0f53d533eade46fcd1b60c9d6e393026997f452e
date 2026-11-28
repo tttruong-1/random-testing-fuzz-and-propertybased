@@ -1,0 +1,4 @@
+#sheet v1
+A1 = "ÿÿÿÿ\n"& "tab\tÿÿre"
+AA4 = "bac+\\slaÿÿÿÿÿÿÿÿÿÿÿÿÿÿ\n"& "ÿÿsh"
+AA2= CONCAT("line\n"& "ROÿýÿÿÿ\n"& "Rd")

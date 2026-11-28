@@ -1,0 +1,4 @@
+#sheet v1
+A1 = "app6--77sleBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB–nana"
+B3 = A1 <----------------- A1
+B2 = A1 == "ape"

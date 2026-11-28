@@ -1,0 +1,3 @@
+#sheet v1
+A1 = "t5,  = "
+A3 = CONCAT("line e\nA\n", "e¥nne\n", "end", "e^nneend")

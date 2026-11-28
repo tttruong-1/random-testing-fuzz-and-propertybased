@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+T7024 = SUM(MAX(TRUE) / -TRUE, JYCX42:B2077)

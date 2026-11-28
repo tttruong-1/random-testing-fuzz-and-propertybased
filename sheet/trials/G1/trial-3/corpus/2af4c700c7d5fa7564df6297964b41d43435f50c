@@ -1,0 +1,6 @@
+#sheet v1
+C1 = --TRUE
+B3 = -AVERAGE() / LEN() <= ""
+B1 = C2 * -COUNT() * MAX() - --"2j" & ---CONCAT() - A4 / --(LEN() <= TRUE) * 2.2200615 * "TX1X" * "7" <= TRUE & -TRUE / TRUE * -----TRUE * --TRUE + "g1Z" - IF(C2:A3, TRUE + TRUE < TRUE, B1:D1, FALSE, TRUE, FALSE) & -"it" + --C1 + A2 & SUM() / ROUND() / C1 / --A4
+C2 = FALSE < -166.54 / -----TRUE
+

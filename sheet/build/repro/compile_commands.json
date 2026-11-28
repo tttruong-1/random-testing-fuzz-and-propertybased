@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro",
+  "command": "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -D_GLIBCXX_ASSERTIONS -I/home/tttruong/Downloads/se-random-testing-template/sheet/include -I/home/tttruong/Downloads/se-random-testing-template/sheet/src -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -O1 -g -std=c++26 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wimplicit-fallthrough -Werror -o CMakeFiles/sheet.dir/src/ast.cpp.o -c /home/tttruong/Downloads/se-random-testing-template/sheet/src/ast.cpp",
+  "file": "/home/tttruong/Downloads/se-random-testing-template/sheet/src/ast.cpp",
+  "output": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro/CMakeFiles/sheet.dir/src/ast.cpp.o"
+},
+{
+  "directory": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro",
+  "command": "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -D_GLIBCXX_ASSERTIONS -I/home/tttruong/Downloads/se-random-testing-template/sheet/include -I/home/tttruong/Downloads/se-random-testing-template/sheet/src -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -O1 -g -std=c++26 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wimplicit-fallthrough -Werror -o CMakeFiles/sheet.dir/src/cell_range.cpp.o -c /home/tttruong/Downloads/se-random-testing-template/sheet/src/cell_range.cpp",
+  "file": "/home/tttruong/Downloads/se-random-testing-template/sheet/src/cell_range.cpp",
+  "output": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro/CMakeFiles/sheet.dir/src/cell_range.cpp.o"
+},
+{
+  "directory": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro",
+  "command": "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -D_GLIBCXX_ASSERTIONS -I/home/tttruong/Downloads/se-random-testing-template/sheet/include -I/home/tttruong/Downloads/se-random-testing-template/sheet/src -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -O1 -g -std=c++26 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wimplicit-fallthrough -Werror -o CMakeFiles/sheet.dir/src/check.cpp.o -c /home/tttruong/Downloads/se-random-testing-template/sheet/src/check.cpp",
+  "file": "/home/tttruong/Downloads/se-random-testing-template/sheet/src/check.cpp",
+  "output": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro/CMakeFiles/sheet.dir/src/check.cpp.o"
+},
+{
+  "directory": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro",
+  "command": "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -D_GLIBCXX_ASSERTIONS -I/home/tttruong/Downloads/se-random-testing-template/sheet/include -I/home/tttruong/Downloads/se-random-testing-template/sheet/src -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -O1 -g -std=c++26 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wimplicit-fallthrough -Werror -o CMakeFiles/sheet.dir/src/dependencies.cpp.o -c /home/tttruong/Downloads/se-random-testing-template/sheet/src/dependencies.cpp",
+  "file": "/home/tttruong/Downloads/se-random-testing-template/sheet/src/dependencies.cpp",
+  "output": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro/CMakeFiles/sheet.dir/src/dependencies.cpp.o"
+},
+{
+  "directory": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro",
+  "command": "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -D_GLIBCXX_ASSERTIONS -I/home/tttruong/Downloads/se-random-testing-template/sheet/include -I/home/tttruong/Downloads/se-random-testing-template/sheet/src -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -O1 -g -std=c++26 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wimplicit-fallthrough -Werror -o CMakeFiles/sheet.dir/src/evaluate.cpp.o -c /home/tttruong/Downloads/se-random-testing-template/sheet/src/evaluate.cpp",
+  "file": "/home/tttruong/Downloads/se-random-testing-template/sheet/src/evaluate.cpp",
+  "output": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro/CMakeFiles/sheet.dir/src/evaluate.cpp.o"
+},
+{
+  "directory": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro",
+  "command": "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -D_GLIBCXX_ASSERTIONS -I/home/tttruong/Downloads/se-random-testing-template/sheet/include -I/home/tttruong/Downloads/se-random-testing-template/sheet/src -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -O1 -g -std=c++26 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wimplicit-fallthrough -Werror -o CMakeFiles/sheet.dir/src/invariant.cpp.o -c /home/tttruong/Downloads/se-random-testing-template/sheet/src/invariant.cpp",
+  "file": "/home/tttruong/Downloads/se-random-testing-template/sheet/src/invariant.cpp",
+  "output": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro/CMakeFiles/sheet.dir/src/invariant.cpp.o"
+},
+{
+  "directory": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro",
+  "command": "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -D_GLIBCXX_ASSERTIONS -I/home/tttruong/Downloads/se-random-testing-template/sheet/include -I/home/tttruong/Downloads/se-random-testing-template/sheet/src -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -O1 -g -std=c++26 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wimplicit-fallthrough -Werror -o CMakeFiles/sheet.dir/src/lexer.cpp.o -c /home/tttruong/Downloads/se-random-testing-template/sheet/src/lexer.cpp",
+  "file": "/home/tttruong/Downloads/se-random-testing-template/sheet/src/lexer.cpp",
+  "output": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro/CMakeFiles/sheet.dir/src/lexer.cpp.o"
+},
+{
+  "directory": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro",
+  "command": "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -D_GLIBCXX_ASSERTIONS -I/home/tttruong/Downloads/se-random-testing-template/sheet/include -I/home/tttruong/Downloads/se-random-testing-template/sheet/src -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -O1 -g -std=c++26 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wimplicit-fallthrough -Werror -o CMakeFiles/sheet.dir/src/parser.cpp.o -c /home/tttruong/Downloads/se-random-testing-template/sheet/src/parser.cpp",
+  "file": "/home/tttruong/Downloads/se-random-testing-template/sheet/src/parser.cpp",
+  "output": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro/CMakeFiles/sheet.dir/src/parser.cpp.o"
+},
+{
+  "directory": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro",
+  "command": "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -D_GLIBCXX_ASSERTIONS -I/home/tttruong/Downloads/se-random-testing-template/sheet/include -I/home/tttruong/Downloads/se-random-testing-template/sheet/src -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -O1 -g -std=c++26 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wimplicit-fallthrough -Werror -o CMakeFiles/sheet.dir/src/resolve.cpp.o -c /home/tttruong/Downloads/se-random-testing-template/sheet/src/resolve.cpp",
+  "file": "/home/tttruong/Downloads/se-random-testing-template/sheet/src/resolve.cpp",
+  "output": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro/CMakeFiles/sheet.dir/src/resolve.cpp.o"
+},
+{
+  "directory": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro",
+  "command": "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -D_GLIBCXX_ASSERTIONS -I/home/tttruong/Downloads/se-random-testing-template/sheet/include -I/home/tttruong/Downloads/se-random-testing-template/sheet/src -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -O1 -g -std=c++26 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wimplicit-fallthrough -Werror -o CMakeFiles/sheet.dir/src/type_check.cpp.o -c /home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp",
+  "file": "/home/tttruong/Downloads/se-random-testing-template/sheet/src/type_check.cpp",
+  "output": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro/CMakeFiles/sheet.dir/src/type_check.cpp.o"
+},
+{
+  "directory": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro",
+  "command": "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -D_GLIBCXX_ASSERTIONS -I/home/tttruong/Downloads/se-random-testing-template/sheet/include -I/home/tttruong/Downloads/se-random-testing-template/sheet/src -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -O1 -g -std=c++26 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wimplicit-fallthrough -Werror -o CMakeFiles/sheet.dir/src/types.cpp.o -c /home/tttruong/Downloads/se-random-testing-template/sheet/src/types.cpp",
+  "file": "/home/tttruong/Downloads/se-random-testing-template/sheet/src/types.cpp",
+  "output": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro/CMakeFiles/sheet.dir/src/types.cpp.o"
+},
+{
+  "directory": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro",
+  "command": "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -D_GLIBCXX_ASSERTIONS -I/home/tttruong/Downloads/se-random-testing-template/sheet/include -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -O1 -g -std=c++26 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wimplicit-fallthrough -Werror -o CMakeFiles/sheet-stages.dir/tools/sheet_stages.cpp.o -c /home/tttruong/Downloads/se-random-testing-template/sheet/tools/sheet_stages.cpp",
+  "file": "/home/tttruong/Downloads/se-random-testing-template/sheet/tools/sheet_stages.cpp",
+  "output": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro/CMakeFiles/sheet-stages.dir/tools/sheet_stages.cpp.o"
+},
+{
+  "directory": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro",
+  "command": "/usr/shared/CMPT/faculty/wsumner/base/bin/clang++ -D_GLIBCXX_ASSERTIONS -I/home/tttruong/Downloads/se-random-testing-template/sheet/include -fno-omit-frame-pointer -fsanitize=address,undefined -fno-sanitize-recover=undefined -O1 -g -std=c++26 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wimplicit-fallthrough -Werror -o CMakeFiles/sheet-repro.dir/tools/sheet_repro.cpp.o -c /home/tttruong/Downloads/se-random-testing-template/sheet/tools/sheet_repro.cpp",
+  "file": "/home/tttruong/Downloads/se-random-testing-template/sheet/tools/sheet_repro.cpp",
+  "output": "/home/tttruong/Downloads/se-random-testing-template/sheet/build/repro/CMakeFiles/sheet-repro.dir/tools/sheet_repro.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+#sheet v1
+A1 = 7
+B1 = IF(A1 > 5, IF(A1F(A1 > -10, "largeC1", "medif0" > -1010, "largeC1", "medif0" > -10, "larum"), "smáll" > -10, "large", "medium"), 0)

@@ -1,0 +1,7 @@
+#sheet v1
+A1 = 2.5
+A2 = "otta66666666666665AVGot: " & A1
+A3 = LEN(
+A2) = 2.5
+A2 = "ottal: " & A& A1
+A3 == FALSE &("!"1

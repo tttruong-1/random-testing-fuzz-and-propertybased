@@ -1,0 +1,3 @@
+#sheet v1
+D4 = -"V\t\nj" / TRUE <> B1
+D3 = -TRUE + (FALSE * -FALSE & -TRUE - "" - -TRUE / SUM(TRUE, FALSE) & -FALSE / 0 * "" * FALSE * IF(B3:C2) <= -(TRUE & TRUE <> TRUE)) / ---FALSE / ----AVERAGE(C4:B3) * "Ibz" > -FALSE * (---TRUE & --TRUE * -TRUE * TRUE * (TRUE + TRUE + FALSE) - 0 * --59.16 & "" / --(TRUE / TRUE <> TRUE + FALSE) == -TRUE - (FALSE) / D4 & --TRUE * --TRUE / 15.49 & (FALSE & FALSE) & -7.1 / --"P" & -AVERAGE() * COUNT(A2:D1, C2:A2, FALSE)) * TRUE

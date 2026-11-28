@@ -1,0 +1,4 @@
+#sheet v1
+
+B2 = -AVERAGE() / C1 <= 8 * CONCAT(-FALSE) * -FALSE & -ROUND(A1:B1, D3:B4, B1:D3) / -"" * --TRUE * (AVERAGE(D1:A4) / TRUE / (FALSE & TRUE / FALSE / -FALSE / --FALSE == -TRUE - --TRUE) >= TRUE / TRUE * TRUE * -FALSE / -C2 * FALSE / -ROUND() - TRUE + -"") - -(--FALSE * FALSE - -"" & FALSE * D4 - -SUM()) * (MAX())
+D2 = -(FALSE - TRUE) * --"C" / 8.0 * -A2 / --"g" * ---3.8 * "c" * C4 <> C2 - --"I2" / -(A2 / AVERAGE(A4:B3) * -TRUE == -TRUE * MAX() - --FALSE * -B3 & -TRUE / --TRUE / ---TRUE * -A2 + --FALSE * -C2 / (TRUE - FALSE <= FALSE + TRUE) * --(TRUE < TRUE) + FALSE)

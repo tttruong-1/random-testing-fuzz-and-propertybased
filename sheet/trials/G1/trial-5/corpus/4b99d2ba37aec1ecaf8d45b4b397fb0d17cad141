@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+C1 = (IF() * -C4 * (TRUE - FALSE) / 3.0360 / A1) * -TRUE <= ----FALSE * FALSE & --TRUE / --""
+# a comment

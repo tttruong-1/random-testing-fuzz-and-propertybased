@@ -268,7 +268,7 @@ private:
           if (const auto* text = std::get_if<std::string>(&value)) {
             pieces.emplace_back(*text);
           } else {
-            pieces.emplace_back(text_of(value));
+            pieces.emplace_back(owned.emplace_back(text_of(value))); // BUG FIXED HERE ------------------------
           }
         }
       } else {

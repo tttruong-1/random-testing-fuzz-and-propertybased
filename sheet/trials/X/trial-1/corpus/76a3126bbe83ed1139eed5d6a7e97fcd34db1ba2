@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+D1 = --AVERAGE(D1:B4) / (MAX(TRUE + TRUE, TRUE, TRUE) + -MAX(FALSE <= TRUE) / FALSE <> --TRUE)
+C3 = -LEN(--FALSE) * AVERAGE(D4:D4)

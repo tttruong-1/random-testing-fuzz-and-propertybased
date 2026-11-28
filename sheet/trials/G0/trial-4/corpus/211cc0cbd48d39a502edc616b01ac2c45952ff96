@@ -1,0 +1,3 @@
+#sheet v1
+M52 = AVERAGE(F2:OFIU3)
+

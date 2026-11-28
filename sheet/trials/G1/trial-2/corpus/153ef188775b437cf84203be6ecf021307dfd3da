@@ -1,0 +1,2 @@
+#sheet v1
+A2 = --CONCAT(C4:D2, FALSE * 2 >= FALSE * TRUE & -TRUE / -TRUE, B2:A3) & --TRUE

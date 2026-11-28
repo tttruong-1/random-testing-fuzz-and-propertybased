@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+
+
+A2 = AVERAGE(A3:D1) * -AVERAGE(D3:C4) / TRUE <= 2 * TRUE / 2.195 & MAX(FALSE + TRUE & -FALSE < -TRUE) / --FALSE / ---TRUE
+

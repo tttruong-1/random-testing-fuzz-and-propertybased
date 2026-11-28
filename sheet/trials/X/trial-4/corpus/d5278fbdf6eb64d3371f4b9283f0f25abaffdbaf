@@ -1,0 +1,4 @@
+#sheet v1
+D1 = -MIN(B2:C3) - -MIN(TRUE / "" * (TRUE) + (FALSE <= FALSE + FALSE), TRUE / FALSE * FALSE - -"") / -LEN(TRUE < -"")
+
+

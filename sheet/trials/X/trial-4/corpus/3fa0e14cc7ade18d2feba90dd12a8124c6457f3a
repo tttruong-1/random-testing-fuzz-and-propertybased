@@ -1,0 +1,5 @@
+#sheet v1
+
+A2 = FALSE / ---AVERAGE(FALSE) * TRUE / ---(FALSE >= TRUE) / --(TRUE * FALSE + TRUE & FALSE) / SUM(A3:B1, B2:A1, FALSE & TRUE * TRUE, FALSE + FALSE) * -"AC0" * -"" / -------""
+
+

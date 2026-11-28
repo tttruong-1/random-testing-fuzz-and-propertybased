@@ -1,0 +1,7 @@
+#sheet v1
+
+
+
+# a comment
+D3 = MIN() / LEN() == TRUE + --TRUE / --B1 & TRUE * 9
+

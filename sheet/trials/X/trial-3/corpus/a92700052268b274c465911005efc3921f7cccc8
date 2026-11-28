@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+C1 = -(IF(TRUE > TRUE, TRUE, TRUE) / -FALSE < ("" < TRUE + FALSE / TRUE - FALSE & --TRUE))

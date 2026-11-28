@@ -1,0 +1,11 @@
+#sheet v1
+C1 = 2.75
+
+
+D2 = MAX(C1:C2)
+W1 = ROUND(C1, 1)
+D4 = COUNT(C1:C2)
+
+D2 = MAX(C1:C2)
+W1 = ROUND(C1, 1)
+D4 = COUNT(C1:C2)

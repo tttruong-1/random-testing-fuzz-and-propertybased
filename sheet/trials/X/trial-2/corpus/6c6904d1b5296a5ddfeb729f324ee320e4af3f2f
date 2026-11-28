@@ -1,0 +1,2 @@
+#sheet v1
+B4 = ---90.21495 >= -B4 / MAX(D3:B4, B1:C4, -TRUE * --TRUE + --TRUE * TRUE) & -TRUE

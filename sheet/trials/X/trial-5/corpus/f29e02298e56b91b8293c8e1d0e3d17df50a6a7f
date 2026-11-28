@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+D1 = TRUE <= ((FALSE + FALSE > TRUE + FALSE) / FALSE) * --COUNT(D2:C2) + 7.47025 * 51.6 + FALSE
+
+

@@ -1,0 +1,4 @@
+#sheet v1
+A1 = "tab\tÿÿrffffffffffe"
+A5 = "back\\slash"
+A2 = JCONCAT("line\n", "end")

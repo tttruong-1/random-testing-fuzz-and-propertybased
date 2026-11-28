@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+D1 = C2 * 292 + FALSE * MIN(C1:C3) - "" * ----TRUE / 93.758 / A1 / SUM()
+D4 = LEN() <> -----74.10 & -8 * FALSE * B3 / (-FALSE * -FALSE - 2) / TRUE * -"x" * "" * -TRUE
+# a comment

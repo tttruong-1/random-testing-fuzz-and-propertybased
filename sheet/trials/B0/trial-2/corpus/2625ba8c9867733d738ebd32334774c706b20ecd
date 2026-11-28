@@ -1,0 +1,3 @@
+#sheet v1
+A1 = 1234678
+B1 = ROD(A1,  undefi(A1, 0,0,5)

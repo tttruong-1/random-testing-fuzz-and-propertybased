@@ -1,0 +1,8 @@
+#sheet v1
+# a comment
+B1 = AVERAGE() - -(TRUE * TRUE & TRUE * FALSE * TRUE + TRUE / FALSE * TRUE / -FALSE + TRUE / TRUE / TRUE / 5 / (TRUE) + ---FALSE * "E" & FALSE * --TRUE - ---B1 == -TRUE) * -B3
+A4 = TRUE & B2 >= AVERAGE(FALSE, D3:B3) * ---46 * "w" / ---FALSE / FALSE & -546.2 * -FALSE / -TRUE + --IF(FALSE * TRUE) * -TRUE
+# a comment
+A3 = (-TRUE) / 2 - FALSE & "7" <> ----TRUE & LEN() - TRUE
+# a comment
+C3 = FALSE <= TRUE + FALSE / D2 / LEN(FALSE) / (TRUE - FALSE > TRUE) * (FALSE - FALSE - FALSE * FALSE) / 5 / TRUE & FALSE

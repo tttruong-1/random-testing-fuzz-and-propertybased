@@ -1,0 +1,3 @@
+#sheet v1
+D3 = AVERAGE() * -LEN() * (---"" / -C4 + --2) - -FALSE > ---FALSE * -FALSE & --ROUND() + TRUE / --FALSE * ---MIN((FALSE) > (FALSE)) & 0.3587977
+A4 = "" == -C2 * (--C3 / -"" - -ROUND(FALSE, FALSE, TRUE) * FALSE - A4 < -(TRUE) / B2)

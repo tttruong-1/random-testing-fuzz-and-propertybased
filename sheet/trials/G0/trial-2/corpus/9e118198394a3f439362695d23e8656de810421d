@@ -1,0 +1,4 @@
+#sheet v1
+VVK4951 = COUNT(---8 & CONCAT(U7:B6, A2:F2))
+
+# a comment

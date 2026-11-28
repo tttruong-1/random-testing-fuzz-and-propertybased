@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+D4 = "Kqw"
+A3 = -(-D4 + --TRUE * -(TRUE) == ---FALSE / -TRUE) / 8 & --TRUE

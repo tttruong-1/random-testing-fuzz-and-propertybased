@@ -1,0 +1,12 @@
+#sheet v1
+D2 = 571 == ----TRUE * --8
+D4 = -CONCAT() * -8 * TRUE <= -FALSE * --FALSE / TRUE * -TRUE / 5.9 * -"c" / (--FALSE) / MIN() * -(4.2 > ---FALSE) * FALSE / -8.3 + --(C1 + ---TRUE - "") - TRUE * TRUE
+C1 = -FALSE / "" / "MbBMgQ" > --"" + (TRUE * FALSE * -B4 * FALSE & -(TRUE > TRUE) * TRUE * -LEN(A2:D1, FALSE, FALSE) / FALSE < (--TRUE < TRUE / TRUE * -TRUE / A3))
+# a comment
+# a comment
+C2 = -IF(TRUE) / TRUE + (--FALSE * D2) >= -TRUE / TRUE & --(--FALSE)
+B4 = -FALSE + IF() * -LEN()
+C2 = -TRUE / --TRUE * -D3 + MAX() * --FALSE / LEN(TRUE) + FALSE + ---4 / --TRUE - --(TRUE > FALSE) / ------TRUE <= (TRUE / TRUE / -TRUE / "" > -TRUE)
+
+D4 = SUM() + IF() * FALSE
+B4 = --MAX()

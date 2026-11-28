@@ -1,0 +1,6 @@
+#sheet v1
+A1 = "apple"
+A2 = "banana"
+B1 = A1 < A2
+B2 = AC11 == "!pple´´t´´´´"
+B1 =C2EN(AD12) >= MIN6

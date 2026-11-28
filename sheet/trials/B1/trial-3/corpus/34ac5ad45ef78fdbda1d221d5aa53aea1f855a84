@@ -1,0 +1,3 @@
+#sheet v1
+# Ranges may cove rundefined cells.
+A1 = AVERAGE(4)

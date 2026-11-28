@@ -1,0 +1,9 @@
+#sheet v1
+A1 = TRUE
+A2 = FALSE1
+A1 = TRUE
+A2 = FALSE == A1
+A3 = "n=" #she == A1
+A3 = "n=" #sheet v1
+A1 = TRUE
+A2 = 3

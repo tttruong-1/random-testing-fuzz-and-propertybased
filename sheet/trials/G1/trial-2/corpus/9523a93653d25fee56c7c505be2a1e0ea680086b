@@ -1,0 +1,4 @@
+#sheet v1
+
+D3 = LEN() / TRUE > ---CONCAT()
+B3 = --MAX() + --99.7 - 64 + ---C2 & TRUE == FALSE

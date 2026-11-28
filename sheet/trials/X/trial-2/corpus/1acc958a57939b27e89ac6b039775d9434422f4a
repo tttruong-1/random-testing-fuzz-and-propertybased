@@ -1,0 +1,5 @@
+#sheet v1
+C4 = -D4 / -5 & FALSE + -B1 == -A2 - D3
+D3 = FALSE
+D2 = 4.277
+A1 = -"" * TRUE * ---(FALSE) * FALSE * -TRUE + 701.975 >= (--"" >= ---FALSE * -FALSE) + -FALSE

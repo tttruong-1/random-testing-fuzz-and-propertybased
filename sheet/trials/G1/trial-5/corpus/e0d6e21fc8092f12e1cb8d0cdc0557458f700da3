@@ -1,0 +1,4 @@
+#sheet v1
+
+A1 = COUNT(B3:D4, B2:C2, FALSE / --FALSE, FALSE <= -TRUE) + 9.0
+A3 = FALSE

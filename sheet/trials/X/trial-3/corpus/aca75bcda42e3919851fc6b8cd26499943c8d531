@@ -1,0 +1,2 @@
+#sheet v1
+A2 = --AVERAGE(B1:D3) == LEN(C2:C2)

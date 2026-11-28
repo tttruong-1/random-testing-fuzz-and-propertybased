@@ -1,0 +1,8 @@
+#sheet v1
+# a comment
+
+
+M97 = M4 & -"!\ni" * --"" / --I85 - (--TRUE / "" + -FALSE * --FALSE / -A2) * -IF(TRUE * TRUE * -TRUE <= TRUE + TRUE - FALSE * FALSE & -TRUE, FALSE + FALSE * TRUE, F2:G2) + --"" / --"O" * TRUE * 715 / --AQLQT3 / -FALSE * 933.73 <> FALSE - FALSE
+
+CR371 = "Ba" / "\n3" / 6.9 + --(TRUE + FALSE * TRUE + -TRUE) + -TRUE * -"" < LEN()
+

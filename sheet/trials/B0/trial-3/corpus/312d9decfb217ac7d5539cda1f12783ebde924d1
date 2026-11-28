@@ -1,0 +1,4 @@
+#sheet v1
+C1 = ROUND(C1, 1)
+D4 = COUNT(C2:C2)#sheet v1
+A1 =79&7&1#sheet

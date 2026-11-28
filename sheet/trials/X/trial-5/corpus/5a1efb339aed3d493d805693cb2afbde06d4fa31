@@ -1,0 +1,4 @@
+#sheet v1
+C4 = "\"" * TRUE / AVERAGE(TRUE & FALSE * FALSE - -FALSE >= TRUE & FALSE & TRUE + -TRUE, B1:C3, C4:B3) * ----MIN(TRUE < TRUE, B4:D1) * --"K\"" / TRUE / 6 & -COUNT(D2:A1, C2:A4) / --06.0 / -TRUE / 227580.4
+
+D4 = -"" * ----TRUE * -TRUE * ------FALSE + ROUND() - --(FALSE >= FALSE) * A3 / TRUE / 1.2 - --FALSE & -(--FALSE == FALSE + TRUE / FALSE - TRUE & -FALSE * -FALSE) * B4 / -"" - MIN() * ------D4 * -COUNT(A4:C3, B3:C4) - -TRUE

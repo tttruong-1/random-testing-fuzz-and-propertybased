@@ -1,0 +1,4 @@
+#sheet v1
+B1 = -AVERAGE(C1:D3)
+# a comment
+# a comment

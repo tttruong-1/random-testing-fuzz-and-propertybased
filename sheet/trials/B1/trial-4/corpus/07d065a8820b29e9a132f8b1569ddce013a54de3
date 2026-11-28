@@ -1,0 +1,5 @@
+#sheet v1
+A1 = "]lain"
+A2 = "saD1\"hi\"\n"
+A3 = (A1)
+A4 = JONCAT("a", "b")

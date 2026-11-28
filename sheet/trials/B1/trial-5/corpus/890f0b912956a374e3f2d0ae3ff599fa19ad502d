@@ -1,0 +1,3 @@
+#sheet v1
+A1 = "tab\thä)e"
+A2 = "line\n"+AT("ÿÿÿÿline\n"<AT("ÿÿÿÿÿÿÿÿÿÿÿÿÿline\nÛ£n",ET("ÿÿÿÿÿÿÿÿÿÿÿÿÿline\n", "enl")

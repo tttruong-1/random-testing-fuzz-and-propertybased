@@ -1,0 +1,5 @@
+#sheet v1
+
+
+A2 = "" / IF(D4:B4, TRUE * FALSE * -TRUE / (TRUE) + 9 / ---TRUE > 3.3, B4:C4)
+# a comment

@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+B3 = ---AVERAGE(C2:B1)

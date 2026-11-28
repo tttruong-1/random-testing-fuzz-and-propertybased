@@ -1,0 +1,3 @@
+#sheet v1
+
+A3 = -(COUNT(B1:D2) / FALSE / -(FALSE * FALSE - FALSE * TRUE * -FALSE))

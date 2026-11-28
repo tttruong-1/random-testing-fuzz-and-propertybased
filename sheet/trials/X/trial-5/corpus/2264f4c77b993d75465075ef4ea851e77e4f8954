@@ -1,0 +1,5 @@
+#sheet v1
+
+
+D3 = 3337
+C1 = AVERAGE(B3:D3) * (FALSE <= FALSE * FALSE)

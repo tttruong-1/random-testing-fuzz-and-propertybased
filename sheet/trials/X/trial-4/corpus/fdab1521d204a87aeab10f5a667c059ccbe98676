@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+C4 = -FALSE <= SUM(B2:A2, C1:A3, D3:B2, D4:C2, A2:A2, C2:C3, FALSE) + -68 * (-1 > TRUE & TRUE / TRUE + FALSE / -FALSE + -TRUE - FALSE * FALSE / FALSE * -FALSE / -(FALSE) + ----FALSE + 1.8 / -LEN(TRUE) * TRUE + -"GF") & ----"8u" * --":" - -A4
+# a comment

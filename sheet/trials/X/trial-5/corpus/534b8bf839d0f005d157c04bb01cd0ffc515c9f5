@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+C2 = -TRUE * "qXsieQm" + -18.4 <> FALSE
+D1 = -COUNT(D1:A3, TRUE, A2:C2)
+

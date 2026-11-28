@@ -1,0 +1,3 @@
+#sheet v1
+A1 = SUM(B1:B2)
+C2 = MAX(A3:B1, 9)

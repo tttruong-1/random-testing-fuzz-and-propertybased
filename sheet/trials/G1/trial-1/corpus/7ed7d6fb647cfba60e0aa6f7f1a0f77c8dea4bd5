@@ -1,0 +1,2 @@
+#sheet v1
+B3 = COUNT(C4:C1) > 21.50 + FALSE

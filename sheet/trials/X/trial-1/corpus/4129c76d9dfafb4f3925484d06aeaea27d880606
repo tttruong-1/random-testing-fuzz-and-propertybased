@@ -1,0 +1,3 @@
+#sheet v1
+A3 = TRUE >= FALSE & -MIN(B3:B3, B1:A3)
+A1 = TRUE * TRUE

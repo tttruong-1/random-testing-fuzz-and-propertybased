@@ -1,0 +1,6 @@
+#sheet v1
+
+# a comment
+A2 = --(FALSE * TRUE - -FALSE - --FALSE & FALSE / -FALSE / (TRUE) * -"" & 0.5 - -(TRUE > FALSE - TRUE))
+# a comment
+

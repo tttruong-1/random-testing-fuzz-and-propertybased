@@ -1,0 +1,4 @@
+#sheet v1
+A3 = -AVERAGE(D3:A1, A2:D3) * ----FALSE & TRUE / (-(FALSE / TRUE <= FALSE - FALSE / FALSE) & -(FALSE > FALSE) / -72.43 / FALSE - "" - ((TRUE) * 0 / -TRUE))
+D2 = FALSE / A3 + "" / 22 / 11.38 * --TRUE
+

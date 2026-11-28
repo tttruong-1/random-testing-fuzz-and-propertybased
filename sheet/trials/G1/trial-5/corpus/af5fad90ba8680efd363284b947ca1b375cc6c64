@@ -1,0 +1,8 @@
+#sheet v1
+
+A1 = "" * -0.1 + --TRUE * --TRUE == FALSE
+# a comment
+A2 = "" >= ---(FALSE - TRUE / FALSE & TRUE * FALSE) / ---TRUE + --SUM(FALSE, TRUE, FALSE) * FALSE * (-TRUE * -FALSE & FALSE * FALSE * D4 * (FALSE) & FALSE * -MIN()) / -(LEN(FALSE) + -TRUE / -FALSE / SUM() / -A2) * A4
+# a comment
+# a comment
+C4 = -"HT" * -----D4

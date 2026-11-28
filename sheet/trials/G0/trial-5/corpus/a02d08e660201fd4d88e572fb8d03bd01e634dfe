@@ -1,0 +1,3 @@
+#sheet v1
+
+M8 = LEN(TRUE & FALSE, A2:L5, TRUE, FALSE, TRUE) / ---SUM() + IF(FALSE & FALSE * FALSE & FALSE * -FALSE >= FALSE & FALSE + TRUE * -FALSE) & --AVERAGE(FALSE + TRUE + FALSE * FALSE, TRUE) & -"" / TRUE * --Q924 * MIN() & FALSE * -"z" / -XUCW97 * LEN() * COUNT(TRUE + 1 * -TRUE <> SUM() / --FALSE) / TRUE & FALSE <> TRUE & -FALSE / TRUE / --39.0 * TRUE / SUM() + ---"Shh" & -CONCAT(D7:RR6)

@@ -1,0 +1,3 @@
+#sheet v1
+C2 = -8 > -7.3 / "t8"
+C3 = (FALSE - TRUE * FALSE + FALSE - LEN() == TRUE / -TRUE) + MAX() * "E" & TRUE / FALSE * -FALSE / --FALSE / FALSE / -A3 * -62 / -(TRUE & FALSE / TRUE) * -TRUE / ---D4 / -TRUE + "b" + (-COUNT(TRUE) - (TRUE & FALSE + TRUE / FALSE <> FALSE) - -"Y7") - --FALSE & -(---FALSE * A2) / ((FALSE / FALSE / -TRUE < -FALSE) * -"" & CONCAT())

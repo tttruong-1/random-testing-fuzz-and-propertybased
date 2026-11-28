@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+S232 = -59 / AVERAGE() <> COUNT() / -TRUE
+W7 = "" <> TRUE / -2.2 & SUM(FALSE + --TRUE - --FALSE > TRUE - TRUE - -TRUE * 3.9)

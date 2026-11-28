@@ -1,0 +1,9 @@
+#sheet v1
+AB2=21
+WB2 =22
+G2 = 3
+A1 = 4
+CAB2 = 4
+CAB16= SUM(A1:BAVG2)
+C21= SUM(A1:BAVG2)
+C2 = MAX(A1:A1, 9)

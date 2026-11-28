@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+YE1 = ---90.9 / -18358
+A2 = -TRUE
+
+Q366545 = ((TRUE <= FALSE - FALSE) * --6)

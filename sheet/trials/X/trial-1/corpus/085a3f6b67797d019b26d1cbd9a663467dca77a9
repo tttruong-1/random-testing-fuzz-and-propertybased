@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+B4 = --B1 & (-TRUE - -FALSE / --FALSE / 1.5 & -9 + 71 / (FALSE - TRUE) <= ---TRUE * (TRUE + TRUE) - TRUE) * 245.3 / (-IF(C2:D4, FALSE, TRUE) == --TRUE) - --(TRUE / "" / --FALSE / "" / ----TRUE) / TRUE == ----0.8
+D2 = 5748.9 > B4
+B1 = -TRUE <= --(TRUE) / --FALSE - -C3 / --6.1 & -TRUE / -------D1 / TRUE & TRUE / ---C3 * -C2 * COUNT()

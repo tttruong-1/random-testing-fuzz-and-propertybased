@@ -1,0 +1,2 @@
+#sheet v1
+B4 = CONCAT(C4:A2, --FALSE) / 860758

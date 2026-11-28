@@ -1,0 +1,4 @@
+#sheet v1
+C1 = MIN(D3:A3) > "5H" & 75 * "FbD" * -7150
+
+# a comment

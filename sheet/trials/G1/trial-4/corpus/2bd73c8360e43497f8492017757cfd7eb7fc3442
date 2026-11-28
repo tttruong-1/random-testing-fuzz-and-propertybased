@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+
+A4 = -4.07 == MAX(B3:C3)

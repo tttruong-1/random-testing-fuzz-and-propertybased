@@ -1,0 +1,3 @@
+#sheet v1
+D40 = "6W" * -CONCAT(O8:YG8068) / (HM24) >= -IF(Q7, --FALSE & -TRUE * TRUE * (FALSE), TRUE / FALSE - TRUE * FALSE + TRUE <= FALSE * TRUE & -TRUE + --TRUE, EU76:GZ9, S80:LM24, TRUE == FALSE, FALSE > TRUE, R3:Y8, FALSE, TRUE) & TRUE
+RA3 = ---"kW" / ---(---FALSE) / --3 * -"h" <> ----TRUE / (X1 & FALSE / -FALSE / M9 * -"" > -F5) / -MAX(FALSE * TRUE * -TRUE <= TRUE / TRUE, H40:K88) & --FALSE & -TRUE & CONCAT(---"")

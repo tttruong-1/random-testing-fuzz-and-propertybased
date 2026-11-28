@@ -1,0 +1,7 @@
+#sheet v1
+
+
+
+# a comment
+W214 = SUM(FALSE + -FALSE & TRUE * --FALSE, Z9:TQV1)
+# a comment

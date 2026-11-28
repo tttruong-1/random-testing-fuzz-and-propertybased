@@ -1,0 +1,7 @@
+#sheet v1
+
+C3 = (-TRUE <> TRUE) / B3 * "4l3X" / -TRUE * ---A3 > (--FALSE)
+# a comment
+B3 = -FALSE * A3 / --C3 / ROUND(TRUE <= FALSE - TRUE, FALSE, C4:B3) / -AVERAGE(TRUE & FALSE) / -"" * -3.41 & FALSE * -"aDT" / -TRUE * LEN(TRUE / D3, TRUE & FALSE & TRUE / TRUE & TRUE / TRUE * -TRUE, A4:A2, TRUE & TRUE, TRUE == FALSE) / TRUE
+A3 = AVERAGE() & --"KsaS" & FALSE <> -58.0083483
+

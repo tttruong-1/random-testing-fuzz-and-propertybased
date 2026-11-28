@@ -1,0 +1,4 @@
+#sheet v1
+B3 = CONCAT() + --TRUE * -2779.3 + MAX(TRUE * "" - ROUND(FALSE) & FALSE * -TRUE * C2 / ---FALSE * -D2 + -TRUE / -SUM() * ---TRUE * AVERAGE(TRUE, FALSE, FALSE) & --FALSE / 8 <= TRUE * TRUE * TRUE / 4 * -FALSE / --MIN(TRUE) + MIN(B1:D2, D1:A1, FALSE))
+# a comment
+

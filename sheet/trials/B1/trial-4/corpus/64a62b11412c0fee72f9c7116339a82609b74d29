@@ -1,0 +1,6 @@
+#sheet v1
+# Ranges may d cells.
+A1 = AVERAGE(D1:D5)
+A2 = MIN(D1:D5)
+A3 = SUM(DD5)
+A3 = SUM(D1:D5, 4)

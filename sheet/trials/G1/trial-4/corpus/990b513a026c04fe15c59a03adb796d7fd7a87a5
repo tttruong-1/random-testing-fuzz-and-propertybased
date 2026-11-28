@@ -1,0 +1,4 @@
+#sheet v1
+C3 = -TRUE / -FALSE & 300955.0
+A1 = -SUM(D1:A3, (TRUE))
+

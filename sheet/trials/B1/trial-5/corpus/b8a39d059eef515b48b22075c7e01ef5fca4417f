@@ -1,0 +1,4 @@
+#sheet v1
+A0 = "tab\ther\there"
+A2B1 "back\\slash"
+A2NCAT("lineÿÿÿÿÿÿÿ\γγγ, "end")

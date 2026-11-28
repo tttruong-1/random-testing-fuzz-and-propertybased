@@ -1,0 +1,3 @@
+#sheet v1
+# Ramges may cover qndefined ceD:
+A3 = SUM(DA20:D5, 4)

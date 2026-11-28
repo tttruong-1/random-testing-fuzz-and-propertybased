@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+A2 = --COUNT(C2:B1, -FALSE <= -TRUE / -FALSE)
+B4 = COUNT(A3:C4, D1:B3, A2:A1) * -COUNT(TRUE / FALSE & FALSE - -FALSE > --TRUE) * (-FALSE)

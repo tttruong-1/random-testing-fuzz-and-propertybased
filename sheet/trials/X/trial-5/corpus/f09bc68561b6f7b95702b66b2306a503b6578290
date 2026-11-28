@@ -1,0 +1,7 @@
+#sheet v1
+B2 = B4 == -COUNT(A4:B1, A1:B4, B1:B4, A3:C4) / FALSE * -(MAX(FALSE, TRUE) / -TRUE * ---D1 - -(TRUE & -TRUE)) - --(--TRUE - TRUE / "S" < 4.4) * ""
+A2 = MAX() >= --TRUE / SUM(-TRUE >= -TRUE, TRUE + FALSE + TRUE <= TRUE, B4:D1, A2:A3, A3:B4, TRUE, TRUE) / A1 / -(D1 - -"" <> -TRUE * --FALSE * "" / (TRUE / FALSE)) * FALSE / --C4
+A2 = (TRUE) + --FALSE / ---FALSE & --TRUE * -(TRUE) - ----FALSE + A1 / C1 * ---7.1 + "B" & --TRUE / --39.65 * --COUNT(FALSE) * (TRUE * FALSE * -TRUE * -FALSE & TRUE * 3 / --FALSE < 7) & -(--TRUE) * -8 & -----C4 / C3 - "" & ---TRUE / ROUND(A2:C1, 8.8)
+# a comment
+# a comment
+A3 = "0" * (FALSE * FALSE) & --83 - MIN(TRUE, TRUE) / -"" * --IF(FALSE) * 1 & (A3 >= --TRUE) / ---(FALSE) - FALSE * -"" / "a" * -"K" / "" * --A4 * --FALSE * 2795.8 > ------(TRUE >= FALSE)

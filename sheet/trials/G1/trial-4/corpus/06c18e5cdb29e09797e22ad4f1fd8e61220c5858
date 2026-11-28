@@ -1,0 +1,7 @@
+#sheet v1
+# a comment
+B1 = FALSE * ("g" / A1 & -"f") + FALSE - FALSE <> ----(TRUE / TRUE / TRUE & "" & --TRUE & "" >= 8.2 * B1)
+# a comment
+# a comment
+
+A1 = ---TRUE <> ---9 - "s" - -6 * -(TRUE == TRUE / TRUE / FALSE) + 9 / TRUE - (FALSE / (FALSE) & (FALSE)) * CONCAT(A3:C4)

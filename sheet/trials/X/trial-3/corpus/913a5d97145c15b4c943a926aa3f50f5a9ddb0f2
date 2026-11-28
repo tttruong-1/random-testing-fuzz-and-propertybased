@@ -1,0 +1,5 @@
+#sheet v1
+A2 = -((FALSE & FALSE - TRUE + FALSE / FALSE * TRUE & 9 <= TRUE / FALSE * -FALSE) * "") <= MAX() * MIN(C2:B1, -TRUE * ---FALSE + --FALSE / ---TRUE & --TRUE / ---TRUE * SUM() * -B4 < (FALSE < TRUE) * D4)
+C1 = TRUE
+# a comment
+A4 = -(TRUE / -TRUE * ---TRUE / --ROUND()) + (FALSE / -FALSE & --TRUE + SUM() * ----TRUE - --TRUE / "" * MAX() * FALSE) * -(TRUE * --ROUND(TRUE) > (TRUE + TRUE >= TRUE) & TRUE) == -COUNT()

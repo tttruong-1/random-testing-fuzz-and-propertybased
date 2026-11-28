@@ -1,0 +1,7 @@
+#sheet v1
+A1 =21
+B1 = 2
+A2 = 3
+B2 = 4
+C1 = SUM(A3:F2)
+CJ2 = MAX(A5:G1, 9)

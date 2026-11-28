@@ -1,0 +1,9 @@
+#sheet v1
+CWL4 = ----"" / TRUE
+# a comment
+T7 = FALSE > ---TRUE * "Nh"
+
+
+QV3 = --FALSE / --TRUE * LEN(FALSE) + FALSE * R5 * -6 / ---(TRUE) - ---"" * (TRUE + FALSE * TRUE & -TRUE < -FALSE) - -(TRUE - FALSE * FALSE & FALSE / TRUE / FALSE < FALSE / -FALSE) + ----FALSE + -IF(F5:G3) * --"" / -AQ1 == (TRUE & --TRUE) & TRUE * -XM4
+
+# a comment

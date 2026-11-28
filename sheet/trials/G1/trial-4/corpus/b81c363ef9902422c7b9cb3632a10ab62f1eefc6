@@ -1,0 +1,3 @@
+#sheet v1
+C3 = 8.1 & ---AVERAGE(D1:A1)
+# a comment

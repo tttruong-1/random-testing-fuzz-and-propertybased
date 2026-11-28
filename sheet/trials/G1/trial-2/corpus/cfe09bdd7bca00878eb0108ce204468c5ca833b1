@@ -1,0 +1,7 @@
+#sheet v1
+# a comment
+D3 = ---" " + -----TRUE / --("v") * FALSE - ------TRUE / ""
+# a comment
+# a comment
+C4 = "" <= COUNT(FALSE * "", B3:B1, A1:C3, B1:C1)
+# a comment

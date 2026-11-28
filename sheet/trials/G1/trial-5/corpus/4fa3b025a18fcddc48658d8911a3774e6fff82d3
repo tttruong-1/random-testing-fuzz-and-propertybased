@@ -1,0 +1,5 @@
+#sheet v1
+D1 = FALSE > "B" * -2
+C1 = -3.04 / (TRUE / ----TRUE + D1 * -IF(TRUE > FALSE, TRUE >= FALSE))
+B4 = "" / C1 / "" - --AVERAGE(B4:C1, D4:B3, FALSE, TRUE) * -FALSE / ---A4 / D2 < --("" <= -FALSE / --FALSE * -MIN() & ---FALSE) + (--0.6 + -TRUE > --02) / --(AVERAGE() & -A4 >= FALSE / --FALSE - (TRUE <> TRUE) & "" & ---TRUE * C1)
+B1 = A3 * SUM(C3:D4, B2:D3) - -------D2 >= -AVERAGE(A4:D4, C2:D3, FALSE == TRUE) & -AVERAGE() & -TRUE / -(TRUE & TRUE * FALSE & TRUE * -FALSE + -FALSE / --TRUE <= "") / 4 * -COUNT(B2:B2, A4:A1, D1:A4) * -ROUND(D1:C3)

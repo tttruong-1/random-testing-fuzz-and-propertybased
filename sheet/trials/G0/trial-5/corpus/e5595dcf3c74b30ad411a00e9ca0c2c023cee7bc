@@ -1,0 +1,8 @@
+#sheet v1
+B3 = ---MAX(TRUE & FALSE - FALSE & -TRUE + -TRUE * -FALSE + FALSE * TRUE / FALSE * --TRUE / -FALSE > --TRUE * TRUE, G52:H4) < --FALSE - ----(FALSE - FALSE & TRUE * TRUE + -TRUE & FALSE + TRUE == --FALSE * AVERAGE()) + --(-AVERAGE() > -FALSE - 5 & IF() / ---TRUE & FALSE * ---TRUE / FALSE & --O6 / ---IF()) * TRUE - IF() / -PG9
+# a comment
+
+H837 = -"E" * SUM() >= (---"" / -TRUE < "Q" / IF() & CONCAT())
+I10 = -FALSE * (FALSE == TRUE) / ---FALSE * "i" * J526 + -FNA14 + ---5 * MC3 & -TRUE / "f" * AVERAGE(ZA31:PY70) * -"" & (MAX() * --TRUE / -7 / FALSE) < S4 - 1.4 * TRUE / MIN(FALSE / TRUE <> FALSE * TRUE * TRUE, M9:Z2) * FALSE
+# a comment
+PR55 = (TRUE & FALSE / FALSE * -TRUE & FALSE / SUM() + TRUE)

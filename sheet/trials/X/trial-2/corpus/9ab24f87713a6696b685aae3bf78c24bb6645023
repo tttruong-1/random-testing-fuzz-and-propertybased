@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+A4 = (A2 / -IF() < LEN() / MAX(FALSE, FALSE) * LEN(D4:C3, FALSE, TRUE) + --0 * SUM(D2:D4) + (TRUE - FALSE) / -A1 / SUM(TRUE > TRUE, FALSE) / C4) * -TRUE

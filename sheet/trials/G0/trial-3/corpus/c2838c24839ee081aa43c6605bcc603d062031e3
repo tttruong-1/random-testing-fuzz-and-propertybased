@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+
+H26 = CONCAT(CF29:A7976, TRUE, W13:H93, I4:Q8, G4:Q9) / ---TRUE + TRUE / TRUE
+# a comment

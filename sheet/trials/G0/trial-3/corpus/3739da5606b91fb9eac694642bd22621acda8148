@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+L39 = "J" & IF((TRUE) & ---FALSE * MAX(TRUE, TRUE) <= -FALSE * -FALSE * ---TRUE * TRUE, TRUE & ---FALSE == T3 / FALSE, A8:OP9, ETZ152:Y8, TRUE + TRUE, TRUE, FALSE, A1:G9, FALSE, FALSE) * -SUM()

@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+# a comment
+
+B1 = CONCAT(D1:D1, C3:C1, TRUE, FALSE) / -(-TRUE * -FALSE * 1) * -FALSE + -----(TRUE * FALSE)

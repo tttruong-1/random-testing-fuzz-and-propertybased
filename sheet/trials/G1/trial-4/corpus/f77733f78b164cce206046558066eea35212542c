@@ -1,0 +1,4 @@
+#sheet v1
+D3 = -MAX(C2:B3, D4:C3) == -FALSE
+# a comment
+C4 = LEN(A1:D4) / 2.76083 * -TRUE * TRUE

@@ -1,0 +1,12 @@
+#sheet v1
+
+C3 = (-FALSE * --TRUE & -FALSE * -"" & -9 & FALSE) / D2 * -----TRUE + ---FALSE / D2 >= ---CONCAT(TRUE * FALSE - TRUE * TRUE <= TRUE + TRUE & FALSE / FALSE & TRUE, D2:B3) / ----SUM(FALSE - FALSE / FALSE > TRUE * TRUE & FALSE, B1:C4)
+
+
+
+
+C2 = -4 <> MIN(FALSE - TRUE * FALSE >= TRUE, A2:C1, D1:D1)
+B2 = -TRUE + MAX() - FALSE / FALSE + -SUM(FALSE) / 0.0 + -TRUE * -A1 / ---FALSE == FALSE + (TRUE * FALSE) / --CONCAT()
+C4 = --TRUE + TRUE * -----TRUE * -CONCAT()
+B1 = FALSE * FALSE / -FALSE + -FALSE / AVERAGE() & TRUE / --FALSE / (TRUE) - -FALSE & (TRUE + FALSE > FALSE) / (FALSE * FALSE)
+# a comment

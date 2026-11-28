@@ -1,0 +1,11 @@
+#sheet v1
+
+# a comment
+
+
+D3 = -(TRUE + FALSE / -TRUE == TRUE - TRUE / TRUE & TRUE) - -(-FALSE + (FALSE) == FALSE / FALSE / FALSE & -FALSE * -FALSE) + FALSE / C3 / FALSE / --(FALSE) * FALSE + -TRUE * FALSE
+# a comment
+
+D1 = ""
+A3 = "" == LEN() / (FALSE - FALSE) & (FALSE == FALSE) * "" & -(TRUE - TRUE) / C3
+A4 = TRUE / TRUE * D3 / -MIN() / ----TRUE & 3 >= TRUE + FALSE + FALSE / FALSE + FALSE * TRUE * FALSE + --TRUE + "" * "" & "r" & -D4

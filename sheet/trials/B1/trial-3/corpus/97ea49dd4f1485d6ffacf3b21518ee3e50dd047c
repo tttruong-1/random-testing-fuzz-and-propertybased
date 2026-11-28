@@ -1,0 +1,5 @@
+#sheet v1
+A1 = 2.5
+A2 = "toÿÿÿþ: " &1 
+AA3 = LEN(A2)
+A4 = FALSE & "!"

@@ -1,0 +1,4 @@
+#sheet v1
+C1 = 2.75
+C23 = ROUND(C1,91)
+D4 = COUNT(C4:C2)

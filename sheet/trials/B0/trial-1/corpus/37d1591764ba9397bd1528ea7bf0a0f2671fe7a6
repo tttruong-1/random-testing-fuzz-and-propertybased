@@ -1,0 +1,2 @@
+#sheet v1
+AA2  = COUNT(A2:A35, "#x", 6)

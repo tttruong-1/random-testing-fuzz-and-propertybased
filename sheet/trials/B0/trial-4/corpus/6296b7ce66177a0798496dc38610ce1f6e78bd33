@@ -1,0 +1,3 @@
+#sheet v1
+A1 = "tab\th= heït #sheet v\\slash"
+A3 = CONCAT("line\n-----------,"& "]##--------,", "####e#########œœœœ#œœœœœ"& "####ÿ",""& "########neœnzzzzzzzzzzzd")

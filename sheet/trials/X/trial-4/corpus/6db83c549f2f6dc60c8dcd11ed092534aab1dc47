@@ -1,0 +1,4 @@
+#sheet v1
+C3 = (---4 & --LEN(TRUE, TRUE) * --SUM() & ROUND()) - --SUM() <> SUM(C4:C1) / -23.58
+
+D3 = ----FALSE / AVERAGE(D4:C4) * -TRUE

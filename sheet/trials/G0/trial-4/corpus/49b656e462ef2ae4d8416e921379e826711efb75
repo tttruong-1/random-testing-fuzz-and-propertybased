@@ -1,0 +1,5 @@
+#sheet v1
+
+# a comment
+TM5 = -IF(TRUE / TRUE - -TRUE + FALSE * -FALSE - --FALSE / -TRUE <> FALSE & ---FALSE, J8:GC1, R2:PWU50)
+# a comment

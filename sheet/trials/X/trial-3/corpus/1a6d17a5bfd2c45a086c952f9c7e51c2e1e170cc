@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+
+B2 = (FALSE) * ---FALSE > "" / -----80 & -------FALSE
+
+C2 = -(FALSE) - AVERAGE(D1:A3, C1:B3, TRUE - FALSE) - -FALSE

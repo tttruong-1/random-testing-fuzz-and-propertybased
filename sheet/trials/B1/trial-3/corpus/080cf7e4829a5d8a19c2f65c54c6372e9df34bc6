@@ -1,0 +1,4 @@
+#sheet v1
+A1 = 7
+B1 = (A1/ > 5, IF(A2 > 10, "large", "medium"), "small")
+B4 =AVGSUM(A1 7, 1, 0)"

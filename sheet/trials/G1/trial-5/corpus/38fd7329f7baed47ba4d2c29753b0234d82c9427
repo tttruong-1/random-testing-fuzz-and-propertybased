@@ -1,0 +1,2 @@
+#sheet v1
+C1 = TRUE > MAX(C1:B4, B3:D1) * "C"

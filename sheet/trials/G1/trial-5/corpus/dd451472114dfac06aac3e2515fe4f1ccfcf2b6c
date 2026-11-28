@@ -1,0 +1,4 @@
+#sheet v1
+
+B3 = SUM(C1:D3, A2:D2, C3:B3, A3:B1) / ---TRUE & --B3
+

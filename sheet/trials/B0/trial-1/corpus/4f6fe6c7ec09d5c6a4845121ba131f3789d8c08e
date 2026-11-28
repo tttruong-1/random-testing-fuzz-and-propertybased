@@ -1,0 +1,6 @@
+#sheet v1
+A1 = A1
+B1 =-2
+A2 = 4
+C1 = SUM(2)
+C2 = MAX(A8:B3, 0)

@@ -1,0 +1,4 @@
+#sheet v1
+A1 = 1234.5E678
+B1 = (OB0U(D B10U(D,(A1, 2)
+B2 = OUND(A1, 0.5)

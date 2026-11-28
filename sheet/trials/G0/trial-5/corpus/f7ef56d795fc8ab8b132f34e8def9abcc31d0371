@@ -1,0 +1,3 @@
+#sheet v1
+X6 = --"" & MAX(S6:SR4, WNX7:JQ342, X13:XC85, J8:C1) + -"5L" * "" * LEN(TRUE / FALSE > FALSE, FALSE / TRUE, FALSE + TRUE, F4:G1, TRUE) / --TRUE / "" - ----FALSE & -3 & --FALSE
+

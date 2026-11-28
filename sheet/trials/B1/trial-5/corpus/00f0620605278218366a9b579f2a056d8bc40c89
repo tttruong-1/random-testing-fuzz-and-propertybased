@@ -1,0 +1,7 @@
+#sheet v1
+A1 = 1
+AF2 = "tle"
+A2 = "bananÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿwo"
+H13 = TRUE
+B1 = COUNT(A2:A3)
+R2 = COUNT(5, "x", 6)

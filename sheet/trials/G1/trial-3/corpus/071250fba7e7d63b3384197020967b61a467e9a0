@@ -1,0 +1,2 @@
+#sheet v1
+A4 = -MIN(A3:C3, C3:C2) * -FALSE * -----CONCAT(TRUE, D2:B1, B1:B1) / 7 / -(43 <> SUM(C4:C1, D3:A2) * 96.3)

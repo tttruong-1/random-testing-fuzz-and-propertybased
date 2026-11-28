@@ -1,0 +1,5 @@
+#sheet v1
+A2 = 1234.5678
+B1 = ROUND(A2, 2)
+B21  = ROU2D(A1, -2)
+B3 = ROUND(A1, 0.5)

@@ -1,0 +1,4 @@
+#sheet v1
+R499 = -4 & -TRUE
+F3 = (---TRUE * C66 >= -FALSE + ---FALSE + AVERAGE() - 31) <> -TRUE & -----TRUE * HJ876526 + --FALSE
+# a comment

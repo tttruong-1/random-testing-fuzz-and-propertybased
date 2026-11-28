@@ -1,0 +1,9 @@
+#sheet v1
+S8 = -F6 <> -5.5 / FALSE / FALSE * --HOT7 - --"" / ---FALSE * ---FALSE * --TRUE
+# a comment
+
+
+
+# a comment
+# a comment
+B9 = R571 / 6 + TRUE / C2 / U3 / 82.7 * -68 / -ROUND(N9:T4) / C305 > TGB9

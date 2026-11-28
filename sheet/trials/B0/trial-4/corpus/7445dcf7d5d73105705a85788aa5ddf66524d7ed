@@ -1,0 +1,4 @@
+#sheet v1
+
+A2 = --COUNT(A6:D3)
+#s

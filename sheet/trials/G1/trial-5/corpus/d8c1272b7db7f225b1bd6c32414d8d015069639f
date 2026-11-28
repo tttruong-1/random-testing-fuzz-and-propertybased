@@ -1,0 +1,7 @@
+#sheet v1
+# a comment
+A1 = SUM(D2:D3, -CONCAT() + -FALSE) <= ------(FALSE / FALSE) * (--1 - FALSE < FALSE / FALSE * -FALSE + FALSE * FALSE * -TRUE / --TRUE + TRUE / TRUE / FALSE * C1 * CONCAT() + (TRUE) / FALSE * --(FALSE) + FALSE * -FALSE * -(TRUE) / -AVERAGE(TRUE) + -FALSE / (TRUE + TRUE > FALSE) * (FALSE / FALSE) / --58 & -TRUE / IF(TRUE == TRUE) * -AVERAGE(C1:C3, A1:D4, FALSE)) / --FALSE
+
+D4 = TRUE * --FALSE + -----ROUND() / TRUE
+# a comment
+D2 = TRUE * TRUE / TRUE & FALSE + ---TRUE * -(FALSE > FALSE) & FALSE * 03 / ---TRUE & -FALSE + C1 * (TRUE / FALSE * TRUE & TRUE * -TRUE / -TRUE <> FALSE / TRUE * -FALSE / (TRUE)) + -(-FALSE & -FALSE / ROUND()) + FALSE * MIN() * -8.2 / -FALSE * (FALSE / -FALSE) * -FALSE / ---FALSE / 4 <= ---FALSE / -FALSE + -(TRUE + TRUE >= FALSE) / A1 * TRUE * (TRUE / FALSE * "" - ---FALSE <> TRUE * TRUE / FALSE + -TRUE + -FALSE / FALSE) * ---1764

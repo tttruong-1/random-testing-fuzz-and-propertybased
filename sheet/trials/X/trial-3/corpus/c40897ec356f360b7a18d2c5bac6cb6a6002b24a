@@ -1,0 +1,5 @@
+#sheet v1
+D3 = ----B1 / COUNT()
+C2 = SUM(D1:A1)
+# a comment
+

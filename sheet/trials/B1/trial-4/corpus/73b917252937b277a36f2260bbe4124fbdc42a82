@@ -1,0 +1,6 @@
+#sheet v1
+A1308
+ 2A= A 2D1 A0 ** 2=:1e-08
+ "appA1 = "appleanana"
+B1 =  2A= A 2D1 A0 * 20
+A3 = A2 - 1

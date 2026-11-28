@@ -1,0 +1,2 @@
+#sheet v1
+D2 = --IF("", TRUE * 2, D3:B1)

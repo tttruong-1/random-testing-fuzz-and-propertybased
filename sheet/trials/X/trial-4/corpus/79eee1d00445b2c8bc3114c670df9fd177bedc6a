@@ -1,0 +1,2 @@
+#sheet v1
+C3 = (TRUE & --TRUE - (TRUE - TRUE + TRUE * FALSE >= TRUE) - --IF(FALSE, TRUE) - ROUND() - (TRUE - TRUE * FALSE <> FALSE - FALSE / FALSE) * (TRUE + FALSE / TRUE * TRUE) / "" / TRUE == (--FALSE) / --COUNT()) * D1 <> -TRUE - --(B3 + C1 - FALSE / ---"" * 7.32 - -TRUE <> TRUE - -"v" / D3)

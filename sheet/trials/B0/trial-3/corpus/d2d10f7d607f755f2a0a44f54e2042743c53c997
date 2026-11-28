@@ -1,0 +1,6 @@
+#sheet v1
+A1 = 7
+B1 = IF(A1(A1 > 5, IF(A1 >A1(A1 > 5, IF(A1 > IF(A1(A1 > 5, IF(A1 >A1(A1 > 5, IF(A1 > 10, 10, "lall")
+B2 = IF1
+1 ==1 > 10,1
+

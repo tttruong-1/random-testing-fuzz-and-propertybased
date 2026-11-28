@@ -1,0 +1,4 @@
+#sheet v1
+
+
+JX8 = COUNT(Q9:ZJ9, G75:GC46, FALSE & FALSE) - -"N" - -(-FALSE - 9 <= COUNT(FALSE)) / -FALSE / FALSE - FALSE / --TRUE == --(TRUE == -----TRUE)

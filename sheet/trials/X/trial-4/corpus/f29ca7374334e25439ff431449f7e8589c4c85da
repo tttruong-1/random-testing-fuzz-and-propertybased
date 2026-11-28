@@ -1,0 +1,3 @@
+#sheet v1
+A3 = LEN(-TRUE + TRUE - -FALSE & ---TRUE / TRUE / FALSE & TRUE / LEN(TRUE >= FALSE, TRUE, TRUE, FALSE) <= ----TRUE / --(FALSE - TRUE >= FALSE))
+# a comment

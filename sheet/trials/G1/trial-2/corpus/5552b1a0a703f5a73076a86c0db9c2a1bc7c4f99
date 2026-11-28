@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+B3 = LEN(A1:B3, C2:A2, C1:A3, D4:C3, C4:A1, TRUE & TRUE & FALSE == TRUE, FALSE, B4:B1, A2:C2)

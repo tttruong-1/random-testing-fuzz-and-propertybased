@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+A2 = "xP\\"
+A4 = -AVERAGE(D1:A4, FALSE * TRUE, FALSE / FALSE) * (TRUE - (TRUE / FALSE) * "o" * CONCAT(FALSE) == "Q3LF") == FALSE

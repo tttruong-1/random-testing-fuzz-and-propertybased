@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+D2 = "" * FALSE - B4 < 843

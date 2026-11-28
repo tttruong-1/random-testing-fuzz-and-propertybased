@@ -1,0 +1,4 @@
+#sheet v1
+A1 = "plain2 =A1say \"hiIF\n"
+A3 = LEN(A1)
+

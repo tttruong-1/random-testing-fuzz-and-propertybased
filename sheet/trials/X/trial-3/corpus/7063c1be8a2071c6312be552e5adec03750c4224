@@ -1,0 +1,4 @@
+#sheet v1
+C3 = -("" * "" >= --TRUE) / ---TRUE * ---FALSE / -A3 / TRUE / AVERAGE(-B4 & ----FALSE & TRUE & --TRUE * (TRUE == TRUE) * TRUE / TRUE / (FALSE & TRUE - FALSE - TRUE) < ----FALSE * 8.0)
+D3 = --(MIN(D1:A2, FALSE) + --FALSE / (TRUE - TRUE == TRUE) * MIN() * 2.1 == --(TRUE - TRUE == FALSE - FALSE))
+

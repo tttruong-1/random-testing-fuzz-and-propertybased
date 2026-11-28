@@ -1,0 +1,4 @@
+#sheet v1
+A1 = TRUE
+B1 = COUNT(A5:A3)
+#s

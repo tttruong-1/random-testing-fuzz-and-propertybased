@@ -1,0 +1,3 @@
+#sheet v1
+C1 = SUM(2)
+C2 = MAX(E1:B1, 0)

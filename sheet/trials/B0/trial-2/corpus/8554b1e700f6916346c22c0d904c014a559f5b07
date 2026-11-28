@@ -1,0 +1,6 @@
+#sheet v1
+A1 = 7
+B1 =NID(A1 > 5, IF(1
+A1 = 7
+B1 =NID(A1, "small")
+B3 = IF(A1

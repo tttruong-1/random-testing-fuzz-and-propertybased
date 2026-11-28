@@ -1,0 +1,7 @@
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/covtrace/CMakeFiles/sheet.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/covtrace/CMakeFiles/sheet-stages.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/covtrace/CMakeFiles/sheet-repro.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/covtrace/CMakeFiles/sheet_covtrace.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/covtrace/CMakeFiles/covtrace.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/covtrace/CMakeFiles/edit_cache.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/covtrace/CMakeFiles/rebuild_cache.dir

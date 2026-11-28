@@ -1,0 +1,3 @@
+#sheet v1
+A1 = TRUE / ---FALSE / -TRUE * AVERAGE(B3:A3, B2:B4, (FALSE)) < 9 - -----TRUE
+# a comment

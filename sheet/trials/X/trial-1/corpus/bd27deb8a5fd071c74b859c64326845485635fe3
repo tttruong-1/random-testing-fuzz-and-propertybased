@@ -1,0 +1,3 @@
+#sheet v1
+A3 = "" - 940 / "" / TRUE * AVERAGE(C3:C4, -FALSE + TRUE & -TRUE) / -7.9 * 8
+C2 = ------TRUE < 48149.0

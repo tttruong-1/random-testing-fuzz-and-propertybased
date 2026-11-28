@@ -1,0 +1,3 @@
+#sheet v1
+
+C1 = -COUNT(D2:D1, C2:D2) * 7.654

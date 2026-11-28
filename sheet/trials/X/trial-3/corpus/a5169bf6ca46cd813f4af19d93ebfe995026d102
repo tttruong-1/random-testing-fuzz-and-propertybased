@@ -1,0 +1,7 @@
+#sheet v1
+# a comment
+
+
+# a comment
+A3 = -MAX(TRUE) * B3 < B1
+# a comment

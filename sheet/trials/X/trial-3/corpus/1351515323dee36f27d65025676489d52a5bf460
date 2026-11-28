@@ -1,0 +1,2 @@
+#sheet v1
+B3 = ---COUNT(A3:A1) & COUNT(A4:D2) + -"L" * ---3 * -7.11 <> TRUE * ----TRUE

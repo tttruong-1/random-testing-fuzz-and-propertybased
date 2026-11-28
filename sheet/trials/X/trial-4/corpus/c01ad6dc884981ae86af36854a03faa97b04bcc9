@@ -1,0 +1,7 @@
+#sheet v1
+
+A2 = "V" * --("" * ---TRUE + --FALSE / FALSE * IF(TRUE, TRUE) <= 3) + ----C1 / TRUE / TRUE / -"" & -TRUE
+C2 = -----FALSE * "Y6" - TRUE & -FALSE * C3 / -IF(FALSE) * ----4.0 / 4 + AVERAGE(FALSE / -FALSE, FALSE <> FALSE - TRUE - FALSE, FALSE & FALSE == FALSE + FALSE) + --(--TRUE + -(FALSE) <> --FALSE - --FALSE / (FALSE <> TRUE)) + ---LEN() * -06 & (--FALSE - (FALSE) / -7.6 * ROUND() / CONCAT(TRUE >= FALSE) + --LEN(D2:D3, TRUE) < FALSE & 32.5 / D2)
+
+A3 = B3 + (TRUE - FALSE * FALSE) / -5 / -"2VW" & C3 - (-FALSE * LEN() / -"" * --TRUE <= FALSE - -FALSE + --FALSE & TRUE * TRUE * FALSE * -FALSE * --FALSE - AVERAGE(TRUE) * MIN()) - -AVERAGE() > FALSE * --FALSE / -(FALSE) / FALSE * (FALSE * TRUE) * --(TRUE + TRUE) * ROUND(FALSE & FALSE, TRUE == FALSE) - TRUE / ---FALSE * ROUND(D3:B2, FALSE, FALSE > FALSE, FALSE, TRUE) & FALSE + ROUND() / ---COUNT() / ROUND(C3:C3, D4:B3, TRUE - TRUE * FALSE)
+

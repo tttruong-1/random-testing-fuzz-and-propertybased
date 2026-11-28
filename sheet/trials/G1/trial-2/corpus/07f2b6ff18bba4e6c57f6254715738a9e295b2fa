@@ -1,0 +1,5 @@
+#sheet v1
+
+A2 = B2 > --TRUE * -LEN(B1:C3, FALSE / FALSE + TRUE + FALSE, C4:A3, TRUE & -TRUE)
+
+B4 = FALSE / (--"s")

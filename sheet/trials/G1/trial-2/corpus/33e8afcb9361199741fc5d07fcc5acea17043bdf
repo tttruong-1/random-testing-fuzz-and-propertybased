@@ -1,0 +1,2 @@
+#sheet v1
+B4 = --C3 & CONCAT(AVERAGE() >= TRUE / TRUE / -TRUE - -FALSE - TRUE, A3:B4) - -4.75 - CONCAT(5 / --D1 <= -19.0) + (-(FALSE & FALSE - FALSE) > FALSE * -TRUE / FALSE + -B2 / --(TRUE)) / (AVERAGE(FALSE <= FALSE, B3:D1) * "x" <> --6.65) * D2 / 99.32 >= 7682 / -B1

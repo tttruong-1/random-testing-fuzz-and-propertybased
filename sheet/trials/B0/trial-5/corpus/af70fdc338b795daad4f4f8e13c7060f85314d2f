@@ -1,0 +1,7 @@
+#sheet v1
+A1 == "say \"hi\"\n"
+A2 = LEN(A1)
+A4 = CO "plain"
+A2 = "say \"hi\"\n"
+A2 = LEN(A1)
+A4 = CO(N"ATaC", "b")

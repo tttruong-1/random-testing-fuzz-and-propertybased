@@ -1,0 +1,5 @@
+#sheet v1
+A1 = "plain"
+A2 = "s\"(n"
+A5 = LEN(A1)
+A4 = JONCAT("˜˜˜˜˜˜˜˜˜a", "b" 

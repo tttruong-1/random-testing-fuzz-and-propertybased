@@ -1,0 +1,9 @@
+#sheet v1
+C3 = ((FALSE >= FALSE) * "" / 3.679 / A1) - --("" == TRUE / FALSE - FALSE / FALSE * -FALSE - --FALSE & -FALSE - -TRUE) * -949 - FALSE + -(--TRUE * ---FALSE / 08 + "" / --FALSE * TRUE / "" - D4 & (TRUE + TRUE * FALSE & FALSE - AVERAGE()) == "" - TRUE * TRUE * --TRUE * B3 & TRUE * -FALSE / -TRUE * ---TRUE + C2 * -TRUE + --IF(FALSE) / FALSE - FALSE) / SUM(D1:B3)
+
+D4 = (-FALSE <> TRUE) / A1 / --TRUE * (TRUE * FALSE * --FALSE - -SUM() + (FALSE - TRUE <> FALSE)) / (---TRUE & -D2 >= FALSE * A2 & TRUE / FALSE / -TRUE * C2 * ---TRUE & --C3 - -TRUE / "" / 5 * ---FALSE / ---A4) / -TRUE + A1
+B2 = -TRUE * TRUE <> ----TRUE
+# a comment
+D1 = A3 - "" * 71.7 & -(TRUE * TRUE * TRUE * IF() <> FALSE / FALSE * -TRUE) + B3 > -"l5c"
+
+

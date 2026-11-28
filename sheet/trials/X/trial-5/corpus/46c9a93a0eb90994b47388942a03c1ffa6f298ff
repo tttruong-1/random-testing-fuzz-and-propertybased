@@ -1,0 +1,5 @@
+#sheet v1
+C1 = MIN(B4:A2, C4:D3) & CONCAT(A4:B4)
+
+
+# a comment

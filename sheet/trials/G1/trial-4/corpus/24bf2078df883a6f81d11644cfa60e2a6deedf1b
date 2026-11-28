@@ -1,0 +1,3 @@
+#sheet v1
+C1 = COUNT(C4:B3, C4:C3)
+# a comment

@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+A2 = ---FALSE + ---FALSE <> 3 / -""
+C1 = TRUE + -A2 / "" / -FALSE & A3 / -CONCAT(A4:D1) * --(-TRUE / -COUNT()) + ---C4 / --"mV" * -"xJ" & D1 / -6 == -4.8
+
+B2 = LEN(D2:D2) - "" * -ROUND() / B4 / "G" * D3 * -FALSE / "" + ------FALSE / --TRUE * -(FALSE * -FALSE + FALSE * -TRUE / D3 >= B3) / --A1 / -64.4

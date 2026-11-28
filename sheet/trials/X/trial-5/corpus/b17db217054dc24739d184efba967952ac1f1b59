@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+D1 = ---20.9 * CONCAT() / -"" * -CONCAT(-(FALSE), A3) <= -A3 & (4.35) / --ROUND(C1:A3, C2:B1, FALSE + TRUE * TRUE <= FALSE & TRUE + FALSE) / TRUE
+# a comment

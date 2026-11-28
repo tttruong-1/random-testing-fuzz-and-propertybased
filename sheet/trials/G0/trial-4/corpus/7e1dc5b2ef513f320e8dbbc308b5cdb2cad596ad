@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+C75 = 51.4 & AVERAGE(W5:NOS2) * -FALSE * -3.5
+UUJ2 = 7 <= TRUE + TRUE
+RE1 = SUM() - ---FALSE

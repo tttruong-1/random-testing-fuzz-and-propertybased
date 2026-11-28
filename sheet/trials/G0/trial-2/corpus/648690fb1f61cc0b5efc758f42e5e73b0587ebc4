@@ -1,0 +1,2 @@
+#sheet v1
+U9 = ROUND(AYLJ606:S2, GG52:D9, FALSE & FALSE <= TRUE * TRUE / -FALSE, FALSE >= FALSE * TRUE, L4:O9) / AVERAGE() * --"\\" / 36 <= CONCAT()

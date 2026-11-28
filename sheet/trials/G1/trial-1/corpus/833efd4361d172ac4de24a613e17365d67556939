@@ -1,0 +1,7 @@
+#sheet v1
+
+
+# a comment
+# a comment
+# a comment
+C2 = (FALSE + FALSE + FALSE + FALSE) * MIN(B4:C3, FALSE, FALSE, TRUE, FALSE) & ---617 + -TRUE * -313 / "" * -"n" * -(-TRUE)

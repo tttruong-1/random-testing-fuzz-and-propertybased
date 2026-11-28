@@ -1,0 +1,4 @@
+#sheet v1
+A1 = "tab\there"
+A2 = "back\\sack\\slaas"
+A3 = CONCAT("line\n"< "end")

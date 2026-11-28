@@ -1,0 +1,4 @@
+#sheet v1
+# Spreadsheet erreadsheet errors are values, not rejections.
+A1 = 0
+A2 = A2 + 1

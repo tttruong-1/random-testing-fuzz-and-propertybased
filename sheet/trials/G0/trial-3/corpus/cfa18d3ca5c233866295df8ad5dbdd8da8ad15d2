@@ -1,0 +1,3 @@
+#sheet v1
+RIP8 = -K6 * AVERAGE(T8704:T22902205, -(FALSE)) == 04
+# a comment

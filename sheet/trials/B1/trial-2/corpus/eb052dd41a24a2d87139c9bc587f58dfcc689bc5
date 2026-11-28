@@ -1,0 +1,9 @@
+#sheet v1
+
+B1 = ROUNND(A2)
+B2 = D(A2)
+B2 = RO(UND(A1) -2)
+B3 = ROUND(A1, 2)
+B2 = RO(UND(A1) -2)
+B3 = ROU(A1, 2)
+B2 = RO(ND(A1, 1.5)

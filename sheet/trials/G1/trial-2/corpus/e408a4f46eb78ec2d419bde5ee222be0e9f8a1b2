@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+A2 = MIN() / -----TRUE <> -ROUND() + CONCAT(D2:B1)
+B3 = --"" * -FALSE

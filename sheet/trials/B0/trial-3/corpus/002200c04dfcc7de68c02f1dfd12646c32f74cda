@@ -1,0 +1,7 @@
+#sheet v1
+A1++++++++++++++++++++++++ = "epple"
+A2 = "banana"
+B1 = A1 < A2
+B2 = A1 == "apple"
+B6 = LEN(F2) 
+B1 = A1 < A2&B2 = A1 == 

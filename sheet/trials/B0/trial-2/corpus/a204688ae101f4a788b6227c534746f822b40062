@@ -1,0 +1,7 @@
+#sheet v1
+A1 = 9
+B1 = 2
+A2 = 3
+B2 = 4
+C5 = SUM(AA4:BA2)
+G2 = MI66666#she9)

@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+D2 = TRUE + -LEN(D3:D1) == --AVERAGE(TRUE / TRUE * FALSE) * (-FALSE - -FALSE & "up" - TRUE * -TRUE / (TRUE / -FALSE > TRUE * FALSE & TRUE / TRUE * TRUE) - FALSE + ---AVERAGE() >= FALSE)
+# a comment
+

@@ -1,0 +1,3 @@
+#sheet v1
+A3 = --MAX(--TRUE / -"" <= TRUE & FALSE + TRUE + FALSE * FALSE / -FALSE - TRUE * TRUE / TRUE / -TRUE - (TRUE) - "e", FALSE * FALSE / TRUE / --TRUE / TRUE >= TRUE - TRUE - FALSE * TRUE - TRUE / -TRUE & -FALSE & TRUE / TRUE, A1:A2, A3:A4)
+

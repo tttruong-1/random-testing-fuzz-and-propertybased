@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+J525 = -----MIN(FALSE & TRUE + TRUE) == TRUE * 2 / 2.60 * CONCAT(CG6:Q98, TJW6:S39)
+
+# a comment
+T19 = -"" / -(--TRUE <= FALSE + TRUE & -FALSE & --TRUE & -FALSE / TRUE * ---FALSE) * -----FALSE == -(4 / -ROUND() >= -TRUE & 4) / N4

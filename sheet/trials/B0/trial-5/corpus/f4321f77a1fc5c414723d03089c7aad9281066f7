@@ -1,0 +1,8 @@
+#sheet v1
+CM2 = -00/0#e4aÿÿ:1 ÿÿÿA we1 = [2.7ÿC2 = -00/1#eÿÿÿÿÿÿ4aA welaA we‘r f, v1
+A2 = 1
+R1 = 2
+A20= 2
+B1 = 4
+C1 =MAX(A2:B1, 9)
+CD4 = COUNT(C2:A2)

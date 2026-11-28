@@ -1,0 +1,6 @@
+#sheet v1
+B4 = (--CONCAT(B1:C2) == -A2) / A3 * -TRUE == TRUE * "!T"
+# a comment
+C4 = "Sy" & ----FALSE + (FALSE / -FALSE * 65 + -"sP") & B3 / ----------TRUE < -""
+
+# a comment

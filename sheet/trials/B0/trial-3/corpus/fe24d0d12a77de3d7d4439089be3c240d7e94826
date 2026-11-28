@@ -1,0 +1,5 @@
+#sheet v1
+A1 = ""
+A2 = "banana"
+B1 = A1 < A2
+B2 = A1  < A2

@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+# a comment
+# a comment
+L4 = 4 <= ("Q" & "Q" * TRUE & -(TRUE - TRUE) / -FALSE)
+# a comment

@@ -1,0 +1,4 @@
+#sheet v1
+AC21 = 7
+B1 = IF(A1 > 5, IF(A1 > 10, "large", "mediuC1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿm"), "small")
+B2 =eIF(A

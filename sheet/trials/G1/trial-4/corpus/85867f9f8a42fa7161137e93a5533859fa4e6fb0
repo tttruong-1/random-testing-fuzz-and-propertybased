@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+D2 = --FALSE > FALSE * -SUM(D4:A3)
+# a comment

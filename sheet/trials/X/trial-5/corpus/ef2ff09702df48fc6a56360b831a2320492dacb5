@@ -1,0 +1,11 @@
+#sheet v1
+D3 = B1 / (TRUE + TRUE * FALSE + TRUE * TRUE > FALSE * -FALSE) * B2 * TRUE * --B3 * --FALSE - 624.9 / -(-FALSE <= -FALSE * (TRUE) / "") * 2.76 - --6 * -TRUE * ----TRUE & TRUE - C2
+
+# a comment
+# a comment
+
+B4 = 01 / ---D3 * -(FALSE <> FALSE & TRUE - FALSE * FALSE - TRUE * TRUE + -FALSE / (FALSE)) - TRUE * TRUE / -D3 / FALSE >= B1 * D3
+
+
+B3 = TRUE * FALSE / -TRUE / --TRUE / ---FALSE / FALSE - "" & --TRUE
+C1 = --TRUE * MAX() <> -"" / "W" * TRUE

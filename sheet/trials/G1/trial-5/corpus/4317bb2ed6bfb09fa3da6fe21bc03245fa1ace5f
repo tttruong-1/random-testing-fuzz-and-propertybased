@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+C1 = -------FALSE * -"Zz" * --(FALSE / TRUE) / -MAX(FALSE < TRUE + TRUE * FALSE / FALSE, A2:C1) * --0.2 / -"S" / TRUE
+

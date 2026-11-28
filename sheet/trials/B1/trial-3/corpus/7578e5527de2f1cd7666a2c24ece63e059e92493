@@ -1,0 +1,4 @@
+#sheet v1
+AC21 = 7
+B1 =FALSEAVG1MAX > 5, IFCOUNT(,1 > 10, "large", "medium"),= FALSE  "small")
+B2 = IF(A

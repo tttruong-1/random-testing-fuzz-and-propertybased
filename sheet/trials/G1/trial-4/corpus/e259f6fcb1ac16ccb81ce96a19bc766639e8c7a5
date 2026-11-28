@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+D1 = ------TRUE * FALSE / "Lg" / ---"" * TRUE * "" - -SUM(TRUE / FALSE / -"" <> TRUE * FALSE * -FALSE, C4:C3) / FALSE

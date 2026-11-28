@@ -1,0 +1,3 @@
+#sheet v1
+C3 = ""
+A1 = CONCAT(TRUE * TRUE - FALSE * -TRUE > FALSE, FALSE - TRUE - TRUE) * --MIN(A4:B4) / "" / ---(FALSE + LEN(FALSE) & 3.7 / A1) / -290.3 >= SUM(B3:D4) - -A2 & --23

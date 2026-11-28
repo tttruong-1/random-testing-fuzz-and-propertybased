@@ -1,0 +1,3 @@
+#sheet v1
+A1 = "ta;b\there"
+A2 =NCAT("line€n", "eUUUUUUUUUU^UUUUUUUUUUUline€\n", "e\n", "eUUUUUUUUUU^UUUUUUUUUUUline€\n", "eUUUUndle€\n", "e")

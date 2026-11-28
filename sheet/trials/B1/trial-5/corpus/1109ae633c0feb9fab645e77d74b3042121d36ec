@@ -1,0 +1,4 @@
+#sheet v1
+A1 = "tab\there"
+A3 = "back\\slash"
+A2 = CONCCT("line\n", "end")

@@ -1,0 +1,4 @@
+#sheet v1
+B1 = (--"" / 84.311 / -(TRUE <> FALSE & TRUE / FALSE)) / "" / -FALSE / --FALSE
+C2 = -"" / "tn" <> -"" * -5477 / -CONCAT(C4:B1, TRUE / "" * 7 < TRUE, TRUE * FALSE & TRUE / FALSE / -FALSE & FALSE < TRUE * TRUE / --TRUE)
+# a comment

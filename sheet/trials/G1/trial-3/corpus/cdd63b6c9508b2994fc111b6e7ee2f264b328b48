@@ -1,0 +1,5 @@
+#sheet v1
+A4 = -FALSE
+C4 = FALSE * --TRUE & 35 >= -TRUE & ""
+
+B2 = -30 + -65.6 / -924 - -"" * 81.6 * COUNT(C2:C1) / -TRUE / (ROUND(TRUE) >= TRUE / TRUE * 4 & FALSE * --TRUE / ---TRUE) * -TRUE / --"" - -SUM()

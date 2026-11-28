@@ -1,0 +1,2 @@
+#sheet v1
+WWO5 = SUM() / L1 * -ROUND(XIK2:OC177, TRUE & FALSE & FALSE, WY7:T2, Z3:J7, P7:N5) / (5) * 0 - --A85 <> ---FALSE * -----2.3

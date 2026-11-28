@@ -1,0 +1,5 @@
+#sheet v1
+
+D1 = --A4 & A4 / FALSE <> FALSE
+
+A1 = "j" * "" - ---(TRUE * FALSE == FALSE / FALSE) & FALSE * --"OV" - -(---FALSE) & ----(TRUE / -FALSE - -FALSE / --TRUE == -TRUE * (FALSE)) >= ""

@@ -1,0 +1,10 @@
+#sheet v1
+A#
+A1 S)S = 
+&&&&&&&&&&&A#
+A1 S)S = Le LEN(A1)
+ SA3 S= 3A1 S)S = 
+&&&&&&&&&&&A#
+A1 S)S = Le LEN(A1)
+ SA3 S
+ 4

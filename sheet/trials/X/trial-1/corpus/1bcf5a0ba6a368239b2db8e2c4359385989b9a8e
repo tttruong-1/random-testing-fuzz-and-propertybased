@@ -1,0 +1,4 @@
+#sheet v1
+A2 = LEN(A4:D4) * FALSE - ---MAX(A4:A1, TRUE - FALSE - TRUE / FALSE & TRUE * FALSE * FALSE) / --("b" / ---"8") <> -MAX(B2:B2) / TRUE
+# a comment
+

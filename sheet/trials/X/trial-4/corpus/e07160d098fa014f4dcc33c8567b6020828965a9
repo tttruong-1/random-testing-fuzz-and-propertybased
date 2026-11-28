@@ -1,0 +1,3 @@
+#sheet v1
+B1 = -B4 / "" >= -C2 * -TRUE
+A2 = ------B3 / --FALSE / --FALSE / -(----FALSE / AVERAGE(TRUE) & -TRUE + (FALSE - TRUE & FALSE * -TRUE > FALSE / TRUE / -TRUE) / -FALSE) > LEN() / -LEN(-TRUE / "" & "" < --TRUE + "" & -TRUE * -FALSE * -MAX() / AVERAGE(), FALSE / FALSE * TRUE / (TRUE) + (FALSE > TRUE) == TRUE / -TRUE / CONCAT() - (TRUE))

@@ -1,0 +1,4 @@
+#sheet v1
+D1 = ---987
+# a comment
+B3 = "Z" / FALSE & B3 <= --D3

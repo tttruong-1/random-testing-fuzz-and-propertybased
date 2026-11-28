@@ -1,0 +1,2 @@
+#sheet v1
+C3 = COUNT(D4:B1) * -"A" & -TRUE & FALSE * -CONCAT(D3:B4) <> "3SE" - -SUM() / TRUE / (-D4 / -FALSE - A4 / 7 / FALSE / A4 + 1.182 <> -"U")

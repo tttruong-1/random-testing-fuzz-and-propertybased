@@ -1,0 +1,3 @@
+#sheet v1
+S20 = TRUE / SUM(VJ4:XDZARI9) & TRUE
+

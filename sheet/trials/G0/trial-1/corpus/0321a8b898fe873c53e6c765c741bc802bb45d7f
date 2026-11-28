@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+ER8 = ---CONCAT(FC37:K2, AA4:MFF90)
+# a comment

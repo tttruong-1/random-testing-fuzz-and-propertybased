@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+# a comment
+A4 = --C3 / -----TRUE * -------TRUE / ---TRUE & LEN(C1:B4) * "R" / ------(FALSE) * (FALSE + -FALSE & FALSE + -(TRUE) - TRUE * FALSE * -TRUE / -TRUE / --TRUE / -"" + (TRUE & TRUE & FALSE * TRUE) > "" + -(FALSE) - -LEN(TRUE) & --(FALSE) / (FALSE & TRUE - FALSE * TRUE <= FALSE - FALSE - FALSE)) * (TRUE + FALSE / TRUE + FALSE / FALSE / TRUE + -TRUE - -FALSE * ---TRUE + (FALSE == TRUE - TRUE) & --FALSE / -B2 * TRUE / SUM(TRUE) & B1 / 8.04 / (TRUE * FALSE) <> FALSE * -B3 / 1.2902) / "t" <= (7.3 / TRUE + --AVERAGE() / -TRUE + FALSE * ----IF() <> TRUE * FALSE * -TRUE * 1 & ---FALSE + -"" / D4 & SUM() / "P" / --9 & FALSE) - (-ROUND() * -"4!" + ----"" >= --TRUE * (TRUE) / --ROUND() - -B2 & ---"" / --36.36 & C3)

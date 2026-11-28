@@ -1,0 +1,6 @@
+#sheet v1
+D3 = 9.61 * TRUE / -7.792
+A4 = "" + -C2 < -COUNT(A1:C3, B3:D2, B2:D3) & -----TRUE / -7.446
+
+C2 = TRUE
+# a comment

@@ -1,0 +1,3 @@
+#sheet v1
+A1 = 3
+B1 = IF(A1 > 5, IF(A1 > 10, "large", "medium"), 0)

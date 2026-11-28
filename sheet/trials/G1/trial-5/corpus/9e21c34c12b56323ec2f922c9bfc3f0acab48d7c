@@ -1,0 +1,3 @@
+#sheet v1
+C2 = 0 + CONCAT(C3:B1, B1:A4) & TRUE & FALSE + -CONCAT(C4:B1) / 03 - ---MAX(B3:C3, B4:D2) / ----58.7
+# a comment

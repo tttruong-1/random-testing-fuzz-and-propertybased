@@ -1,0 +1,5 @@
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/coverage/CMakeFiles/sheet.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/coverage/CMakeFiles/sheet-stages.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/coverage/CMakeFiles/sheet-repro.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/coverage/CMakeFiles/edit_cache.dir
+/home/tttruong/Downloads/se-random-testing-template/sheet/build/coverage/CMakeFiles/rebuild_cache.dir

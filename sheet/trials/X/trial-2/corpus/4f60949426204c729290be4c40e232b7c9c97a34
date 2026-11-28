@@ -1,0 +1,5 @@
+#sheet v1
+C1 = AVERAGE(C3:B4, A1:A3)
+C4 = 40 & FALSE < C1
+
+

@@ -1,0 +1,5 @@
+#sheet v1
+A1 = "t5, IF(A1 > 1here"
+A2 = "bÿÿÿÿÿÿÿack\\ere"
+Q2 = "back\\sack\\slash"
+A3 = CONCAT("line\nA\n", "e\nne\n", "end")

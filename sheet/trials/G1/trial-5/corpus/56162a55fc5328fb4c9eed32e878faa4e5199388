@@ -1,0 +1,7 @@
+#sheet v1
+# a comment
+C1 = ----7 & -D4 <> --FALSE * -A4 * -----SUM(TRUE, TRUE, FALSE) & -TRUE * ----"x" / -"" / IF() & 35 - "V" / MAX()
+B3 = --"0" + ---TRUE * -MAX() - (-B2 / ---FALSE + --8.2) * A2 / (FALSE / -5 / --FALSE / -D4)
+B2 = SUM(FALSE + FALSE / TRUE < TRUE + TRUE + TRUE / FALSE) & 2 / COUNT(A4:A3, B4:D1, TRUE + TRUE <= TRUE + TRUE, D4:C2, D2:B2, FALSE) & "W" / ---SUM() + ---6.2 > --MIN(D2:A3, TRUE <= FALSE - TRUE - FALSE, C2:C2, B2:C1)
+A4 = --C3 > -FALSE * (---FALSE == ---FALSE - FALSE * LEN(TRUE, FALSE)) & 1271166
+A4 = "t9" & --FALSE * "3" > -"O9\\"

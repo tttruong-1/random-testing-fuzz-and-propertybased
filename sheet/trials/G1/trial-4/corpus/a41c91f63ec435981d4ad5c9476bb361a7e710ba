@@ -1,0 +1,4 @@
+#sheet v1
+A2 = (7 >= TRUE)
+A4 = (A2 * TRUE * -A3 <> --FALSE & 7 - TRUE * FALSE) <> TRUE
+# a comment

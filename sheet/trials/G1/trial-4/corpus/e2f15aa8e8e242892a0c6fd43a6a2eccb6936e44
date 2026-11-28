@@ -1,0 +1,4 @@
+#sheet v1
+
+D3 = ---FALSE - --FALSE + -SUM(B3:D3) <> --FALSE
+B4 = "4N" + 33 / --COUNT(TRUE / FALSE * FALSE, A1:D4, C2:C3) / (":" & (TRUE * FALSE * -FALSE + 3))

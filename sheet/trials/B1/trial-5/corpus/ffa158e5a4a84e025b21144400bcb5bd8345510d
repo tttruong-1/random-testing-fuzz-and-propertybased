@@ -1,0 +1,4 @@
+#sheet v1
+A1 ="""""""""""""""""""" "plaif"
+A2 + "say \"hi\"i\"\nplain"
+A2 CO:NCAT("a", "b")

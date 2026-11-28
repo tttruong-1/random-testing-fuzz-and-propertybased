@@ -1,0 +1,7 @@
+#sheet v1
+# a comment
+
+
+
+A4 = --298.0 & "" * --CONCAT(A4:A2) / -----(FALSE) / FALSE - --SUM(FALSE + TRUE, A1:D1, C1:C2, TRUE) / 03
+D3 = (TRUE > FALSE * 5) + -"xd" - ----847

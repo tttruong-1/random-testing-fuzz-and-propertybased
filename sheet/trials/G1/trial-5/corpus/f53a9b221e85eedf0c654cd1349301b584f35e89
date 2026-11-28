@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+
+C1 = --CONCAT(A4:C2, TRUE) < (--TRUE - -734.4)

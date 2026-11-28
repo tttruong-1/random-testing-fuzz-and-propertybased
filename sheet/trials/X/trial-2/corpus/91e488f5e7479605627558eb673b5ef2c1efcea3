@@ -1,0 +1,6 @@
+#sheet v1
+
+D1 = -8894140738.10 > -AVERAGE(FALSE * (FALSE) / FALSE + -TRUE, A1:B2)
+# a comment
+
+A2 = AVERAGE(A4:D2) / 7.7444 * ---"" / "OW"

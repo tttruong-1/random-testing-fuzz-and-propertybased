@@ -1,0 +1,3 @@
+#sheet v1
+
+A4 = -(--CONCAT(TRUE, TRUE) * COUNT(B1:C1))

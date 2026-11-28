@@ -1,0 +1,8 @@
+#sheet v1
+
+# a comment
+F75 = TRUE >= 81.21
+M31 = TRUE <= ""
+# a comment
+SLN65 = --MAX()
+L1 = ---TRUE & -FALSE / -"u" / --TRUE

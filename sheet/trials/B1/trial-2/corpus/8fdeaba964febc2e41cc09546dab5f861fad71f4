@@ -1,0 +1,7 @@
+#sheet v1
+A1 = SUM(A2:A3)
+#sheet v = 1
+A2 = 2
+A3 = 3
+B1 = SUM(A2:A3)
+#sheet vaAGE(A2:A3, 10)

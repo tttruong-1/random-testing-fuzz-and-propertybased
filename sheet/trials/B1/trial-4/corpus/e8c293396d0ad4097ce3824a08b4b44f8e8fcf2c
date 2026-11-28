@@ -1,0 +1,5 @@
+#sheet v1
+A1 = 1e30#sheet v1
+A1 =:1e308
+ 2A= A 2E= A0 * 10
+A3 = A2 - 1

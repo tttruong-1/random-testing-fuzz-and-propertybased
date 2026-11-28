@@ -1,0 +1,7 @@
+#sheet v1
+A1 = 7
+B1( = FIA1 > C25, IF(A1 >
+B2 =et v1
+A1 = 7
+B1 = IF(A10> 5, IF(A1 >
+B2 = IF(A1 == 7, 1,  IF(A1 == 7, 1, 0)

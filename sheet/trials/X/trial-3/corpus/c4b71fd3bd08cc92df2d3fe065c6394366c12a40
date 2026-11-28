@@ -1,0 +1,3 @@
+#sheet v1
+D4 = 030 - --FALSE * 2.5
+D2 = AVERAGE(A2:D4, B3:A4)

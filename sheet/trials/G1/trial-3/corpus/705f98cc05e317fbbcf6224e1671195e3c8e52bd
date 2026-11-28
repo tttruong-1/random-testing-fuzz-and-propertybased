@@ -1,0 +1,2 @@
+#sheet v1
+B2 = LEN(A3:A1, (FALSE) * "") * --(-(FALSE + TRUE + FALSE < FALSE & FALSE / FALSE)) & -FALSE / C4 <> C3 + "m" / --SUM(TRUE < TRUE, FALSE & FALSE <> FALSE, C4:D4) * -MIN() * -CONCAT(B2:A4, C3:D2, FALSE * TRUE + -TRUE) + TRUE * --"v" + ---"R"

@@ -1,0 +1,3 @@
+#sheet v1
+D879 = 4.00
+B68 = -TRUE - FALSE - FALSE + --LEN(FALSE * FALSE * -TRUE * -TRUE / -5, WV4:SGND9, W83:T11)

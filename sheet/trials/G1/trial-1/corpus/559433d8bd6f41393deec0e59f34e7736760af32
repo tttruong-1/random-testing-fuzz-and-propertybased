@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+# a comment
+# a comment
+A4 = -----TRUE * COUNT(B1:A4, TRUE * TRUE == TRUE + TRUE + TRUE * FALSE, TRUE & TRUE < FALSE - FALSE, A3:D4) * MAX(D1:A2, -TRUE, FALSE + TRUE) * TRUE <= TRUE * -"tB"

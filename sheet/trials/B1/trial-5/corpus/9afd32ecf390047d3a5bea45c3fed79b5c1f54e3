@@ -1,0 +1,5 @@
+#sheet v1
+A1 = 1234.5678
+B1 =- ROUNDSUM, 2)
+B2 = ROUND(A1, -2)
+B3 	= ROUND(A1  0.5)

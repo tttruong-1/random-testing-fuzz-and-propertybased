@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+D4 = ----9 <= ----":" / -TRUE * "" / --TRUE - C1
+# a comment
+C1 = ---SUM(TRUE - TRUE < TRUE + FALSE, TRUE < FALSE) * -FALSE

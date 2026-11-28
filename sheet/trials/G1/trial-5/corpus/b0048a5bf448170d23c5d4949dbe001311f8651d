@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+
+C2 = COUNT(D1:C1) * -COUNT() + FALSE * --FALSE

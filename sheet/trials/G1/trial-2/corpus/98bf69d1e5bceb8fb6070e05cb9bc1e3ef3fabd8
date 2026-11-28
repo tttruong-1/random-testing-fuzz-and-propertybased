@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+
+B3 = IF(FALSE, FALSE, FALSE) / FALSE / FALSE / ---(FALSE + TRUE - FALSE & TRUE / TRUE) / 1.5 * "" + -FALSE

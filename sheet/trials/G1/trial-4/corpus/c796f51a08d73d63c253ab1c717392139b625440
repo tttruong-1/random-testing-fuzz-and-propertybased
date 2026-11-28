@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+
+B4 = TRUE * --TRUE / (---TRUE / FALSE * 5 / TRUE) * FALSE > ---COUNT(TRUE - FALSE, C1:B4, D3:B3)

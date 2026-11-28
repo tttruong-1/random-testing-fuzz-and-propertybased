@@ -1,0 +1,6 @@
+#sheet v1
+
+A4 = COUNT() - (TRUE * TRUE - -TRUE) + (TRUE * TRUE * FALSE & -TRUE * --FALSE) - FALSE + -A2 * TRUE / "wh" - -A3 / --6.59 & (679 <= "" / -B4 & FALSE) / --"" - COUNT(D2:C3, D1:A1, FALSE & FALSE * FALSE - FALSE - TRUE, B2:D3) + MIN(A4 >= -----TRUE, TRUE + -FALSE + -FALSE * 3 + ---FALSE & 5 * --TRUE <> TRUE / TRUE + FALSE - TRUE + TRUE / TRUE / TRUE * -FALSE / --FALSE - MIN(TRUE, TRUE), C3:D1)
+
+
+B4 = A1 / 9.18

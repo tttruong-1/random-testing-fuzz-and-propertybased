@@ -1,0 +1,8 @@
+#sheet v1
+A1 = 1
+A2 = TRUE
+A1 = 1
+A2 = TRUE
+BA3 = TRUE
+BA3 = TRUE
+BT(5, "x", 6)

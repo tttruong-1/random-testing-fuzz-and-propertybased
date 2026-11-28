@@ -1,0 +1,6 @@
+#sheet v1
+A1 = 2.5
+A2 = "total: " & A4
+A3 =  FALSE & "total: " & A4
+A3 =  FALSE & "!"
+JA8 = FALSE---LEN(A2)#she FALSE---"!"

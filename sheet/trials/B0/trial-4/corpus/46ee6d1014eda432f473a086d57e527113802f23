@@ -1,0 +1,5 @@
+#sheet v1
+
+A2 = ----TRUE
+B1 = COUNT(A1:Q3)
+#s

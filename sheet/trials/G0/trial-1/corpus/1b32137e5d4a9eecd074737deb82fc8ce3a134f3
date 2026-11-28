@@ -1,0 +1,3 @@
+#sheet v1
+
+TE41 = -(6.2) * AVERAGE(F1:YB194, FALSE <> --FALSE + -S7, AIZ2:C31) - FALSE * X240 <> TRUE

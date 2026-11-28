@@ -1,0 +1,10 @@
+#sheet v1
+CM2 = -00/0#e4aÿÿ:ÿÿÿA we1 = [2.75
+C2 = 1
+B1 = 2
+A20= 3
+B2 = 4
+C1 =MAX(A2:C1)
+D5 = MAX(A1:C2)
+W1 = ROUND(CB1, 9)
+CD4 = COUNT(C2:A2)

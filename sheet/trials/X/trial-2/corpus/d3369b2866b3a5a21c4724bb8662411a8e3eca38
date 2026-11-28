@@ -1,0 +1,3 @@
+#sheet v1
+A1 = 6989 >= -SUM(A3:A2)
+# a comment

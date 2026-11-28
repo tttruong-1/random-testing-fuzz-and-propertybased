@@ -1,0 +1,3 @@
+#sheet v1
+A4 = "E\\x6" * --(SUM(TRUE) / --(TRUE < FALSE - FALSE) + AVERAGE(FALSE >= TRUE, FALSE, TRUE) * 3 >= CONCAT(FALSE) / ----FALSE / -20 + "" / --TRUE * FALSE * -"" & ----FALSE * ---CONCAT() * -FALSE * (--TRUE)) == (TRUE & R177)
+

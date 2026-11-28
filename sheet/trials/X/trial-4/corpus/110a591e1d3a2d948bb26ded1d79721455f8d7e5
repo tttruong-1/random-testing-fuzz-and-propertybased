@@ -1,0 +1,3 @@
+#sheet v1
+
+A2 = AVERAGE(FALSE * TRUE + FALSE / FALSE / -FALSE & --FALSE & --TRUE) * SUM(D4 + ---TRUE * -(TRUE)) / 6

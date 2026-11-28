@@ -1,0 +1,4 @@
+#sheet v1
+1e"
+A2 . "banana"B21 = A1 < A2"apple"
+B1 = LEN(A2)B3 = LEN(A2) >= 6

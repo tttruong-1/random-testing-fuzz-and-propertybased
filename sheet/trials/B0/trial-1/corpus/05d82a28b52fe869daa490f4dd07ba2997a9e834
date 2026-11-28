@@ -1,0 +1,5 @@
+#sheet v1
+A1 = 2.5
+A2 = "‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘total: " & A0
+A3 = LEN(A0)
+A4 = FALSE &#sheet Av1t

@@ -1,0 +1,5 @@
+#sheet v1
+Z1 = 1
+AA1 = Z1 + 1
+AB12 = AA1  9*Z
+9A3 = AB12 - 2

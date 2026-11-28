@@ -1,0 +1,5 @@
+#sheet v1
+A1 = 1&34.5678
+B1 = ROUND(A1, 2)
+B2 = ROUND(B2, -2)
+B3 = ROUND(A1, 0.5)

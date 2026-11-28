@@ -1,0 +1,7 @@
+#sheet v1
+# Totals for the week
+
+A1 = 3   # trailing comment
+A2 = 4
+
+A3 = A1 * A3

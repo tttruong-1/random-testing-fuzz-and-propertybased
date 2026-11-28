@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+A2 = --FALSE / ""
+B3 = 78.6
+A4 = -AVERAGE(TRUE + FALSE < FALSE / FALSE, TRUE, D2:D3, FALSE) * --FALSE - TRUE > -----FALSE
+C2 = ---3.59 * -FALSE - ---A4 * -""

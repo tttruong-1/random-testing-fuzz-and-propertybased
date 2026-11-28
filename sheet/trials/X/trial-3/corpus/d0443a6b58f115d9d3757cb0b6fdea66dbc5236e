@@ -1,0 +1,4 @@
+#sheet v1
+D1 = -AVERAGE(C3:B4) / TRUE
+
+

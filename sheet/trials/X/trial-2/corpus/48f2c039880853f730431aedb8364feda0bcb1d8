@@ -1,0 +1,4 @@
+#sheet v1
+
+# a comment
+C1 = -LEN(--TRUE >= "", B4:D1, TRUE, TRUE, B1:D3) & -FALSE > (SUM() - TRUE * --TRUE / "" <= 6 & FALSE * -3) * -----TRUE / -ROUND(D1:A2) - -("" / ---FALSE - --0.4) & --B3 / -7 / -1 / -"T"

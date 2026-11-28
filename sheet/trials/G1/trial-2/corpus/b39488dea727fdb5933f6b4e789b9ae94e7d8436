@@ -1,0 +1,3 @@
+#sheet v1
+A2 = -LEN(A3:C4, A1:B4)
+

@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+# a comment
+B2 = --CONCAT(TRUE, C1:B3, D1:C3) / TRUE
+# a comment
+# a comment

@@ -1,0 +1,2 @@
+#sheet v1
+A2 = MIN(B1:D4, B1:D1, FALSE < FALSE) >= 58.411 & 2

@@ -1,0 +1,7 @@
+#sheet v1
+# a comment
+# a comment
+
+G49 = 8.1 == SUM(G68112:SH62, TRUE * FALSE)
+# a comment
+# a comment

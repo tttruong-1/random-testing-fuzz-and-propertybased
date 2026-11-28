@@ -1,0 +1,7 @@
+#sheet v1
+
+# a comment
+
+D3 = B2 / 3.14 * COUNT(B3:C2) - ---"" <= -(TRUE * TRUE + -FALSE - TRUE / --FALSE - "" / FALSE - --FALSE & "J" * FALSE)
+# a comment
+A1 = ROUND() & FALSE / -FALSE * (TRUE) * SUM() * -FALSE / -IF(FALSE) * --FALSE & TRUE & "" & -B1

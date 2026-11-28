@@ -1,0 +1,11 @@
+#sheet v1
+B2 = A1 >= -TRUE
+# a comment
+A1 = D2 & -FALSE / ---MIN() == (--TRUE) - ("" & -TRUE - COUNT(A1:C4) == --"e") - ""
+D3 = -----FALSE / -TRUE & TRUE * -D1 + -MIN(TRUE - TRUE & TRUE & FALSE * TRUE / -TRUE + ROUND(), TRUE - FALSE - TRUE + FALSE * FALSE * TRUE == FALSE / FALSE / -FALSE)
+
+C4 = -"" / FALSE & --00 + TRUE - --(FALSE > FALSE - FALSE) / -AVERAGE() / "Cjv" & ----"" / ---3168
+C1 = ---FALSE * --CONCAT(FALSE) & SUM() * (FALSE >= -TRUE) & -"" * "L9z" * FALSE - "F" * -FALSE
+
+
+

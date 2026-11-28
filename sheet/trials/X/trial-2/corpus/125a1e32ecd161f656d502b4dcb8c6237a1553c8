@@ -1,0 +1,5 @@
+#sheet v1
+D4 = " " * -D3 + FALSE >= 63.82 / (--COUNT()) * C1
+# a comment
+# a comment
+

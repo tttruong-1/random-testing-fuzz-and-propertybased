@@ -1,0 +1,4 @@
+#sheet v1
+A1 = -------CONCAT(D1:B2, TRUE, TRUE, FALSE) * "L9t"
+
+# a comment

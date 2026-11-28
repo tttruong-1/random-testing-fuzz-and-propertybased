@@ -1,0 +1,4 @@
+#sheet v1
+
+# a comment
+B1 = D1 >= ------"Qf" & D3 / -1

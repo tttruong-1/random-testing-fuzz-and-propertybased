@@ -1,0 +1,8 @@
+#sheet v1
+# a comment
+# a comment
+
+A4 = CONCAT(B2:D2)
+# a comment
+# a comment
+

@@ -1,0 +1,10 @@
+#sheet v1
+C3 = ---FALSE
+D1 = B2
+# a comment
+# a comment
+C4 = SUM(A2:B1, B4:C3, D2:B3, D3:D1, B1:D3)
+
+B2 = "" * -((TRUE) < TRUE & FALSE / FALSE * TRUE - FALSE * FALSE / TRUE / --FALSE)
+D3 = -(TRUE & FALSE + TRUE * FALSE >= FALSE) & MAX()
+

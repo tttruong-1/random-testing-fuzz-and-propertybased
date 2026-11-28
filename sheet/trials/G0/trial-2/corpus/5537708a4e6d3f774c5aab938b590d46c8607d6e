@@ -1,0 +1,2 @@
+#sheet v1
+H5 = -3.35 * AVERAGE(J73:S24, FALSE / TRUE / FALSE * -TRUE - "" >= -TRUE) / --COUNT(D5:W2) + -----""

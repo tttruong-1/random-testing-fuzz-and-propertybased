@@ -1,0 +1,2 @@
+#sheet v1
+A1 = -(AVERAGE(FALSE, A1:C1, TRUE)) + 682 / TRUE + ---(FALSE - TRUE / TRUE * 7 * 0 & 1 - -CONCAT(FALSE, TRUE) - -TRUE > --TRUE / CONCAT(TRUE, FALSE) / FALSE / TRUE) >= -FALSE / "ST" / -TRUE

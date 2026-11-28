@@ -1,0 +1,6 @@
+#sheet v1
+QZF6661 = FALSE + TRUE
+R6 = -FALSE - "v" * -(AVERAGE(O9:R9, TRUE, FALSE)) / -31.93 - -FALSE * --0.3 > ""
+
+
+# a comment

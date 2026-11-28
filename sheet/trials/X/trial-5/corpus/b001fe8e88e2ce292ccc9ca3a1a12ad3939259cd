@@ -1,0 +1,3 @@
+#sheet v1
+C3 = -FALSE & ----FALSE < 9 + "\t" / COUNT(C2:A2) & "\t"
+# a comment

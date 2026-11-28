@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+B4 = (TRUE / -TRUE / "" * -MAX() & ---FALSE) * FALSE & FALSE & (-"Y") - --AVERAGE() * FALSE * -07.33
+
+D4 = (LEN() * "" - -C4 <= --TRUE + ---TRUE) * --"R1:" * (--(FALSE + TRUE == FALSE + TRUE) >= --FALSE * CONCAT(B1:D1))
+

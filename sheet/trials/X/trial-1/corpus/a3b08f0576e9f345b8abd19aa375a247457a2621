@@ -1,0 +1,8 @@
+#sheet v1
+# a comment
+
+
+D1 = --FALSE * D4
+
+C2 = -CONCAT(A3:B4) + -(FALSE - FALSE & TRUE > TRUE + TRUE + FALSE * TRUE - TRUE / TRUE / FALSE) / LEN(B1:A4) + TRUE
+B3 = -70

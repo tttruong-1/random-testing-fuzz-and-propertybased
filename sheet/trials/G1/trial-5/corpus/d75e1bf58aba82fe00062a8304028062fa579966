@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+C1 = 884.8 * --SUM(FALSE * TRUE * -FALSE) / "Y" + FALSE * TRUE

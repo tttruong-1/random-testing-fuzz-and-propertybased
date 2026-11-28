@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+P620 = -(FALSE - (FALSE <> TRUE) * -TRUE * "") & QG8 & -M580 >= (FALSE * --(FALSE / TRUE) * -FALSE)
+T7 = CONCAT(MAX()) * --AVERAGE(FALSE & TRUE & -TRUE - -TRUE * --FALSE <> FALSE - --TRUE)
+# a comment

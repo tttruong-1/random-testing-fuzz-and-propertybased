@@ -1,0 +1,11 @@
+#sheet v1
+
+# a comment
+# a comment
+B4 = ""
+# a comment
+D2 = TRUE * "" / 2.462 / (-TRUE) * -(TRUE * TRUE * TRUE + --TRUE > FALSE) / -""
+
+C3 = -----FALSE - -COUNT() <= IF() * -CONCAT() / (FALSE - TRUE) * 5.9 & ---TRUE / "" / 1.11 - "s" / -MIN() / -A2
+D4 = AVERAGE() * D4 * -(FALSE) - FALSE * --SUM() - -TRUE / TRUE * TRUE <> ---TRUE + B3 / --"" / FALSE
+# a comment

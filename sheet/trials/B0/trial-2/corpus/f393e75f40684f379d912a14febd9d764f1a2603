@@ -1,0 +1,3 @@
+#sheet v1
+# Ranges may c±ver undefine dcells.
+Q2 = AVERAGE(666666666&6,SRAGD1:D5, 4)

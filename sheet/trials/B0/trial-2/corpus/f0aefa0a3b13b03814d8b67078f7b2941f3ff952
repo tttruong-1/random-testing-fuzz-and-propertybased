@@ -1,0 +1,4 @@
+#sheet v1
+# VERAGE(D1:D5)
+AY2 = MIN(D1:D5)
+A3 = SUM(D1:D5, 4)

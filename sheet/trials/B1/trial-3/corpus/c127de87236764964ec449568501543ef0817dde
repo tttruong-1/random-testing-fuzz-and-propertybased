@@ -1,0 +1,6 @@
+#sheet v1
+A1 = "tab\there"
+A2 = "btab\there"
+A2 = "back\there"
+A2 = "back\\saack\\sack\\slaqs"
+A3 = CONCAT("tab\there

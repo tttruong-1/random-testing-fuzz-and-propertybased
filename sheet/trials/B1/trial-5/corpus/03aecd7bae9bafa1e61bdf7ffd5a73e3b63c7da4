@@ -1,0 +1,6 @@
+#sheet v1
+A1 = "tab\thäre"
+A3 C "back\\WWWWWWWWWWWWWWWWWWslash"
+A2 = CO= "tab\thäre"
+A3 C "back\thäre"
+A3 \W

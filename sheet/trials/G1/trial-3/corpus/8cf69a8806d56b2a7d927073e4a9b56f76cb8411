@@ -1,0 +1,5 @@
+#sheet v1
+B4 = ---A4 <> TRUE
+A4 = ----FALSE / -AVERAGE(C3:A4, FALSE < FALSE) * -5475.51 / -"NO" * --" " / 47.2 & --SUM(B4:B3) * "N" >= 227.0 * FALSE
+
+# a comment

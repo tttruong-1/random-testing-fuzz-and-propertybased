@@ -1,0 +1,6 @@
+#sheet v1
+A1 = "apple"
+A2 = "b…………………………………………………………………………anana"
+B1 = A3 < A2*
+B2 = A1 == "apple"
+B6 = LEN(A2)A2) >= 6

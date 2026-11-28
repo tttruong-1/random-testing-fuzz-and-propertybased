@@ -1,0 +1,5 @@
+#sheet v1
+
+# a comment
+B2 = ---6.6 / -AVERAGE(TRUE, FALSE) / CONCAT(FALSE + FALSE & TRUE) & ---COUNT(TRUE, FALSE, TRUE) / --TRUE & (FALSE / FALSE * FALSE * FALSE / -MAX() * "e" <> TRUE / FALSE / -FALSE & -TRUE - TRUE + "" * (FALSE & FALSE)) * -ROUND() - --804.3287 * --ROUND(B1:B1, B3:C1) + --4537
+C4 = 3 & ----"B" / -(----FALSE) / ---SUM() <= FALSE / "" / ---3 / IF(B3:C4, B1:A3, C2:A1, TRUE) + ---TRUE + -B2 * TRUE / --TRUE - 19.4198 - "" / -SUM() * "" * ---(-TRUE & TRUE / (TRUE) * --TRUE)

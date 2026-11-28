@@ -1,0 +1,2 @@
+#sheet v1
+B3 = ROUND(C3:B2, TRUE - FALSE & TRUE) / ---TRUE * -LEN(-TRUE - CONCAT() >= TRUE * FALSE / -TRUE + (TRUE)) * FALSE / (TRUE == "G" / ---FALSE / FALSE / (TRUE / -TRUE / --TRUE + --FALSE == TRUE / -TRUE / -TRUE / -COUNT())) & --FALSE < -9005 * ---SUM() / -TRUE * -AVERAGE(-(TRUE > TRUE), ---TRUE * --4 > (TRUE) / B1, --FALSE * 6.1 == TRUE & 4)

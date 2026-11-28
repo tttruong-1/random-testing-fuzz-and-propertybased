@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+A1 = -258 * MAX(D4:A4)

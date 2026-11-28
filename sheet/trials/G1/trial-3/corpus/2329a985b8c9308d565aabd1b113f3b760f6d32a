@@ -1,0 +1,4 @@
+#sheet v1
+A2 = -MAX(TRUE & TRUE - FALSE * TRUE / FALSE & TRUE / FALSE * A4 & ROUND() <> FALSE / FALSE / TRUE / TRUE & D1 * -TRUE) / -SUM(-"" + FALSE <> CONCAT() + --FALSE / -D4, "" == TRUE * TRUE * ---TRUE, FALSE - TRUE * FALSE / TRUE & FALSE * --TRUE > FALSE & TRUE - -FALSE, A2:A4) * -B1
+B3 = TRUE - TRUE * FALSE * TRUE * (TRUE) - A2 & -0 + -FALSE & ---FALSE - FALSE & -A4 + -A4 * -TRUE - (-TRUE + FALSE * (TRUE)) / -(-FALSE < FALSE) * -A4 * -0.0 + --"" - -984 & ROUND(A1:D4) <= ---1.529
+

@@ -1,0 +1,4 @@
+#sheet v1
+# may cover undefined cells.
+A1 = AVERAGE(D1:D5)
+A2 = A3 < SUM(D1:D5, D1:D5, 4)

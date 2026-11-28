@@ -1,0 +1,3 @@
+#sheet v1
+D2 = "A3U" * (-TRUE <> --FALSE) * --(C4 * FALSE & -FALSE)
+C4 = D2 == TRUE / 9 / FALSE

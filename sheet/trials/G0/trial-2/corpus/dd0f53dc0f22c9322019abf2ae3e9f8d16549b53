@@ -1,0 +1,4 @@
+#sheet v1
+R330 = 8446 / TRUE * 1770
+# a comment
+MX2700 = --LEN(UQV4:UK5) * --TRUE >= TRUE / ---97

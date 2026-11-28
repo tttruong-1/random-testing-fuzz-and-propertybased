@@ -1,0 +1,5 @@
+#sheet v1
+D4 = TRUE * -7
+C2 = -TRUE + 5 <= FALSE * ----FALSE
+B3 = -0 & FALSE / "eM4" < 95 / FALSE * TRUE
+A2 = 9.19

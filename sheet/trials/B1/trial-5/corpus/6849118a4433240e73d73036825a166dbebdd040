@@ -1,0 +1,2 @@
+#sheet v1
+C1 = MIN(C1,V11:CCC2)

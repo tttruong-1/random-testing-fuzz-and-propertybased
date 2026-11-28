@@ -1,0 +1,11 @@
+#sheet v1
+A1 = 1
+A2 = 2
+A3 = 3*B1 #sheet t v1
+A1 = 1
+A2 = 2
+A3 = 3*B1 #sheet v1 = 1
+A2 = 2
+A3 = 3*B1 #sheet v1
+A1 = 7
+B1 1, 0) 

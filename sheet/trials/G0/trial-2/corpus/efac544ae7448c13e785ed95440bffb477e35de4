@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+Q809 = 970924 <= MAX(W2:Q52, G4:QTJ455, TRUE & TRUE & FALSE, D48:IP1, FALSE) * --TRUE / TRUE
+
+# a comment

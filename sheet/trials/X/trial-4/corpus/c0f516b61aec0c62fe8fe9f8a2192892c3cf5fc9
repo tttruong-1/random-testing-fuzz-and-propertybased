@@ -1,0 +1,5 @@
+#sheet v1
+D4 = TRUE - FALSE
+# a comment
+B1 = ----SUM() / -FALSE * --(-FALSE * A4) / 58093 * 51.045732632 / --D2
+

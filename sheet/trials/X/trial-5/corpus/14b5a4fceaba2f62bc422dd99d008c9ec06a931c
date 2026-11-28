@@ -1,0 +1,2 @@
+#sheet v1
+A1 = 97.2530 * "l" / --32.64 * -C1 / "" / (--D2 * --IF(C1:B3, B2:B4) + C2 <> --"Ni" * -FALSE + -D2 / -B2 * SUM(TRUE * FALSE)) > -B3 & -----FALSE

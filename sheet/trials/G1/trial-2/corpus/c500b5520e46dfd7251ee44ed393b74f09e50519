@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+C3 = -FALSE - --MIN(B1:D4, A1:D2, C3:A3) / MAX(-TRUE & TRUE / FALSE / FALSE / --FALSE & FALSE / 9 - (FALSE) <> -"" * ----FALSE, D2:D3, FALSE * -FALSE > -FALSE / --TRUE, FALSE * -TRUE, A3:B4, FALSE & TRUE <> FALSE, D4:B3, A4:A2, TRUE) * --"9"
+A4 = 0978 * (86.8 <> TRUE) > "L" * (-MIN(FALSE, FALSE) < -----TRUE & ---"" / "Y") * -ROUND()

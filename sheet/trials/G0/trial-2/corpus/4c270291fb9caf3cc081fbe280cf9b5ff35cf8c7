@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+MHZ14099 = 7 / 7 * --1.5 / TRUE * --LEN(T5:KG93) & TRUE <> --(LEN(FALSE)) - -FALSE * --""

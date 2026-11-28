@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+D3 = --B3 / -(B2 * -B3 <> "w") >= -------60 - MIN(A2:A1, FALSE * FALSE / -FALSE * (FALSE) * AVERAGE(TRUE) >= TRUE & FALSE & TRUE - -FALSE - LEN() & TRUE, C3:D2, -TRUE, A4:C3, FALSE - FALSE, D1:B4) * FALSE
+

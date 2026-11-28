@@ -1,0 +1,3 @@
+#sheet v1
+N63770 = 8 / -SUM(K862:V7, ER8:JT47, 4 - TRUE <> (TRUE == TRUE), FALSE / TRUE / FALSE - -FALSE) == --TRUE / SUM(F9:W52672) - TRUE * ---""
+

@@ -1,0 +1,3 @@
+#sheet v1
+
+JY47 = AVERAGE() * TRUE * "" > MAX()

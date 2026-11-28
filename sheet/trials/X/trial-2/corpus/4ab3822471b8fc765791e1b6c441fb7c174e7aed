@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+# a comment
+A4 = -FALSE & -8.0262 * TRUE + -A2 & A2 / CONCAT(A2:A2, D1:C2, B3:D4, FALSE + TRUE) - --"" & ----FALSE
+

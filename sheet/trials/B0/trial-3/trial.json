@@ -1,0 +1,18 @@
+{
+  "config_file": "configs/B0.toml",
+  "settings": {
+    "name": "B0",
+    "kind": "libfuzzer",
+    "trials": 5,
+    "duration_s": 1800,
+    "fuzzer": "build/fuzz/fuzz_sheet",
+    "covtrace": "build/covtrace/covtrace",
+    "seeds": "seeds",
+    "extra_args": [],
+    "generator": [],
+    "batch_size": 100
+  },
+  "trial": 3,
+  "started_at": 1795657435,
+  "fuzzing_s": 1805.7
+}

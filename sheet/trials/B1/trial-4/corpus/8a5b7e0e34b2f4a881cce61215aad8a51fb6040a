@@ -1,0 +1,4 @@
+#sheet v1
+A1 = "tab\tÿÿrffffffffffe"
+A6 = "back\\slash"
+A2 = CONCAT("line\n", "end")

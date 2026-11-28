@@ -1,0 +1,10 @@
+#sheet v1
+B1 = --C2
+# a comment
+D2 = -----B2 / -TRUE <> --"u" / AVERAGE() / --170 / A3 + ---FALSE * FALSE * -"" * TRUE
+A4 = --LEN(FALSE) / (IF()) * ----(TRUE - TRUE > FALSE - FALSE) / "3" / (TRUE * FALSE / -TRUE & -FALSE & (FALSE) + TRUE * AVERAGE() / (TRUE & TRUE) + "") & TRUE
+
+D4 = (TRUE * TRUE + TRUE * TRUE / -TRUE - -FALSE + TRUE / --FALSE * C1) / --(--TRUE >= TRUE + -TRUE + TRUE)
+# a comment
+B2 = LEN(A4:B4) & -FALSE / ----FALSE - TRUE / -83
+# a comment

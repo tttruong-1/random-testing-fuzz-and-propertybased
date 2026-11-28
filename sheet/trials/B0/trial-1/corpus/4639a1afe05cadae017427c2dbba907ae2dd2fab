@@ -1,0 +1,5 @@
+#sheet v1
+# Ranges may cover undefined cells.
+A2 = AVERAGE(D1:DccccccccccccccccccccccccccccccccccccccccAccccccccccccccccccccccccccccccccccccccccccccccccccccccc5)
+A2 = MINhD1:D5)
+A3 = SUM(D1:D5, 4)

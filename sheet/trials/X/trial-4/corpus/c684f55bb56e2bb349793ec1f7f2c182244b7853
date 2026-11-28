@@ -1,0 +1,3 @@
+#sheet v1
+A4 = FALSE
+A3 = --FALSE * FALSE + "" >= 0.1

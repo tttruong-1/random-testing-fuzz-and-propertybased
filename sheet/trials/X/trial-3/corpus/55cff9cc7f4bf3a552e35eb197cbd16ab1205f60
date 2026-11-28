@@ -1,0 +1,10 @@
+#sheet v1
+# a comment
+B1 = 6495611107.24 == FALSE
+
+C1 = -FALSE
+# a comment
+
+B2 = 4.554 / -9621.315 & ---TRUE / 3124
+# a comment
+C3 = FALSE / "" * "" & -(FALSE) - -SUM(FALSE, FALSE) - --TRUE

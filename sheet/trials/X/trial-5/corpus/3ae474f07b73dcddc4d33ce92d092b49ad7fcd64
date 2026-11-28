@@ -1,0 +1,4 @@
+#sheet v1
+
+A4 = COUNT(2, -TRUE + FALSE) - "" / COUNT(B2:B3, B3:B4)
+# a comment

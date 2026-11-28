@@ -1,0 +1,10 @@
+#sheet v1
+
+
+
+# a comment
+B2 = "o" / AVERAGE(--TRUE, TRUE, B1:D1, FALSE & TRUE) == TRUE * "" * ---(TRUE + TRUE / FALSE * FALSE) - (TRUE * COUNT(TRUE) <= --TRUE * "") * ---TRUE
+D1 = (TRUE * FALSE * -FALSE & "") / ---TRUE / ""
+
+B4 = -659
+A1 = ----TRUE & FALSE * 7.0 + -TRUE

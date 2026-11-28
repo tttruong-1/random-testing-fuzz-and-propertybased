@@ -1,0 +1,4 @@
+#sheet v1
+A2 = -78
+D2 = -A2 / ---"e" * COUNT(-7.1, B4:B3) / TRUE
+# a comment

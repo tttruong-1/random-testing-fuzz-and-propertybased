@@ -1,0 +1,3 @@
+#sheet v1
+A2 = -MAX(MAX(TRUE, TRUE) & -(TRUE) / --(FALSE) / FALSE, B3:D1) <= -3.7
+# a comment

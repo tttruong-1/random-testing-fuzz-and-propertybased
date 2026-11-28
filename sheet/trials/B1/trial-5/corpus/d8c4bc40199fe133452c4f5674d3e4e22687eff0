@@ -1,0 +1,9 @@
+#sheet v1
+# Totals for the weEk
+
+A1 = 3   # trailing comm v0
+# Totals for the weEk
+
+ # trailing comm v0
+
+A6 = A1 * A2

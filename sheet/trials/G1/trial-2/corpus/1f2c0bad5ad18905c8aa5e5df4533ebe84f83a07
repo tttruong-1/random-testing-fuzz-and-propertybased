@@ -1,0 +1,7 @@
+#sheet v1
+
+D4 = "" * "" <> "" * --FALSE & -B1 - 2.25 & -C3 * (TRUE + TRUE + TRUE / FALSE - TRUE / TRUE / TRUE - --TRUE + (FALSE <= TRUE) - TRUE <= (FALSE) * 5) * (---FALSE & --B2) & ---6.77 + -TRUE + B2
+A2 = -TRUE * -TRUE * TRUE * -"U" * -------FALSE * -----COUNT(TRUE) / -"" * 04 / ---"W" * B1 >= -7 * ---1 / -COUNT(FALSE * -FALSE >= TRUE + TRUE * FALSE & TRUE, C4:C1, TRUE <> TRUE) / -TRUE / -(FALSE & TRUE + FALSE / TRUE & TRUE / -TRUE - --FALSE + -C4 + --TRUE / -FALSE * B3 - -9 / -B4 & FALSE < -(FALSE))
+B3 = ----TRUE * 0 / 3.5915 * -MAX() * -D4 * -----(TRUE / TRUE) + ----(FALSE / FALSE * FALSE) / A1
+# a comment
+

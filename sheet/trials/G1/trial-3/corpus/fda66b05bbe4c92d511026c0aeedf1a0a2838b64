@@ -1,0 +1,5 @@
+#sheet v1
+
+# a comment
+C4 = -"" / --TRUE & --FALSE * "MP" + --(FALSE > TRUE) * -(TRUE - FALSE - TRUE * TRUE - FALSE * FALSE / TRUE) * 7.4 & --CONCAT(TRUE > FALSE, D4:A4) * -TRUE - -(FALSE * TRUE * TRUE <= -FALSE) / "" / MAX(B4:D1, TRUE > FALSE * FALSE) / 14.232 + -(TRUE * TRUE - FALSE * -TRUE + -TRUE & TRUE * FALSE / -FALSE * --FALSE * (TRUE) > TRUE / FALSE * FALSE + -FALSE & "" * 0.5) / FALSE * TRUE + ------(FALSE * FALSE)
+

@@ -1,0 +1,5 @@
+#sheet v1
+AC1 = SUM(A2:B1, 9)
+
+B2 = 4
+C1 = SUM(A2:B1, 9)

@@ -1,0 +1,5 @@
+#sheet v1
+C1 = --FALSE & TRUE < -A2 / MAX() * 87.2
+D3 = FALSE
+# a comment
+# a comment

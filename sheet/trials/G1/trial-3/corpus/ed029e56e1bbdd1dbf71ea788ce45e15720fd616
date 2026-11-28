@@ -1,0 +1,4 @@
+#sheet v1
+
+# a comment
+D2 = --8.7541 / --((TRUE + TRUE > FALSE) * (FALSE / TRUE <= TRUE))

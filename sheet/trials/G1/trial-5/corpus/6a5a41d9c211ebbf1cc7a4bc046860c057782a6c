@@ -1,0 +1,10 @@
+#sheet v1
+A4 = -"l" * -TRUE < -"B"
+
+A1 = ---AVERAGE(B1:B4, D3:B1) & CONCAT() / (C4 == 9.5 * FALSE * ROUND(C1:D4)) + IF(D2:D2, C2:B2) / -FALSE + -B1 * TRUE <> C3 * 4 * -TRUE * -MAX() * MAX(C1:A2, D4:B2)
+# a comment
+A1 = TRUE < "" - COUNT() * A3 * -IF() & ---801.1 * 9 + FALSE
+# a comment
+
+# a comment
+

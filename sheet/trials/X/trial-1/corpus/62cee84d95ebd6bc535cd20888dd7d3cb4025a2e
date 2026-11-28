@@ -1,0 +1,2 @@
+#sheet v1
+A4 = --CONCAT(A3:B1, A3:B1, TRUE, FALSE, TRUE) & -5380.5 * --(0.01 < --TRUE * ---FALSE / -TRUE) - --FALSE / ----CONCAT(A2:C4, C4:D4) - TRUE & 4.2 <= 2 / FALSE

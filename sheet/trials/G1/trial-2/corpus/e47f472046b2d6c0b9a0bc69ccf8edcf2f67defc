@@ -1,0 +1,3 @@
+#sheet v1
+A4 = -1 * MIN(A2:B1, D1:D3, FALSE, FALSE) * B4 * -LEN(FALSE / -TRUE / --TRUE) * TRUE & "" - (FALSE == FALSE * TRUE) / D4 / FALSE / ---FALSE / -(TRUE) / --(FALSE + -FALSE >= FALSE) * -B4 * ---"" * --FALSE
+

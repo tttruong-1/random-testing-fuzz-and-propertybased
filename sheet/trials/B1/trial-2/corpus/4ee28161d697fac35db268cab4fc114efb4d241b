@@ -1,0 +1,6 @@
+#sheet v1
+A1 = "ain"
+A2 = "plain"
+A2 = "say \"hÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿi\"\n"
+A3 = LEN(A1)
+A4 = CONCAT("a", "b")

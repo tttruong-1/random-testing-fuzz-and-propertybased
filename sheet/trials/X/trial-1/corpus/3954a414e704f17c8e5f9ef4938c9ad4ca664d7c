@@ -1,0 +1,8 @@
+#sheet v1
+
+A4 = TRUE == FALSE
+# a comment
+
+
+# a comment
+C4 = -CONCAT(FALSE == TRUE) - -FALSE * ----66.5

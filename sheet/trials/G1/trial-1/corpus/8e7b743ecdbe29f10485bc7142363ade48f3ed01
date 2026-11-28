@@ -1,0 +1,3 @@
+#sheet v1
+D2 = -MIN(A4:D1, A4:D1, TRUE, FALSE - FALSE / FALSE - TRUE / FALSE >= FALSE) / 23887
+# a comment

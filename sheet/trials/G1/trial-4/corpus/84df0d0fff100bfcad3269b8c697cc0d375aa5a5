@@ -1,0 +1,2 @@
+#sheet v1
+A3 = ---TRUE + "M9F" * ---CONCAT(B2:A3, FALSE / TRUE / -FALSE) * -COUNT(--TRUE / -FALSE / -8 * ---"", 6 & FALSE - ----FALSE, A4:C2, A4:D3, B2:C1, TRUE / FALSE <= TRUE, D2:B3, B3:B2, FALSE) > "s"

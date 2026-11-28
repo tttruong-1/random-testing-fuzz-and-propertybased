@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+D1 = -FALSE / COUNT(C2:B1) + "" - -(TRUE - TRUE + FALSE / FALSE * -TRUE + --FALSE & TRUE * -TRUE * TRUE * (FALSE == FALSE) & FALSE <= ---FALSE + --TRUE) / --62 / FALSE * D3
+

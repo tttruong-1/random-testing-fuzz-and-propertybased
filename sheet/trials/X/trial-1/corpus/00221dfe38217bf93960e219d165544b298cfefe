@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+D4 = ----"" / --CONCAT(A1:C3, A1:C4, FALSE * -FALSE, B2:C4, A1:C2, FALSE <> FALSE)
+C2 = 45 / --LEN(FALSE - (FALSE))

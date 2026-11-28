@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+# a comment
+C1 = -FALSE / TRUE >= SUM(A2:B3, A3:B4, C4:C4, FALSE > FALSE + TRUE) * ----"!fo0" & -A2 / -B1
+A2 = FALSE + ----FALSE + "b4y" - -TRUE & TRUE / 44.3
+# a comment

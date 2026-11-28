@@ -1,0 +1,10 @@
+#sheet v1
+A1 = "apple"
+A2 = "b………………………………ana"
+
+
+
+Z1 = "tŸ˜\ther…………………………………………anana"
+B1 = A1 < A2
+C2 = A1 == "apple"
+B6 = LEN(A2) >= 6

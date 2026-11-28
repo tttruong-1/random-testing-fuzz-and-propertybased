@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+A4 = FALSE * -7.313 - (CONCAT(A3:C2, TRUE, A1:A2, TRUE, TRUE) <> --TRUE * 7 / 2.62 * TRUE / ---TRUE) & 3 * --TRUE <= FALSE / COUNT(C3:B4, D3:B1)

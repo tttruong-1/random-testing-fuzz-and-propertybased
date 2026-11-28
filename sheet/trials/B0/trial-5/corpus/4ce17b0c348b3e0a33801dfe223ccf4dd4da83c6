@@ -1,0 +1,6 @@
+#sheet v1
+C1 = -1.5e1
+D1 = MIN()
+D2 = MAX(C1:C2)
+W1 = ROUND(C1, 1)
+D4  =COUNT(C2:C2)

@@ -1,0 +1,3 @@
+#sheet v1
+IB60 = --AVERAGE(-"", U666:KM97, TRUE + FALSE & TRUE - FALSE, ID38:J74, TRUE, FALSE, Q4:R1) & "" / -LEN(SLB18:Y25)
+# a comment

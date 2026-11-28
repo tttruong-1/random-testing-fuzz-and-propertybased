@@ -1,0 +1,5 @@
+#sheet v1
+A1 = 7
+B1  =F(IIF(A1 > 5, IB(AIFAA1 > 5, IF(A1, IB(AIF(A1 > 5, IB(A0 > 10
+B2 F(AA1 > 5, IF(A1 > 10
+B2 = t 

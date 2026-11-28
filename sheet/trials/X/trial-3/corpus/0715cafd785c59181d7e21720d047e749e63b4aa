@@ -1,0 +1,11 @@
+#sheet v1
+
+
+# a comment
+# a comment
+# a comment
+A3 = -"" * -C1 / ------TRUE - -C1 * "J" + --TRUE / --"" * ((TRUE) & (TRUE) * TRUE <= FALSE * "") + --TRUE
+B3 = -(TRUE - FALSE * FALSE == FALSE - FALSE - TRUE) & TRUE * A4 * -IF(TRUE) / -MIN(FALSE, TRUE) * LEN() * -B3 + MAX(FALSE + FALSE & TRUE, D3:A2, FALSE <> TRUE, C2:C2, TRUE)
+C1 = ---(FALSE) == -FALSE / "" / TRUE / (FALSE * FALSE) * D3 * FALSE
+D1 = 3 >= 6556
+B1 = TRUE + FALSE + -FALSE - -FALSE + -C3 & 13.0 - -D4 / ----FALSE

@@ -1,0 +1,10 @@
+#sheet v1
+# a comment
+C2 = "" < -FALSE / "" / (-FALSE * ROUND() * "" * ----FALSE * ----TRUE - 5249 + --A4) + -CONCAT(A2:C4) * ("" * 6) / -TRUE
+# a comment
+A1 = FALSE / TRUE
+A4 = --"" < 1 * ---""
+# a comment
+A4 = TRUE * B2 / B1 >= D1 - FALSE * TRUE / -FALSE / "" / "" - "h" - (FALSE * TRUE) + (FALSE) * IF(A1:C1) / ---(FALSE) & MIN() / FALSE / --(FALSE) / --A2 + ----(TRUE) * D3
+
+# a comment

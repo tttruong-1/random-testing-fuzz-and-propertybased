@@ -1,0 +1,5 @@
+#sheet v1
+B4 = --FALSE < FALSE
+# a comment
+B4 = ROUND(A4:D3) - -5 + --"" / 522 / ---(-FALSE == FALSE / FALSE / -FALSE - -FALSE * --FALSE / FALSE) - --"4" * -LEN() * FALSE * C3 >= (64 > 853.3 & "")
+# a comment

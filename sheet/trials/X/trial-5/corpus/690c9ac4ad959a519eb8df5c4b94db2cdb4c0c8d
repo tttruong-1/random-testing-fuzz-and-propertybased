@@ -1,0 +1,3 @@
+#sheet v1
+B2 = 6 * ---"12" & CONCAT() * -MIN(C1:A2, FALSE) * TRUE * -COUNT() / COUNT() / ----TRUE / AVERAGE(A2:C4, FALSE * TRUE * --TRUE) * -FALSE * ((FALSE) / ---FALSE & (FALSE - TRUE / FALSE < FALSE) & -C4 & --TRUE / --(TRUE) / FALSE / B1 - A2 > --TRUE / -SUM()) & -FALSE
+C1 = TRUE & -(-"V" + ---TRUE < ---FALSE / "") - (-D3 / (TRUE - TRUE & FALSE & FALSE <> TRUE & FALSE * TRUE * TRUE) / --MAX(B2:C4, TRUE) <= TRUE * IF() - -FALSE + 9 / MIN() - MIN() / D2 / ----FALSE / "s" - -"" * LEN(FALSE, TRUE) / (-FALSE <= FALSE * FALSE / TRUE) / -FALSE) * FALSE < --AVERAGE() & --------B4

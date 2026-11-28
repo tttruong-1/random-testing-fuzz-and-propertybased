@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+R7 = -LEN(-TRUE & --FALSE * "" * (TRUE) >= --TRUE * TRUE)

@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+
+
+
+A4 = --MAX(D4:D1, D3:A2, TRUE)

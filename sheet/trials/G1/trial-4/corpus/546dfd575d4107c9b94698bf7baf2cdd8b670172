@@ -1,0 +1,5 @@
+#sheet v1
+
+# a comment
+B3 = ---TRUE * -"" * "bP" * TRUE / LEN(B2:B3, TRUE, C2:D3, TRUE) / "" * -MAX(FALSE <> FALSE * FALSE, A4:A3, TRUE == FALSE, TRUE) * -MIN() - "" / FALSE + -TRUE
+# a comment

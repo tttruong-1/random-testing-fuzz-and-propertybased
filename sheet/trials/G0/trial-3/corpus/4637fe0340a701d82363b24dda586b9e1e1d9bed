@@ -1,0 +1,9 @@
+#sheet v1
+# a comment
+# a comment
+
+QD5 = --FALSE
+# a comment
+# a comment
+# a comment
+G92 = E99 * TRUE * -MAX(A5:O9, TRUE, TRUE) & ROUND(A2:D4, Z9:X9, FALSE, FALSE) / -TRUE

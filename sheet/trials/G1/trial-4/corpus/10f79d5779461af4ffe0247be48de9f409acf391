@@ -1,0 +1,4 @@
+#sheet v1
+B1 = TRUE >= --"M3"
+# a comment
+D1 = (--FALSE / TRUE / (FALSE & FALSE == FALSE + FALSE) / TRUE / ---(TRUE > FALSE)) - --FALSE >= FALSE / A3 * -D3 / FALSE / B3 * ----------TRUE + SUM() - -4.8 * -3

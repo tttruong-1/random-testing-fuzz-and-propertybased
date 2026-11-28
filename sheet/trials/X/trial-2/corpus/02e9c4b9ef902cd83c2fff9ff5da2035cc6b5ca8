@@ -1,0 +1,3 @@
+#sheet v1
+# a comment
+D3 = ---"" * -"!A" * -B3 - TRUE

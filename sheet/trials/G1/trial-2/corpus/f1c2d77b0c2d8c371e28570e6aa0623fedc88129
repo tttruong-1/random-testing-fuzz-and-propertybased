@@ -1,0 +1,8 @@
+#sheet v1
+# a comment
+
+B2 = --C1 - ---LEN() / ---TRUE & D1 * -IF() & "" * -(--"" > -"" * -97) & "z" * ---B4 / 2
+# a comment
+
+D3 = -TRUE & --FALSE / --"" * --5 + TRUE * -(TRUE) + --B2 & TRUE - "" / A3 * (TRUE * TRUE / -TRUE - TRUE / FALSE / -TRUE / -TRUE - B1 * "") * (TRUE / TRUE * TRUE / SUM() * 7 * CONCAT(TRUE) == -FALSE * TRUE * MAX() / SUM()) <> TRUE
+B3 = -FALSE * --TRUE / FALSE

@@ -1,0 +1,7 @@
+#sheet v1
+A/ = 1
+AD22 = 
+A23 =2
+A3 = 3
+B1 = SUM(A1:A6+
+B2 = AVER:AGE(A1:A3,1v:A3,v10)

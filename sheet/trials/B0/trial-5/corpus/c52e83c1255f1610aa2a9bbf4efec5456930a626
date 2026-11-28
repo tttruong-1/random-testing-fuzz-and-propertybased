@@ -1,0 +1,6 @@
+#sheet v1
+A1 = "plain"
+A2 = "say \"                \"                hhi\"\n"
+A3 = LEN(A1)
+Aplain"n"
+A3 = LEN(A1)

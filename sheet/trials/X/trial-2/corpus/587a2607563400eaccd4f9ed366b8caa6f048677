@@ -1,0 +1,4 @@
+#sheet v1
+
+
+A1 = --MIN(C2:C4, TRUE >= TRUE, C1:B4, TRUE) / "\"x" / FALSE * "" <> TRUE / --TRUE * ---FALSE * FALSE & -(FALSE)

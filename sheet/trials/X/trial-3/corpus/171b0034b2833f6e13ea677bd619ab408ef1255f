@@ -1,0 +1,13 @@
+#sheet v1
+D4 = ---FALSE / TRUE / ----TRUE * --FALSE / -TRUE + --71.91 * --C4 * "M" - TRUE / A1 & -D2 / "" + B2 - TRUE / -(--TRUE / ----FALSE * "0" <> -"" / B1 & -"" * -"") / C1 - COUNT() / FALSE * "g9" - B2 * (FALSE / (--FALSE + A4 <> FALSE / FALSE + FALSE + 8 - TRUE * -TRUE * MIN() / "") > -TRUE & TRUE) / COUNT() < ---B1 * ----8 / TRUE * -2 - TRUE / B1 / ---(-FALSE * 8.1 + FALSE / TRUE * --TRUE / FALSE / TRUE <= --FALSE - B4 / TRUE & B1 / -A3 / -MAX()) + -TRUE / -D4 / --"" & 472 / (-FALSE / -----FALSE / -D3 <= "") * -FALSE
+
+
+C4 = TRUE + -A4 * FALSE / -FALSE < IF(TRUE - TRUE * FALSE / FALSE) * A2 / FALSE
+A2 = --"" & -C2 / --TRUE + FALSE + ----FALSE + -TRUE - -7
+
+# a comment
+
+C2 = -"" - 32 * 5.7 + ---TRUE / -8
+# a comment
+B1 = (TRUE >= TRUE) - -TRUE * 9 / TRUE
+A1 = (TRUE <= FALSE) >= TRUE - TRUE * FALSE - -FALSE * FALSE - FALSE / ---TRUE

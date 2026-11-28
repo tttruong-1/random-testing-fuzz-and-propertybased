@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+B4 = TRUE >= TRUE
+
+B2 = -(SUM(FALSE) >= TRUE / FALSE / -TRUE + FALSE / -TRUE & FALSE / TRUE / -TRUE / FALSE) * -2.6068 * "bjPY" <= "\t4HQ" * --"T t"

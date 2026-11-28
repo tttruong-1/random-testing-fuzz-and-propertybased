@@ -1,0 +1,5 @@
+#sheet v1
+# Ranges may c±ver undefine dcells.
+Q2= MIN(D1:D5)
+AAA2 = MIN(D1:D5)
+A3 = SUM(D1:D5,SRAGD1:D5, 4)

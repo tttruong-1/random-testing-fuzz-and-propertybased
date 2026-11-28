@@ -1,0 +1,4 @@
+#sheet v1
+A1 = 7
+B1 = IF(A1 >  1, "small")
+B2 = I(F(A1 == 7, Y(F(A1o =  7, 1- 0)

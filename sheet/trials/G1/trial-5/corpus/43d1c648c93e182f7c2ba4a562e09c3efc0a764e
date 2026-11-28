@@ -1,0 +1,4 @@
+#sheet v1
+B3 = -"" == -MIN() * --AVERAGE(D1:B1, B2:D3, C2:C4) + TRUE / -----B4 / -FALSE / --MIN()
+# a comment
+C4 = --TRUE * -------FALSE + MAX() & --FALSE * --D2 - --"" * --ROUND(TRUE - TRUE) / (TRUE) / -(FALSE) & --FALSE * -"e" <= "" / -FALSE

@@ -1,0 +1,8 @@
+#sheet v1
+D4 = LEN(MIN() / A1 <= C1 * --1, -FALSE * 9 * "" <> FALSE, A2:D3, FALSE - FALSE / TRUE - TRUE / FALSE * FALSE <> FALSE * FALSE + FALSE / FALSE, C2:C2, TRUE & FALSE, D3:A4, FALSE, FALSE, FALSE) / (-LEN(FALSE == FALSE, C1:D1, FALSE, FALSE) / -FALSE) / --(TRUE + (FALSE) & (FALSE >= FALSE) * (TRUE - TRUE <> TRUE) / -MIN(TRUE, TRUE) + ROUND() + TRUE * TRUE) <= -B4 + "" * FALSE
+# a comment
+D1 = MIN() * -(FALSE / FALSE / TRUE / TRUE - FALSE * "" / -B2 + LEN(TRUE) * "!" - -IF(FALSE, FALSE) <> --TRUE * -7 * MIN(FALSE, TRUE) * (FALSE - FALSE / TRUE)) - FALSE
+D2 = ---"" / FALSE / -TRUE / ---(TRUE / FALSE & -FALSE) * FALSE - "!kv"
+# a comment
+
+D2 = -6.07311 > -FALSE

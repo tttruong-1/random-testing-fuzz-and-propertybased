@@ -1,0 +1,2 @@
+#sheet v1
+A3 = "8JFlU" <= ------AVERAGE(A2:D1, B2:B4, B3:D1, C4:D2, TRUE)

@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+D4 = ------LEN(FALSE, FALSE, FALSE) & ---TRUE * -288
+C3 = CONCAT(D1:D4, D4:A1, B2:B3) & (FALSE / FALSE - FALSE / TRUE * FALSE + --TRUE + FALSE * (FALSE) - (TRUE > FALSE) * ----TRUE + 989.07 >= (FALSE) + FALSE - TRUE * (FALSE) * --LEN() - MIN()) - -(-FALSE) * MIN(D2 == --FALSE / -TRUE) & -(TRUE / FALSE * --TRUE & ----TRUE & --9 + --FALSE <= ----FALSE / ---MAX()) == ---"QaOI" - (-FALSE * -FALSE - TRUE * FALSE * -TRUE * --TRUE * -AVERAGE() & ---TRUE * "r" & TRUE & "NH!") - "" * -A2 * FALSE / (FALSE & (-FALSE / -TRUE))
+# a comment

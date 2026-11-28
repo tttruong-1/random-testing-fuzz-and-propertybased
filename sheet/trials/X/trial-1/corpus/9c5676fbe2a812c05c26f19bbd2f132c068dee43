@@ -1,0 +1,5 @@
+#sheet v1
+D1 = ROUND(A4:A1, D3:B4) / FALSE * "" / C1 > ----AVERAGE(C4:D3, A4:C1, A4:D3)
+A4 = -((FALSE + FALSE >= FALSE / FALSE / FALSE) > "w" / ---TRUE & "") / -FALSE > 5878 * -(-FALSE * --FALSE / TRUE / "" / -B4) & -"" * -"" / 53
+C1 = TRUE == -----(TRUE * FALSE) & COUNT(B1:A1, A4:D3, D4:D3, A3:B4, D3:A3, FALSE) / TRUE + TRUE / ""
+

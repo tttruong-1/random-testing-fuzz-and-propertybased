@@ -1,0 +1,5 @@
+#sheet v1
+
+# a comment
+D1 = AVERAGE(FALSE, C2:B3)
+

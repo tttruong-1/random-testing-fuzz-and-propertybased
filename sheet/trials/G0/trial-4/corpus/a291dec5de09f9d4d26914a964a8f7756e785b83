@@ -1,0 +1,5 @@
+#sheet v1
+
+K6 = W8
+
+K2 = -FALSE - S9504 * TRUE + G89 - -(-TRUE * -TRUE + -IF() == -FALSE / -TRUE * -TRUE) / -TRUE - DD8

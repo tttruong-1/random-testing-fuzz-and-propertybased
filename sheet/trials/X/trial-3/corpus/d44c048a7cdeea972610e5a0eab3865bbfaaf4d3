@@ -1,0 +1,3 @@
+#sheet v1
+
+B4 = ((FALSE & TRUE & FALSE / FALSE) & -----TRUE / -"\\" & --MAX(TRUE) * TRUE >= FALSE / TRUE + 2 + D4 + TRUE * 2 * -B3 / D1 - FALSE + TRUE - TRUE * (-TRUE + --FALSE)) / -TRUE >= -"" + C2 / --(TRUE / TRUE * FALSE + --TRUE & TRUE / -FALSE * FALSE * --TRUE - B4 / ---FALSE + --FALSE / FALSE / -FALSE / -FALSE == -LEN()) / TRUE

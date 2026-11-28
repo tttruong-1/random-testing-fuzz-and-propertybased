@@ -1,0 +1,5 @@
+#sheet v1
+
+# a comment
+B4 = TRUE & TRUE / -FALSE * -3.9 / -"S "
+D1 = 5.2821 * 81 * "" * -FALSE / TRUE * -"" > (FALSE - FALSE > TRUE) * MIN(C4:C3) / ---(TRUE > TRUE) * 3822 / --ROUND(B4:D2, B4:A2, TRUE, TRUE, FALSE) / C3 + --62.420

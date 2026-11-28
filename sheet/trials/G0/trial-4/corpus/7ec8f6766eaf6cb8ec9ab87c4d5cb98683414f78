@@ -1,0 +1,3 @@
+#sheet v1
+N500 = -CONCAT(VF1:W80)
+L4 = "" * TRUE

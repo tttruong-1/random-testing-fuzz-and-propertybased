@@ -1,0 +1,5 @@
+#sheet v1
+
+
+B3 = -(FALSE + TRUE - FALSE * TRUE & FALSE / TRUE / -TRUE <> TRUE * TRUE + FALSE * TRUE * FALSE) / --05 / 9.8 / -"" / -8 * FALSE > -"a" / -C4 * 75 / --05
+D3 = FALSE == ----FALSE / 8.5 / LEN(TRUE + TRUE > FALSE) * -4.0 / "zQFq" + AVERAGE() * "" * -FALSE / -(--FALSE * -TRUE & -TRUE) - FALSE

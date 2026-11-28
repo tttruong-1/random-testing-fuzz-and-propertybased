@@ -1,0 +1,3 @@
+#sheet v1
+
+B1 = --MAX(C1:D3, D3:B4) / ----FALSE & "nW"

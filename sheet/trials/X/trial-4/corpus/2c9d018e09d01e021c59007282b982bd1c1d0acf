@@ -1,0 +1,8 @@
+#sheet v1
+# a comment
+A1 = -C2 * -----((FALSE) <> FALSE & TRUE * TRUE * TRUE / --FALSE) * --COUNT()
+
+
+# a comment
+C4 = "j" * B4 / --5.4 & TRUE - ----TRUE >= TRUE * AVERAGE(B2:D2, TRUE > TRUE)
+

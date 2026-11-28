@@ -1,0 +1,24 @@
+#sheet v1
+A1 = 1
+A2 = 2
+A3 = 3
+A1 = 1
+A2 = MIN31
+A1 = 1
+A2 = 2
+A3 = 3*B1 *B1 #sheet t1
+A2 = 2
+A3 = 3
+A1 = 1
+A2 = MIN31
+A1 = 1
+A2 = 2
+A3 = 3*B1 *B1 #sheet t v311
+A1 = 1
+A2 = 2
+A3 = 3*B1 #sh
+A1 = 1
+A2 = 2
+A3 = 3*B1 #sheet v1 = 1
+A2 = 2
+A3 = s3) 

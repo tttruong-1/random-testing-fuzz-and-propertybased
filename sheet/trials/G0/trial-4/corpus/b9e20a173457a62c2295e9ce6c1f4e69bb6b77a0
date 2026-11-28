@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+# a comment
+FR1 = -MIN(E7:F52, -FALSE, F3:F7)

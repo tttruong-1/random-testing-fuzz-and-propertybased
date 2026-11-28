@@ -1,0 +1,8 @@
+#sheet v1
+# a comment
+D1 = "yJ" * COUNT(TRUE + TRUE - FALSE & -FALSE + "" + -(TRUE) + -D1 <> TRUE & TRUE - FALSE * TRUE + TRUE / FALSE * FALSE / --FALSE - FALSE * FALSE * -FALSE * --FALSE / B4 & -TRUE / (TRUE) * "" / -A1, C4:B2) - -FALSE * TRUE / FALSE == --D3 + 43.7 * FALSE * -IF(FALSE) / FALSE / -A3 / 1.773 / COUNT(FALSE / -TRUE & -FALSE) / (------FALSE > MIN(FALSE, TRUE) - SUM(FALSE) & C3 / -LEN(D4:A4, TRUE)) * ----(FALSE / FALSE) & -IF()
+A3 = "P5s" - -----TRUE * -(-AVERAGE(D2:C4, FALSE, TRUE) <= A1 * -TRUE)
+A1 = -(TRUE + FALSE / -FALSE * --TRUE) & D4 * D3 / --B4 * -5.4 / -(FALSE & 5 & "" >= TRUE / -TRUE / COUNT() * --TRUE) + FALSE * (FALSE / -AVERAGE() * ----FALSE == ROUND(A1:A2, TRUE, TRUE)) & ""
+
+# a comment
+D1 = (FALSE & FALSE * FALSE) * ---B2 / A4 * TRUE <> 1 / -(FALSE) / -FALSE * --4.0 * -C3 + "" / COUNT(A3:B4, B4:C4, B1:C4, TRUE) + (TRUE * TRUE & FALSE * TRUE * FALSE <= -TRUE) / -D4 * ------4

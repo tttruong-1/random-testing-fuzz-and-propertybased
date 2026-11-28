@@ -1,0 +1,3 @@
+#sheet v1
+AA2  = COUNT(A2:A3)
+B2 = COUNT( 6)

@@ -1,0 +1,5 @@
+#sheet v1
+A1 = 2---2-FALSE
+A1 = 2-- "!"---2-FALSE &1
+A1 =1---2-FALSE & "!"-FALSE &1
+A1 =1---2-FALSE & "!"

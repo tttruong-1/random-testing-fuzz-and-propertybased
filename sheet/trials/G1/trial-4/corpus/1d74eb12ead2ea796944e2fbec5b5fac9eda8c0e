@@ -1,0 +1,12 @@
+#sheet v1
+A1 = "l" / -"" + -FALSE / -(B3 & -"") / -FALSE / D4
+# a comment
+
+# a comment
+C3 = -"T" / TRUE / -FALSE * D3 / MAX(-FALSE) >= -COUNT()
+
+# a comment
+# a comment
+D2 = 65 / D4 < "" - -FALSE / ----FALSE + C2
+# a comment
+D3 = TRUE / FALSE / FALSE / -FALSE - LEN() / -AVERAGE() + TRUE / LEN() * TRUE * FALSE == 5.9 * AVERAGE()

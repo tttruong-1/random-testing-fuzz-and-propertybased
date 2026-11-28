@@ -1,0 +1,3 @@
+#sheet v1
+C4 = A4 / --"" * A1 / SUM(B2:D1, ---TRUE * FALSE, A4:D3, -FALSE & TRUE * -FALSE) - ("" * (-FALSE) * B4 / TRUE) * "F"
+# a comment

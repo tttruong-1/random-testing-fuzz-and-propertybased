@@ -1,0 +1,5 @@
+#sheet v1
+# a comment
+D3 = "3" & FALSE * -TRUE - FALSE * FALSE / --FALSE * ----FALSE * (-FALSE / COUNT() & -FALSE * B3 / ---FALSE + FALSE * --B3 * TRUE - ----2 < 2 * -"" - TRUE / LEN() + "" / LEN(A3:A4) + -TRUE) & (-TRUE & -TRUE / -TRUE / -A2 / FALSE * A3 / FALSE & TRUE) + -FALSE > (TRUE + FALSE & TRUE + FALSE <> TRUE + FALSE & TRUE / FALSE + -FALSE) * B1 / -96 / --ROUND(FALSE) / ---D3 * 0.2 & --------TRUE + --(---FALSE & ----FALSE) / MAX() * --MAX()
+B2 = --8.0 * FALSE
+A1 = 60.4 / -LEN() <= FALSE + -FALSE / C4 + -FALSE * -FALSE / -FALSE + FALSE * B4 / -TRUE & (--TRUE & FALSE / ---FALSE - --ROUND(TRUE) + FALSE * -TRUE / 2.4 / IF(FALSE) * FALSE / ----(FALSE) == --FALSE / 7.7031)

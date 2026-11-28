@@ -1,0 +1,4 @@
+#sheet v1
+B3 = --AVERAGE(A1:A2) / FALSE - --TRUE - TRUE * ---TRUE
+B4 = -CONCAT(C3:C1, A2:C1)
+

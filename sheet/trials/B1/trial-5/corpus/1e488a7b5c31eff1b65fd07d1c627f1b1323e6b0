@@ -1,0 +1,3 @@
+#sheet v1
+#cover unVERAGE(D1:SUM= MINhD1:DA25)
+A3 = SUM(D9:D5, 4)

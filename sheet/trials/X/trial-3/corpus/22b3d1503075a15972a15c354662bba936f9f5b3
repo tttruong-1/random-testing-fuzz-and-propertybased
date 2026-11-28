@@ -1,0 +1,3 @@
+#sheet v1
+B3 = -FALSE & ---FALSE / --AVERAGE(FALSE <= FALSE + FALSE + FALSE * TRUE, TRUE - TRUE <= TRUE, FALSE <= FALSE, D4:A4) + -"" & -----FALSE - -"" + (--TRUE >= ---C2 / TRUE & ---(TRUE + TRUE & -TRUE <= TRUE - FALSE + FALSE - FALSE * -TRUE)) <> -MIN("m" + ---CONCAT() == (TRUE * FALSE < TRUE - TRUE + TRUE))
+

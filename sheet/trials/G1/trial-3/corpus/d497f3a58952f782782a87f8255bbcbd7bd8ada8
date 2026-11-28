@@ -1,0 +1,7 @@
+#sheet v1
+# a comment
+# a comment
+
+D1 = ----(FALSE <> TRUE) * B1 + ---B3 - --MAX() + -COUNT()
+# a comment
+

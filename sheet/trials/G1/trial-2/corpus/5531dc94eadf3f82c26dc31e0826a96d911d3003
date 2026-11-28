@@ -1,0 +1,4 @@
+#sheet v1
+A1 = -TRUE - --ROUND(B2:B3, A2:A3, FALSE, TRUE, TRUE) / FALSE / --4.2 * ---7 * --"" & -TRUE <= FALSE
+# a comment
+D1 = SUM() - "" * IF() / --A2 - "q5" <> -------TRUE / -ROUND(D1:A2) - -("" / ---(TRUE) - SUM(D1:B4, TRUE, TRUE))

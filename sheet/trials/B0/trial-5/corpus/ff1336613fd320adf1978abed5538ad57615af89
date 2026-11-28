@@ -1,0 +1,11 @@
+#sheet v1
+
+A1 = TRUE
+A2 = FALSE == A1
+A3 = "n=" #sheet v1
+A1 = TRUE
+AA1 = TRUE
+A2 = FALSE == A1
+A3 = "n=" #sheet v1
+A1 = TRUE
+A2 = F& 3

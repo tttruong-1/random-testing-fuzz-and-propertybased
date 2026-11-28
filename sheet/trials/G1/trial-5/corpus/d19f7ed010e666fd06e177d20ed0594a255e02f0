@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+B2 = B2 / 80.43
+A2 = (4 / B2 < FALSE + FALSE + FALSE * FALSE + -TRUE & FALSE / --FALSE - -TRUE / FALSE & --TRUE) * 66.462 * FALSE - ---(-TRUE - -TRUE)

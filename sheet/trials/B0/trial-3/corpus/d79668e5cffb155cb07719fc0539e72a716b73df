@@ -1,0 +1,7 @@
+#sheet v1
+A1 = 11
+B1 = 1
+A2 = 3
+B2 = 4
+S1 = MAX(A1:R2)
+C2 = MAX(A2:B1, 9)

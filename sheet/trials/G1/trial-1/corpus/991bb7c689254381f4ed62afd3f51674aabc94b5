@@ -1,0 +1,4 @@
+#sheet v1
+C3 = D3 / TRUE & FALSE / (TRUE / --(TRUE >= FALSE) / FALSE * -TRUE * TRUE / TRUE <= -CONCAT() / "" & --"8!") < ---C3 * 855 / -FALSE * -TRUE * --FALSE * (D3) * -FALSE * -TRUE
+
+

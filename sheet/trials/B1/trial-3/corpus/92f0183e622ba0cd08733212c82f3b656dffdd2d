@@ -1,0 +1,5 @@
+#sheet v1
+A1 = 12<4.5678
+B1 = ROUND(A1, 2)
+
+B3 = ROUND(A1, 0*0)

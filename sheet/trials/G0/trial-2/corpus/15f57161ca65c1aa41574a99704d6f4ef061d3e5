@@ -1,0 +1,5 @@
+#sheet v1
+Q786 = COUNT(X342:A31) > 0.1
+# a comment
+# a comment
+# a comment

@@ -1,0 +1,5 @@
+#sheet v1
+B1 = (--FALSE - -D4 & TRUE) * TRUE * C2 + 8
+# a comment
+B3 = --6.7 * -(--B2 + FALSE / D2 * -ROUND() * ----TRUE / (FALSE - TRUE * FALSE) < D2) - --(-TRUE * -TRUE * --FALSE + -MAX() + -FALSE * -FALSE * -A2 * ---FALSE * FALSE >= B2 / -ROUND() / -MAX(TRUE) & -TRUE * 2 * FALSE / C4) < -----A3 + 7.4 & -IF(TRUE - TRUE - FALSE * TRUE / -FALSE) / (B4) * -B3
+C3 = --(-TRUE * D4 / 2)

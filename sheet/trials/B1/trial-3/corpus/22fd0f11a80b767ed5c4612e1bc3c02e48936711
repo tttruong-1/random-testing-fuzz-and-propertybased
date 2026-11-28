@@ -1,0 +1,5 @@
+#sheet v1
+C1 = 2.75
+C2 = -1.5e1
+D1 = MIN()
+D4 = COUNT(C1:C2)

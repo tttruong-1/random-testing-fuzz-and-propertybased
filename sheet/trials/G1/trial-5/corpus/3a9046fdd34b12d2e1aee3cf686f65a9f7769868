@@ -1,0 +1,6 @@
+#sheet v1
+# a comment
+B2 = -553229.439 & "" / -"!"
+# a comment
+D2 = -6 & -D2 * COUNT(A2:C1, TRUE / FALSE <= TRUE * TRUE) * 8 * ---FALSE
+B3 = --(FALSE / FALSE < TRUE / TRUE) * ------TRUE * D2 + --FALSE

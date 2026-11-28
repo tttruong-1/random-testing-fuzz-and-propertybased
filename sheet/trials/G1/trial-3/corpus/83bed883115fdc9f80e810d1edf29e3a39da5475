@@ -1,0 +1,4 @@
+#sheet v1
+# a comment
+D3 = ------SUM(A2:C3, C1:D2, C1:C2, FALSE)
+# a comment

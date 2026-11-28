@@ -1,0 +1,9 @@
+#sheet v1
+C1= "two"
+A3 = TRUE
+B1 = 2.75
+C2 = -1.5e1
+D1 = MIN(C2, C2)
+D2 = MAX(C1:C2)
+D3 = ROUND(C1, 1)
+D4 = COUNT(C1:C2)

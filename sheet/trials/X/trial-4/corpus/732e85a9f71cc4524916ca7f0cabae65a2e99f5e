@@ -1,0 +1,4 @@
+#sheet v1
+A4 = ---COUNT(B1:A3, C3:D3) < "" & "6" * "" / ----(-"" / -TRUE)
+
+# a comment

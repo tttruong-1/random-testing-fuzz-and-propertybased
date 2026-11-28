@@ -1,0 +1,4 @@
+#sheet v1
+C5 = JP1817 * 5 * --SUM(FALSE & TRUE == TRUE / FALSE - TRUE, WO18:H9) / TRUE / C9 / ---FALSE
+
+O8 = -TRUE * -0 / ("o" / AVERAGE(FALSE) <= --"" - AVERAGE() / -CONCAT()) * (TRUE) & R8328 / ----"" * -------TRUE * 1.6585 / ----TRUE / -FALSE / -(-FALSE) < -W559
